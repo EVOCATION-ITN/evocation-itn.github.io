@@ -5,7 +5,7 @@ excerpt: "Advanced Visual and Geometric Computing for 3D Capture, Display, and F
 permalink: /
 header:
     overlay_image: /assets/images/header_wall.jpg
-    overlay_filter: 0.5
+    overlay_filter: 0.8
     cta_label: About
     cta_url: /about/
 feature_row:
