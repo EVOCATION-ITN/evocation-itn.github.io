@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "EVOCATION"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "EVOCATION"
+description              : "Marie Skłodowska Curie Actions Innovative Training Network"
 url                      : "https://evocation-itn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "EVOCATION Team"
+  name             : "EVOCATION"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Rostock, Germany"
-  email            :
+  bio              : "Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication"
+  location         : 
+  email            : evocation@uni-rostock.de
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
