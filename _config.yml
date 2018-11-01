@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication"
   location         : 
-  email            : evocation@uni-rostock.de
+  email            : oliver.staadt@uni-rostock.de
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
