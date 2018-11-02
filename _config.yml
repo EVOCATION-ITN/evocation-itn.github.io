@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "EVOCATION"
 title_separator          : "-"
-name                     : "EVOCATION"
+name                     : "EVOCATION MSCA-ITN"
 description              : "Marie Skłodowska Curie Actions Innovative Training Network"
 url                      : "https://evocation-itn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -284,7 +284,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
@@ -295,6 +295,6 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       
 github: [metadata]
