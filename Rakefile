@@ -1,3 +1,5 @@
+task :default => ["build:dev"]
+
 desc "Delete _site/"
 task :delete do
   puts "\## Deleting _site/"
