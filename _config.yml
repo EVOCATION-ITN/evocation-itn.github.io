@@ -298,3 +298,14 @@ defaults:
       author_profile: false
       
 github: [metadata]
+
+# Jekyll-Scholar settings
+# - https://github.com/inukshuk/jekyll-scholar
+scholar:
+  style: acm-siggraph
+  locale: en
+
+  sort_by: date
+  order: descending
+  bibliography_list_tag: ol
+  bibliography_template: bibliography
