@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "EVOCATION"
 title_separator          : "-"
-name                     : "EVOCATION MSCA-ITN"
-description              : "Marie Skłodowska Curie Actions Innovative Training Network"
+name                     : "EVOCATION: A MSCA-ITN"
+description              : "A Horizon 2020 Marie Skłodowska-Curie Actions Innovative Training Network"
 url                      : "https://evocation-itn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
