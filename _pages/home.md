@@ -35,5 +35,6 @@ Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication
 <!-- {: .text-center } -->
 
 **We will start recruiting for 2019 soon! Please check back for more information.**
+{: .notice--info}
 
 <!-- {% include feature_row %} -->
