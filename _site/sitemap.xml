@@ -14,6 +14,9 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/apply/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
@@ -76,5 +79,9 @@
 <url>
 <loc>http://localhost:4000/assets/documents/h2020-guide-appl-msca-itn_en.pdf</loc>
 <lastmod>2018-11-07T16:47:36+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/documents/surname_evocation_application_form.pdf</loc>
+<lastmod>2018-11-07T18:02:35+01:00</lastmod>
 </url>
 </urlset>

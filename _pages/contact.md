@@ -9,7 +9,7 @@ permalink: /contact/
 
 #### Email
 
-oliver.staadt@uni-rostock.de
+[evocation@uni-rostock.de](mailto:evocation@uni-rostock.de)
 
 #### Telephone
 
@@ -17,7 +17,9 @@ oliver.staadt@uni-rostock.de
 
 #### Address
 
-Institute of Compter Science\\
+EVOCATION ITN\\
+Prof. Dr. Oliver Staadt\\
+University of Rostock\\
 Albert-Einstein-Str. 22\\
 18051 Rostock\\
 Germany
