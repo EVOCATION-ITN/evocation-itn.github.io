@@ -95,7 +95,7 @@ row5:
 ---
 ## Open PhD Positions
 
-We are looking for **highly motivated candidates** for becoming the next generation of early-stage scientific and industrieal researchers (ESRs) who in the future will lead research and development of novel visual and geometric computing methodologies in the widest variety of applications, including industrial design and manufacturing, cultural heritage study and valorisation, geomatics, and tele-collaboration.
+We are looking for **highly motivated candidates** for becoming the next generation of early-stage scientific and industrial researchers (ESRs) who in the future will lead research and development of novel visual and geometric computing methodologies in the widest variety of applications, including industrial design and manufacturing, cultural heritage study and valorisation, geomatics, and tele-collaboration.
 
 We can offer you a **36-months PhD training program** coordinated among eight academic and industrial partners.
 
@@ -109,7 +109,7 @@ The host network includes prestigious institutions from accross Europe:
 
 ## Benefits
 
-**Training:** You will receive scientific skills in cutting-edge techniques focusing on translational science in expert laboratories, in a highly stimulating and collaborative environment. You will be involved in the particular project offered by the chosen hosting group. In addition, you will receive specialised courses involving business, OpenScience for OpenInnovation and entrepreneurship.  Transferable skills will be embedded throughout the project.   There will be opportunities for short term secondments in collaborative laboratories within the network.
+**Training:** You will receive scientific skills in cutting-edge techniques focusing on translational science in expert laboratories, in a highly stimulating and collaborative environment. You will be involved in the particular project offered by the chosen hosting group. In addition, you will receive specialised courses involving business, OpenScience for OpenInnovation and entrepreneurship.  Transferable skills will be embedded throughout the project. There will be opportunities for short term secondments in collaborative laboratories within the network.
 
 **PhD:** You will register in the Doctorate program in their host institution or associated University.
 Salary: You will receive a highly competitive salary according to Marie Skłodowska-Curie Actions rules. Exact salary will be calculated per country and will include living and mobility allowances.
