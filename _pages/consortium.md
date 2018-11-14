@@ -2,8 +2,6 @@
 title: "Consortium"
 permalink: /consortium/
 ---
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ICXd2BnkHTnuaw_Gvdp2KzK8rjFLexg6" width="640" height="480"></iframe>
-
 ## Consortium Participants
 
 - [University of Rostock](/consortium/uniro/) [UNIRO] (Coordinator)
@@ -25,3 +23,7 @@ permalink: /consortium/
 - Pázmány Péter Catholic University [PPKE]
 - Università di Pisa [UNIPI]
 - TU Darmstadt [TUD]
+
+## Where we are
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ICXd2BnkHTnuaw_Gvdp2KzK8rjFLexg6" width="640" height="480"></iframe>
