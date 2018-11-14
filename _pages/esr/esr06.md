@@ -1,6 +1,6 @@
 ---
 title: "ESR01"
-permalink: /recruitment/esr01/
+permalink: /recruitment/esr06/
 ---
 ## Foveated rendering for large-high-resolution displays
 

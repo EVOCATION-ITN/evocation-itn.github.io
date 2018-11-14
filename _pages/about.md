@@ -3,9 +3,7 @@ title: "About"
 author_profile: true
 permalink: /about/
 ---
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ICXd2BnkHTnuaw_Gvdp2KzK8rjFLexg6" width="640" height="480"></iframe>
-
-## About EVOCATION
+## About the Project
 
 EVOCATION is a leading European-wide doctoral Collegium for research in Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication. The Collegium will train the next generation of creative, entrepreneurial and innovative experts who will be equipped with the necessary skills and competences to face current and future major challenges in scalable and high-fidelity shape and appearance acquisition, extraction of structure and semantic information, processing, visualization, 3D display and 3D fabrication in professional and consumer applications. 
 

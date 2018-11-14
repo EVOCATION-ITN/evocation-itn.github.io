@@ -8,6 +8,9 @@ main:
   # - title: "Project"
   #   url: /project/
   
+  - title: "Consortium"
+    url: /consortium/
+
   # - title: "Team"
   #   url: /team/
   
@@ -17,8 +20,8 @@ main:
   # - title: "Publications"
   #   url: /publications/
   
-  # - title: "News"
-  #   url: /news/
+  - title: "News"
+    url: /news/
   
   - title: "Contact"
     url: /contact/

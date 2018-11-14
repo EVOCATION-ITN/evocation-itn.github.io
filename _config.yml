@@ -277,7 +277,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -289,9 +288,9 @@ defaults:
       author_profile: false
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
- # _pages
+  # _pages
   - scope:
       path: ""
       type: pages

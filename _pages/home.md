@@ -38,3 +38,11 @@ Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication
 {: .notice--info}
 
 <!-- {% include feature_row %} -->
+
+## Consortium Participants
+
+![Participants](/assets/images/participants.png){: .align-center}
+
+## Consortium Partner Organizations
+
+![Partner Organizations](/assets/images/partners.png){: .align-center}

@@ -1,19 +1,23 @@
 ---
-title: "ESR01"
+title: "Real-time acquisition for collaborative telepresence on LHDs"
 permalink: /recruitment/esr02/
 ---
-## Real-time acquisition for collaborative telepresence on LHDs
+## ESR02
 
 ### Objectives
 
-Work will be concerned with low-latency acquisition of RGB and RGB-D video streams to support a shared telepresence space for collaborative
-D6.3 exploration of models created in EVOCATION. Research will include efficient algorithms for view-dependent 3D video reconstruction, low-latency compression for LHDs and 3D displays.
+Work work for this fellowship will be concerned with low-latency acquisition of RGB and RGB-D video streams to support a shared telepresence space for collaborative exploration of models created in EVOCATION. Research will include efficient algorithms for view-dependent 3D video reconstruction, low-latency compression for LHDs and 3D displays.
 
-### Expected Results
+### Specific Requirements
 
-Scientific publications and prototype implementation of indoor capture and exploration systems.
+The position requirese prior knowlede in computer graphics, computer vision, or visual computing. Hence, the background needs to be a M.Sc. in Computer Science or a closely related field. Skills in programming (C/C++, Matlab, OpenGL, OpenCV) are required.
 
 ### Host Institution
 
 Supervisor: Prof. Oliver Staadt\\
-University of Rostock, Chair in Visual Computing
+[Chair in Visual Computing](https://vcg.informatik.uni-rostock.de)\\
+Faculty of Computer Science and Electrical Engineering\\
+University of Rostock\\
+Germany
+
+To apply for this ESR fellowship, please follow the instructions and return the completed [application form](/recruitment/apply/).
