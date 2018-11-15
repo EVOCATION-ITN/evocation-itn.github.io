@@ -6,8 +6,9 @@ permalink: /
 header:
     overlay_image: /assets/images/header_wall.jpg
     overlay_filter: 0.8
-    cta_label: About
-    cta_url: /about/
+    actions:
+      - label: "About"
+        url: /about/
 feature_row:
     - image_path: /assets/images/papers.jpg
       alt: "Publications"
