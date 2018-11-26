@@ -32,7 +32,7 @@ feature_row:
       btn_class: "btn--inverse"
       url: /teaching/
 ---
-Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication (EVOCATION) is a Marie Skłodowska-Curie Actions Innovative Training Network (MCSA-ITN) supported under the European Union’s Horizon 2020 Research and Innovation Program under Grant Agreement No 813170.
+Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication (EVOCATION) is a leading European-wide doctoral Collegium for research in Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication.
 <!-- {: .text-center } -->
 
 **We will start recruiting for 2019 soon! Please check back for more information.**
@@ -47,3 +47,6 @@ Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication
 ## Consortium Partner Organizations
 
 ![Partner Organizations](/assets/images/partners.png){: .align-center}
+
+![EU Emblem](/assets/images/flag_eu_150.jpg){: .align-left}
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813170.
