@@ -2,9 +2,7 @@
 title: "How to Apply"
 permalink: /recruitment/apply/
 ---
-The application form can be downloaded here:
-
-[EVOCATION Application Form](/assets/documents/surname_evocation_application_form.pdf)
+[EVOCATION ESR Candidate Application Form](/assets/documents/surname_evocation_application_form.pdf){: .btn .btn--info .btn--large}
 
 Follow the instructions in the PDF form and submit your completed application to [evocation@uni-rostock.de](mailto:evocation@uni-rostock.de?subject=EVOCATION: ESR Application)
 

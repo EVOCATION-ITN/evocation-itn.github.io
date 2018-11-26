@@ -93,6 +93,8 @@ row5:
       btn_class: "btn--inverse"
       url: /recruitment/esr14/
 ---
+[Apply Here](/recruitment/apply/){: .btn .btn--info .btn--large}
+
 ## Open PhD Positions
 
 We are looking for **highly motivated candidates** for becoming the next generation of early-stage scientific and industrial researchers (ESRs) who in the future will lead research and development of novel visual and geometric computing methodologies in the widest variety of applications, including industrial design and manufacturing, cultural heritage study and valorisation, geomatics, and tele-collaboration.
@@ -140,7 +142,7 @@ Candidates will be interviewed by teleconference or called to interview soon aft
 
 **The exact salary will be confirmed upon appointment** and is dependent on a predetermined country correction factor, includes living allowance basic gross salary. An approximate guide to salary:
 
-* Living allowance basic gross salary: approx. €3,2170 per month. This amount is adjusted through the application of a country correction coefficient to the living allowance of the country in which the researcher will be recruited.  Net salary results from deducting compulsory (employer/employee) social security contribution,as well as direct national and local taxes (e.g. income tax) from the gross amount.
+* Living allowance basic gross salary: approx. €3,2170 per month. This amount is adjusted through the application of a country correction coefficient to the living allowance of the country in which the researcher will be recruited.  Net salary results from deducting compulsory (employer/employee) social security contribution, as well as direct national and local taxes (e.g., income tax) from the gross amount.
 
 * Mobility allowance: €600 per month
 
