@@ -2,17 +2,23 @@
 title: "ESR01"
 permalink: /recruitment/esr13/
 ---
-## Foveated rendering for large-high-resolution displays
+## Perceptually accurate light-field display rendering
 
 ### Objectives
 
-In collaboration with UZH, the fellow will focus on developing adaptive acquisition and rendering methods for foveal Large High-Resolution Displays. Research questions will include new methods for dynamic camera and frustum selection, efficient data structures for foveal scene representations, and GPU-based RGB and RGB-D video stream processing.
+In collaboration with UNIRO, the fellow will go beyond the current state of applicability by way of the integration and distributed parallel implementation of industry standard scene-graph and real-time ray-tracing based rendering concepts, which were not originally designed for distributed concurrent rendering. Research questions will include how to improve throughput of such a system and how to apply, adapt and invent existing and novel rendering techniques for light field displays on GPU clusters.
 
 ### Expected Results
 
-Scientific publications, research reports, prototype implementation of a shared telepresence visualization space.
+Scientific publications, research reports, prototype implementation of an advanced light field rendering engine.
+
+### Specific Requirements
+
+The position requires prior knowledge in computer graphics. Hence, the background needs to be an M.Sc. in Computer Science or a closely related field. Skills in programming (C/C++ with MSVC and GCC toolsets, OpenGL or Direct3D, OpenCL or Cuda) are required. Proficiency with Linux operating systems and GPU clusters is an advantage.
 
 ### Host Institution
 
-Supervisor: Prof. Oliver Staadt\\
-University of Rostock, Chair in Visual Computing
+Supervisor: Attila Barsi, Lead Software Developer\\
+Tibor Balogh, CEO\\
+Holografika Ltd.\\
+Budapest, Hungary

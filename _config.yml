@@ -153,7 +153,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _posts
+  # - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -169,7 +169,6 @@ exclude:
   - CHANGELOG
   - config
   - Gemfile
-  - Gemfile.lock
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
@@ -179,8 +178,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -278,6 +275,12 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  news:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -298,6 +301,16 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: false
+      related: true
+      share: false
+
       
 github: [metadata]
 
@@ -311,3 +324,5 @@ scholar:
   order: descending
   bibliography_list_tag: ol
   bibliography_template: bibliography
+
+

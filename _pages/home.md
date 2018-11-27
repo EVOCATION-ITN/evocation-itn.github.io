@@ -4,7 +4,7 @@ layout: splash
 excerpt: "Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication - A Marie Skłodowska-Curie Actions Innovative Training Network (MCSA-ITN)"
 permalink: /
 header:
-    overlay_image: /assets/images/header_wall.jpg
+    overlay_image: /assets/images/header_terrain.jpg
     overlay_filter: 0.8
     actions:
       - label: "About"
