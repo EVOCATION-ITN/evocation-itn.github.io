@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://evocation.eu/evocation-started/</loc>
+<loc>https://evocation.eu/news/2018-10-01-evocation-started/</loc>
 <lastmod>2018-10-01T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>https://evocation.eu/_posts/2018-10-01-evocation-started/</loc>
-</url>
-<url>
-<loc>https://evocation.eu/news/</loc>
+<loc>https://evocation.eu/news/2018-11-27-test-post/</loc>
+<lastmod>2018-11-27T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>https://evocation.eu/about/</loc>
@@ -69,6 +67,9 @@
 </url>
 <url>
 <loc>https://evocation.eu/</loc>
+</url>
+<url>
+<loc>https://evocation.eu/news/</loc>
 </url>
 <url>
 <loc>https://evocation.eu/project/</loc>
