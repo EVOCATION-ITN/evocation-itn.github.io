@@ -5,97 +5,97 @@ classes: wide
 permalink: /recruitment/
 row1:
     - alt: "EVOCATION"
-      title: "ESR01"
-      excerpt: "**Foveated rendering for large-high-resolution displays** (University of Rostock, Germany)"
+      title: "Foveated rendering for large-high-resolution displays"
+      excerpt: "ESR01 (University of Rostock, Germany)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr01/
     - alt: "EVOCATION"
-      title: "ESR02"
-      excerpt: "**Real-time acquisition for collaborative telepresence on LHDs** (University of Rostock, Germany)"
+      title: "Real-time acquisition for collaborative telepresence on LHDs"
+      excerpt: "ESR02 (University of Rostock, Germany)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr02/
     - alt: "EVOCATION"
-      title: "ESR03"
-      excerpt: "**Scalable reconstruction and exploration of complex indoor environments** (CRS4, Italy)"
+      title: "Scalable reconstruction and exploration of complex indoor environments"
+      excerpt: "ESR03 (CRS4, Italy)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr03/
 row2:
     - alt: "EVOCATION"
-      title: "ESR04"
-      excerpt: "**Scalable exploration of complex objects and environments beyond plain visual replication** (CRS4, Italy)"
+      title: "Scalable exploration of complex objects and environments beyond plain visual replication"
+      excerpt: "ESR04 (CRS4, Italy)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr04/
     - alt: "EVOCATION"
-      title: "ESR05"
-      excerpt: "**Scalable geometry processing and 3D reconstruction** (University of Zurich, Switzerland)"
+      title: "Scalable geometry processing and 3D reconstruction"
+      excerpt: "ESR05 (University of Zurich, Switzerland)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr05/
     - alt: "EVOCATION"
-      title: "ESR06"
-      excerpt: "**Interactive and parallel visualization** (University of Zurich, Switzerland)"
+      title: "Interactive and parallel visualization"
+      excerpt: "ESR06 (University of Zurich, Switzerland)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr06/
 row3:
     - alt: "EVOCATION"
-      title: "ESR07"
-      excerpt: "**Multimodal and Flexible 3D Acquisition** (CNR, Italy)"
+      title: "Multimodal and Flexible 3D Acquisition"
+      excerpt: "ESR07 (CNR, Italy)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr07/
     - alt: "EVOCATION"
-      title: "ESR08"
-      excerpt: "**Geometry processing for 3D fabrication** (CNR, Italy)"
+      title: "Geometry processing for 3D fabrication"
+      excerpt: "ESR08 (CNR, Italy)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr08/
     - alt: "EVOCATION"
-      title: "ESR09"
-      excerpt: "**Alternative representations for processing and visualizing large captured data sets** (TU Wien, Austria)"
+      title: "Alternative representations for processing and visualizing large captured data sets"
+      excerpt: "ESR09 (TU Wien, Austria)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr09/      
 row4:
     - alt: "EVOCATION"
-      title: "ESR10"
-      excerpt: "**New paradigms for navigation in and interaction with large captured data sets** (TU Wien, Austria)"
+      title: "New paradigms for navigation in and interaction with large captured data sets"
+      excerpt: "ESR10 (TU Wien, Austria)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr10/
     - alt: "EVOCATION"
-      title: "ESR11"
-      excerpt: "**Standardizing optical material properties** (Fraunhofer IGD, Germany)"
+      title: "Standardizing optical material properties"
+      excerpt: "ESR11 (Fraunhofer IGD, Germany)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr11/
     - alt: "EVOCATION"
-      title: "ESR12"
-      excerpt: "**Color and translucency for fabrication** (Fraunhofer IGD, Germany)"
+      title: "Color and translucency for fabrication"
+      excerpt: "ESR12 (Fraunhofer IGD, Germany)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr12/
 row5:
     - alt: "EVOCATION"
-      title: "ESR13"
-      excerpt: "**Perceptually accurate light-field display rendering** (Holografika, Hungary)"
+      title: "Perceptually accurate light-field display rendering"
+      excerpt: "ESR13 (Holografika, Hungary)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr13/
     - alt: "EVOCATION"
-      title: "ESR14"
-      excerpt: "**Acquisition of complex and structured environments** (Gexcel, Italy)"
+      title: "Acquisition of complex and structured environments"
+      excerpt: "ESR14 (Gexcel, Italy)"
       btn_label: "Read More"
-      btn_class: "btn--inverse"
+      btn_class: "btn--info btn--small"
       url: /recruitment/esr14/
 ---
-[Apply Here](/recruitment/apply/){: .btn .btn--info .btn--large}
-
 ## Open PhD Positions
+
+[Apply Here](/recruitment/apply/){: .btn .btn--info .btn--x-large}
 
 We are looking for **highly motivated candidates** for becoming the next generation of early-stage scientific and industrial researchers (ESRs) who in the future will lead research and development of novel visual and geometric computing methodologies in the widest variety of applications, including industrial design and manufacturing, cultural heritage study and valorisation, geomatics, and tele-collaboration.
 
@@ -142,12 +142,11 @@ Candidates will be interviewed by teleconference or called to interview soon aft
 
 **The exact salary will be confirmed upon appointment** and is dependent on a predetermined country correction factor, includes living allowance basic gross salary. An approximate guide to salary:
 
-* Living allowance basic gross salary: approx. €3,2170 per month. This amount is adjusted through the application of a country correction coefficient to the living allowance of the country in which the researcher will be recruited.  Net salary results from deducting compulsory (employer/employee) social security contribution, as well as direct national and local taxes (e.g., income tax) from the gross amount.
-
+* Living allowance basic gross salary: approx. €3,2170 per month. This amount is adjusted through the application of a country correction coefficient to the living allowance of the country in which the researcher will be recruited.
 * Mobility allowance: €600 per month
-
 * Family allowance (if applicable): €500/month
-
 * Additional funding for participation to courses, workshops, conferences, etc. is available.
 
-You can find more details on the regulations in the [H2020 MSCA-ITN Guide for Applicants](/assets/documents/h2020-guide-appl-msca-itn_en.pdf).
+Net salary results from deducting compulsory (employer/employee) social security contribution, as well as direct national and local taxes (e.g., income tax) from the gross amount.
+
+<!-- You can find more details on the regulations in the [H2020 MSCA-ITN Guide for Applicants](/assets/documents/h2020-guide-appl-msca-itn_en.pdf). -->
