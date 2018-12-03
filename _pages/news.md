@@ -4,5 +4,6 @@ layout: collection
 permalink: /news/
 collection: news
 sort_by: date
-sort_order: reverse
+sort_order: reverse  
 ---
+{% twitter https://twitter.com/evocation_itn maxwidth=500 limit=5 %}

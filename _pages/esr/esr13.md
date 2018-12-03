@@ -1,8 +1,8 @@
 ---
-title: "ESR01"
+title: "Perceptually accurate light-field display rendering"
 permalink: /recruitment/esr13/
 ---
-## Perceptually accurate light-field display rendering
+## ESR13
 
 ### Objectives
 
@@ -22,3 +22,5 @@ Supervisor: Attila Barsi, Lead Software Developer\\
 Tibor Balogh, CEO\\
 Holografika Ltd.\\
 Budapest, Hungary
+
+To apply for this ESR fellowship, please follow the instructions and return the completed [application form](/recruitment/apply/).

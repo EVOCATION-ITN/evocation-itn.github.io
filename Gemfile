@@ -30,6 +30,7 @@ group :jekyll_plugins do
     gem "jekyll-include-cache"
     gem "jekyll-scholar"
     gem "jekyll-archives"
+    gem "jekyll-twitter-plugin"
 end
 
 gem "rake"

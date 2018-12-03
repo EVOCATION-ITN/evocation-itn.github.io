@@ -1,18 +1,27 @@
 ---
-title: "ESR01"
+title: "New paradigms for navigation in and interaction with large captured data sets"
 permalink: /recruitment/esr10/
 ---
-## Foveated rendering for large-high-resolution displays
+## ESR10
 
 ### Objectives
 
-In collaboration with UZH, the fellow will focus on developing adaptive acquisition and rendering methods for foveal Large High-Resolution Displays. Research questions will include new methods for dynamic camera and frustum selection, efficient data structures for foveal scene representations, and GPU-based RGB and RGB-D video stream processing.
+In collaboration with CNR, the fellow will investigate visualization methods that go beyond classic rendering. Large captured data sets are often cluttered with noise and have high depth complexity, making them hard to navigate and to visualize the desired objects of interest. Therefore, the candidate will explore new navigation modes, also in the context of novel display environments that help the user stay within the desired navigational area (which should be determined automatically, which is challenging for point clouds). The candidate will explore efficient and scalable methods to exploit transparency to obtain novel views of large, cluttered data sets, for example by intelligently peeling away layers of the data to see beyond walls and obstacles.
 
 ### Expected Results
 
-Scientific publications, research reports, prototype implementation of a shared telepresence visualization space.
+Research reports and internal prototype implementation, as well as published papers on statistical data representation for 3D data sets.
+
+### Specific Requirements
+
+The position requires prior knowlede in computer graphics, computer vision, or visual computing. Hence, the background needs to be a M.Sc. in Computer Science or a closely related field. Skills in programming (C/C++, Matlab, OpenGL) are required.
 
 ### Host Institution
 
-Supervisor: Prof. Oliver Staadt\\
-University of Rostock, Chair in Visual Computing
+Supervisor: Prof. Michael Wimmer\\
+Head of <a href="https://www.cg.tuwien.ac.at/renderinggroup/">Rendering and Modeling Group</a>
+<a href="https://www.informatik.tuwien.ac.at/fakultaet/institute/e193">Institute of Visual Computing & Human-Centered Technology</a>\\
+TU Wien\\
+Austria
+
+To apply for this ESR fellowship, please follow the instructions and return the completed [application form](/recruitment/apply/).

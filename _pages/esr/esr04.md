@@ -1,18 +1,24 @@
 ---
-title: "ESR01"
+title: "Scalable exploration of complex objects and environments beyond plain visual replication"
 permalink: /recruitment/esr04/
 ---
-## Foveated rendering for large-high-resolution displays
+## ESR04
 
 ### Objectives
 
-In collaboration with UZH, the fellow will focus on developing adaptive acquisition and rendering methods for foveal Large High-Resolution Displays. Research questions will include new methods for dynamic camera and frustum selection, efficient data structures for foveal scene representations, and GPU-based RGB and RGB-D video stream processing.
+In collaboration with TUW, the fellow will study modeling methods and interaction techniques for permitting exploration of high fidelity 3D models annotated with semantic (conceptual) information and with non-purely photorealistic representations. Researched topics will include information modeling, rendering methods, and user interfaces.
 
 ### Expected Results
 
-Scientific publications, research reports, prototype implementation of a shared telepresence visualization space.
+Scientific publications, research reports and internal prototype implementation of exploration methods for annotated models. 
 
 ### Host Institution
 
-Supervisor: Prof. Oliver Staadt\\
-University of Rostock, Chair in Visual Computing
+Supervisor: Dr. Enrico Gobbetti\\
+CRS4, Visual Computing
+
+### PhD-Granting Institution
+
+University of Cagliari
+
+To apply for this ESR fellowship, please follow the instructions and return the completed [application form](/recruitment/apply/).
