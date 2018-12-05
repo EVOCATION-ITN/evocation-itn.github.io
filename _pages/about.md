@@ -9,7 +9,7 @@ EVOCATION is a leading European-wide doctoral Collegium for research in Advanced
 
 ### Early-Stage Researchers
 
-The fellows are be early-stage scientific and industrial researchers (ESRs) who in the future will lead research and development of novel visual and geometric computing methodologies in the widest variety of applications, including industrial design and manufacturing, cultural heritage study and valorisation, geomatics, and tele-collaboration. 
+The fellows will be early-stage scientific and industrial researchers (ESRs) who in the future will lead research and development of novel visual and geometric computing methodologies in the widest variety of applications, including industrial design and manufacturing, cultural heritage study and valorisation, geomatics, and tele-collaboration. 
 
 ### Goals
 

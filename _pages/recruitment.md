@@ -101,7 +101,7 @@ We are looking for **highly motivated candidates** for becoming the next generat
 
 We can offer you a **36-months PhD training program** coordinated among eight academic and industrial partners.
 
-The host network includes prestigious institutions from accross Europe:
+The host network includes prestigious institutions from across Europe:
 
 {% include feature_row id="row1" %}
 {% include feature_row id="row2" %}
@@ -111,14 +111,15 @@ The host network includes prestigious institutions from accross Europe:
 
 ## Benefits
 
-**Training:** You will receive scientific skills in cutting-edge techniques focusing on translational science in expert laboratories, in a highly stimulating and collaborative environment. You will be involved in the particular project offered by the chosen hosting group. In addition, you will receive specialised courses involving business, OpenScience for OpenInnovation and entrepreneurship.  Transferable skills will be embedded throughout the project. There will be opportunities for short term secondments in collaborative laboratories within the network.
+**Training:** You will receive scientific skills in cutting-edge techniques focusing on translational science in expert laboratories, in a highly stimulating and collaborative environment. You will be involved in the particular project offered by the chosen hosting group. In addition, you will receive specialised courses involving business, Open Science for Open Innovation and entrepreneurship.  Transferable skills will be embedded throughout the project. There will be opportunities for short term secondments in collaborative laboratories within the network.
 
 **PhD:** You will register in the Doctorate program in their host institution or associated University.
-Salary: You will receive a highly competitive salary according to Marie Skłodowska-Curie Actions rules. Exact salary will be calculated per country and will include living and mobility allowances.
+
+**Salary:** You will receive a highly competitive salary according to Marie Skłodowska-Curie Actions rules. Exact salary will be calculated per country and will include living and mobility allowances.
 
 **Hosting conditions:** Each recruited student will have a supervisory team to develop training and career plans.
 
-## Elegibility Criteria
+## Eligibility Criteria
 
 Each applicant must fulfil the following criteria at the time of recruitment:
 
