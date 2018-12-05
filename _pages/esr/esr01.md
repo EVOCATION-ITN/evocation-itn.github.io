@@ -24,4 +24,4 @@ Faculty of Computer Science and Electrical Engineering\\
 University of Rostock\\
 Germany
 
-To apply for this ESR fellowship, please follow the instructions and return the completed [application form](/recruitment/apply/).
+[Apply Here](/recruitment/apply/){: .btn .btn--info }

@@ -21,4 +21,4 @@ CRS4, Visual Computing
 
 University of Cagliari
 
-To apply for this ESR fellowship, please follow the instructions and return the completed [application form](/recruitment/apply/).
+[Apply Here](/recruitment/apply/){: .btn .btn--info }

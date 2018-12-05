@@ -24,4 +24,4 @@ Head of <a href="https://www.cg.tuwien.ac.at/renderinggroup/">Rendering and Mode
 TU Wien\\
 Austria
 
-To apply for this ESR fellowship, please follow the instructions and return the completed [application form](/recruitment/apply/).
+[Apply Here](/recruitment/apply/){: .btn .btn--info }
