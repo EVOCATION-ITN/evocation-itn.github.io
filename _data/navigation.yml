@@ -8,15 +8,15 @@ main:
   # - title: "Project"
   #   url: /project/
   
+  - title: "Recruitment"
+    url: /recruitment/
+
   - title: "Consortium"
     url: /consortium/
 
   # - title: "Team"
   #   url: /team/
   
-  # - title: "Recruitment"
-  #   url: /recruitment/
-
   # - title: "Publications"
   #   url: /publications/
   

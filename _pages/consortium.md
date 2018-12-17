@@ -7,11 +7,11 @@ permalink: /consortium/
 - [University of Rostock](/consortium/uniro/) [UNIRO] (Coordinator)
 - [Center for Advanced Studies, Research and Development in Sardinia](/consortium/crs4/) [CRS4]
 - [University of Zürich](/consortium/uzh/) [UZH]
-- Consiglio Nazionale delle Ricerche [CNR]
-- Holografika [HOLO]
-- TU Wien [TUW]
-- Fraunhofer IGD [FHG-IGD]
-- Gexcel [GEXCEL]
+- [Consiglio Nazionale delle Ricerche](/consortium/cnr/) [CNR]
+- [Holografika](/consortium/holo/) [HOLO]
+- [TU Wien](/consortium/tuwien/) [TUW]
+- [Fraunhofer IGD](/consortium/igd/) [FHG-IGD]
+- [Gexcel](/consortium/gex/) [GEXCEL]
 
 ## Consortium Partners
 

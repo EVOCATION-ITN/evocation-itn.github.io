@@ -1,18 +1,25 @@
 ---
-title: "ESR01"
+title: "Geometry processing for 3D fabrication"
 permalink: /recruitment/esr08/
 ---
-## Foveated rendering for large-high-resolution displays
+## ESR08
 
 ### Objectives
 
-In collaboration with UZH, the fellow will focus on developing adaptive acquisition and rendering methods for foveal Large High-Resolution Displays. Research questions will include new methods for dynamic camera and frustum selection, efficient data structures for foveal scene representations, and GPU-based RGB and RGB-D video stream processing.
+Work on geometry-related problems in fabrication. The first objective is to create a framework that uses geometry analysis to extend 3D printing technology to a wider scale, for example automatizing manual processes used in the industry (such as the operations required for mold creation). Secondarily, the fellow will push the limit of the 3D printing technology creating novel and unexpected applications in material design.
 
 ### Expected Results
 
-Scientific publications, research reports, prototype implementation of a shared telepresence visualization space.
+Scientific publications and prototype implementation of methods for geometry processing for fabrication.
 
 ### Host Institution
 
-Supervisor: Prof. Oliver Staadt\\
-University of Rostock, Chair in Visual Computing
+Supervised by R. Scopigno and P. Cignoni\\
+CNR-ISTI\\
+Pisa, Italy
+
+### PhD Granting Institution
+
+University of Pisa
+
+[Apply Here](/recruitment/apply/){: .btn .btn--info }

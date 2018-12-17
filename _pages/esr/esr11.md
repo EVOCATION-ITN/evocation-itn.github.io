@@ -1,18 +1,21 @@
 ---
-title: "ESR01"
+title: "Standardizing optical material properties"
 permalink: /recruitment/esr11/
 ---
-## Foveated rendering for large-high-resolution displays
+## ESR11
 
 ### Objectives
 
-In collaboration with UZH, the fellow will focus on developing adaptive acquisition and rendering methods for foveal Large High-Resolution Displays. Research questions will include new methods for dynamic camera and frustum selection, efficient data structures for foveal scene representations, and GPU-based RGB and RGB-D video stream processing.
+Work on a standardized format for optical material properties, as an optional subset of a future consolidated 3D model format. Material properties data will be provided by different sources, e.g., CultLab3D. Contribution to development of optical material properties acquisition methods on large objects by identifying regions of interest and extrapolating class-based samples to various regions of similar class on the same object. Implementation of technologies for visualization of optical material properties over the web, fully supporting WEB3D/X3DOM and the standardized format to be developed using native graphics acceleration capabilities of individual end user devices.
 
 ### Expected Results
 
-Scientific publications, research reports, prototype implementation of a shared telepresence visualization space.
+Research reports and prototype implementation and published papers on optical material properties acquisition methods. Identification of suitable standardization bodies for the establishment of standardized consolidated 3D model format.
 
 ### Host Institution
 
-Supervisor: Prof. Oliver Staadt\\
-University of Rostock, Chair in Visual Computing
+Supervisor: P. Santos and M. Ritz\\
+Fraunhofer IGD\\
+Darmstadt, Germany
+
+[Apply Here](/recruitment/apply/){: .btn .btn--info }

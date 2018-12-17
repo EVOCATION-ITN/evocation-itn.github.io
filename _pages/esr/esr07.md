@@ -1,18 +1,25 @@
 ---
-title: "ESR01"
+title: "Multimodal and Flexible 3D Acquisition"
 permalink: /recruitment/esr07/
 ---
-## Foveated rendering for large-high-resolution displays
+## ESR07
 
 ### Objectives
-
-In collaboration with UZH, the fellow will focus on developing adaptive acquisition and rendering methods for foveal Large High-Resolution Displays. Research questions will include new methods for dynamic camera and frustum selection, efficient data structures for foveal scene representations, and GPU-based RGB and RGB-D video stream processing.
+ 
+ Work on acquisition and processing of multimodal data coming from different sources characterized by strong differences in data density, noise and level of detail. Data integration is a strong challenge, since most state-of-the-art approaches cannot be applied. The candidate will focus on automatic alignment and merging of different input (considering both shape-related and reflection-related data).  Flexible and easy to use methodologies for the acquisition of surface appearance will be devised. The proposed methods should be applied to real problems, with target areas Security/Monitoring and Cultural Heritage (including the use of UAVs).
 
 ### Expected Results
 
-Scientific publications, research reports, prototype implementation of a shared telepresence visualization space.
+Scientific publications and prototype implementation of methods for multimodal acquisition of geometry and reflectance.
 
 ### Host Institution
 
-Supervisor: Prof. Oliver Staadt\\
-University of Rostock, Chair in Visual Computing
+Supervised by R. Scopigno\\
+CNR-ISTI\\
+Pisa, Italy
+
+### PhD Granting Institution
+
+University of Pisa
+
+[Apply Here](/recruitment/apply/){: .btn .btn--info }

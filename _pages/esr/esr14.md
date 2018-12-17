@@ -1,18 +1,29 @@
 ---
-title: "ESR01"
+title: "Acquisition of complex and structured environments"
 permalink: /recruitment/esr14/
 ---
-## Foveated rendering for large-high-resolution displays
+## ESR14
 
 ### Objectives
 
-In collaboration with UZH, the fellow will focus on developing adaptive acquisition and rendering methods for foveal Large High-Resolution Displays. Research questions will include new methods for dynamic camera and frustum selection, efficient data structures for foveal scene representations, and GPU-based RGB and RGB-D video stream processing.
+In collaboration with FHG-IGD, will be involved in studying and developing an acquisition and reconstruction pipeline (mobile mapping instruments and processing software), focused on reconstruct 3D indoor geometries and to extract functional information from captured reality. The ESR initially will carry out the research of a reconstruction on different inputs separately (3D data and image), then will explore data fusion techniques to improve structure recovery. At the end of the educational path we envision the possibility of extending the results to different level of capturing (eg. objects and materials), as well as benefits for real-worldapplications such as BIM (building information model).
 
 ### Expected Results
 
-Scientific publications, research reports, prototype implementation of a shared telepresence visualization space.
+Scientific publications, research reports and advance prototype of software tools for reconstruction on different inputs separately (geometry and image). The candidate will aslo participate in the design of an integrated mobile acquisition prototype, consisting of a wearable mobile laser scanner initially coupled with a spherical camera.
+
+### Specific Requirements
+
+Advance knowledge of  C++, Object Oriented Programming(OPP), design patterns GOF. Knowledge of QT, and computer graphics e al. (such as OpenGL, OpeGL, OpenCV, boots, cuda). 
+
+Availability for long stays at UZH (data processing), and FHG-IGD (massive capture). Shorter visits at CRS4 (visualization), and CNR (geometry processing). Doctoral studies at UNICA.
 
 ### Host Institution
+Supervisor:  Prof. Giorgio Vasseno, CEO\\
+GEXCEL srl\\
+Brescia Italy, Cagliari  Italy
 
-Supervisor: Prof. Oliver Staadt\\
-University of Rostock, Chair in Visual Computing
+### PhD-Granting Institution
+University of Cagliari
+
+[Apply Here](/recruitment/apply/){: .btn .btn--info }

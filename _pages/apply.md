@@ -2,8 +2,12 @@
 title: "How to Apply"
 permalink: /recruitment/apply/
 ---
-[EVOCATION ESR Candidate Application Form](/assets/documents/surname_evocation_application_form.pdf){: .btn .btn--info .btn--large}
+[EVOCATION ESR Candidate Application Form](https://kontor.cg.tuwien.ac.at/evocation/){: .btn .btn--info .btn--large}{:target="_blank"}
 
-Follow the instructions in the PDF form and submit your completed application to [evocation@uni-rostock.de](mailto:evocation@uni-rostock.de?subject=EVOCATION: ESR Application)
+Follow the link above to submit your applciation. The application deadline is January 14, 2019.
+
+Please send an e-mail to [evocation@uni-rostock.de](mailto:evocation@uni-rostock.de?subject=EVOCATION: ESR Application) if you have any questions about the application process.
+
+<!-- Follow the instructions in the PDF form and submit your completed application to [evocation@uni-rostock.de](mailto:evocation@uni-rostock.de?subject=EVOCATION: ESR Application) -->
 
 <!-- Applications for ESR01 and ESR02 (University of Rostock, Germany) are required to also apply directly with the individual institution.  -->
