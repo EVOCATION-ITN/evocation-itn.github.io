@@ -137,7 +137,7 @@ Candidates will be interviewed by teleconference or called to interview soon aft
 
 ## Employment Details
 
-**Starting date:** Expected starting date is 1st April, 2019\\
+**Starting date:** Starting date is possible immediately\\
 **Contract duration:** 36 months\\
 **Benefits and salary:** Successful candidates will receive a competitive salary and employment benefits in accordance with the MSCA regulations for early stage researchers and the host country, respectively.
 
