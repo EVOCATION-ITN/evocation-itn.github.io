@@ -26,9 +26,9 @@ row2:
     - alt: "EVOCATION"
       title: "Scalable exploration of complex objects and environments beyond plain visual replication"
       excerpt: "ESR04 (CRS4, Italy)"
-      btn_label: "Read More"
+      btn_label: "Hiring Pending"
       btn_class: "btn--info btn--small"
-      url: /recruitment/esr04/
+      url: /recruitment/
     - alt: "EVOCATION"
       title: "Scalable geometry processing and 3D reconstruction"
       excerpt: "ESR05 (University of Zurich, Switzerland)"
@@ -57,16 +57,16 @@ row3:
     - alt: "EVOCATION"
       title: "Alternative representations for processing and visualizing large captured data sets"
       excerpt: "ESR09 (TU Wien, Austria)"
-      btn_label: "Read More"
+      btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/esr09/      
+      url: /recruitment/     
 row4:
     - alt: "EVOCATION"
       title: "New paradigms for navigation in and interaction with large captured data sets"
       excerpt: "ESR10 (TU Wien, Austria)"
-      btn_label: "Read More"
+      btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/esr10/
+      url: /recruitment/
     - alt: "EVOCATION"
       title: "Standardizing optical material properties"
       excerpt: "ESR11 (Fraunhofer IGD, Germany)"
