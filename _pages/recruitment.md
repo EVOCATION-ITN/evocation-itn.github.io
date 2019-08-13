@@ -83,9 +83,9 @@ row5:
     - alt: "EVOCATION"
       title: "Perceptually accurate light-field display rendering"
       excerpt: "ESR13 (Holografika, Hungary)"
-      btn_label: "Read More"
+      btn_label: "Hiring Pending"
       btn_class: "btn--info btn--small"
-      url: /recruitment/esr13/
+      url: /recruitment/
     - alt: "EVOCATION"
       title: "Acquisition of complex and structured environments"
       excerpt: "ESR14 (Gexcel, Italy)"
