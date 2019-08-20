@@ -32,15 +32,15 @@ row2:
     - alt: "EVOCATION"
       title: "Scalable geometry processing and 3D reconstruction"
       excerpt: "ESR05 (University of Zurich, Switzerland)"
-      btn_label: "Read More"
+      btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/esr05/
+      url: /recruitment/
     - alt: "EVOCATION"
       title: "Interactive and parallel visualization"
       excerpt: "ESR06 (University of Zurich, Switzerland)"
-      btn_label: "Read More"
+      btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/esr06/
+      url: /recruitment/
 row3:
     - alt: "EVOCATION"
       title: "Multimodal and Flexible 3D Acquisition"
