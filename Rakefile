@@ -19,7 +19,7 @@ namespace :build do
   task :dev do
     puts "\n##  Starting Jekyll"
     pids = [
-      spawn("jekyll serve -w")
+      spawn("bundle exec jekyll serve -w")
     ]
 
     trap "INT" do
@@ -35,7 +35,7 @@ namespace :build do
   desc "Build _site/ for production"
   task :pro do
     puts "\n## Building Jekyll to _site/"
-    status = system("jekyll build")
+    status = system("bundle exec jekyll build")
     puts status ? "Success" : "Failed"
   end
 end
