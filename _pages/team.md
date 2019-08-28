@@ -185,7 +185,7 @@ permalink: /team/
           Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
           </h4>						
         </th>
-        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</th>
+        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</th>
     </tr>
 
 </thead>		
@@ -235,7 +235,7 @@ permalink: /team/
           Webpage: <a href="http://vcg.isti.cnr.it">http://vcg.isti.cnr.it</a>	
           </h4>						
         </th>
-        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</th>
+        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;</th>
     </tr>
 
 </thead>		
