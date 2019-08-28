@@ -42,29 +42,6 @@ permalink: /team/
   </tbody>
 </table>
 -->
-
-<!-- <table>
-  <thead>
-    <tr>
-      <th id="Photo_cell"> <img src="/assets/images/flag_eu_150.jpg" alt="Oliver Staadt"> </th>
-      <th id="Info_cell"> 
-      <p>Oliver Staadt</p>
-      <p>EVOCATION Project coordinator and project leader</p> 
-      Affiliation: University of Rostock (UROS)
-
-  Phone: +49 381 4987480
-
-  Fax:	+49 381 4987482
-
-  Email:  [oliver.staadt@uni-rostock.de](mailto:oliver.staadt@uni-rostock.de)
-
-  Website: [https://vcg.informatik.uni-rostock.de](https://vcg.informatik.uni-rostock.de)
-      </th>
-    </tr>
-  </thead>
-</table>
--->
-
 <table>
 	<thead>		
 	<tr>
@@ -72,7 +49,6 @@ permalink: /team/
 						<img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
 		</th>
 		<th id="staff_info_cell">
-			<div id="staff_info">
           <h2>Oliver Staadt</h2>									
           Project coordinator and project leader
           <h4>Project coordinator and project leader
@@ -87,7 +63,6 @@ permalink: /team/
           <br>
           Webpage: <a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>	
           </h4>						
-        </div>
         </th>
     </tr>
 
