@@ -95,7 +95,7 @@ permalink: /team/
                 </p>
 				<p> 
                 Email:
-                <a href="mailto:oliver.staadt@uni-rostock.de">mailto:oliver.staadt@uni-rostock.de</a>	
+                <a href="mailto:oliver.staadt@uni-rostock.de">oliver.staadt@uni-rostock.de</a>	
                 </p>
                 <p>
                 Webpage:
