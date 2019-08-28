@@ -73,9 +73,9 @@ permalink: /team/
 		</th>
 		<th id="staff_info_cell">
 			<div id="staff_info">
-                    Oliver Staadt									
+                    <h3>Heading 3</h3>Oliver Staadt									
                     <br>
-                    Project coordinator and project leader														
+                    <h3>Heading 4</h3>Project coordinator and project leader														
                 <div id="staff_data">
                 <p>
                 Affiliation:
@@ -107,8 +107,8 @@ permalink: /team/
 
 ### Oliver Staadt
 
-<img src="/assets/images/flag_eu_150.jpg" alt="Oliver Staadt">
-![EU Emblem](/assets/images/flag_eu_150.jpg){: .align-left}
+<img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
+![EU Emblem](/assets/images/staadt.jpg){: .align-left}
   EVOCATION Project coordinator and project leader
 
   Affiliation: University of Rostock (UROS)
