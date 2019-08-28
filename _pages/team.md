@@ -73,9 +73,8 @@ permalink: /team/
 		</th>
 		<th id="staff_info_cell">
 			<div id="staff_info">
-          <h3>Oliver Staadt									
-          <br>
-          Project coordinator and project leader
+          <h2>Oliver Staadt</h2>									
+          <h3>Project coordinator and project leader
           </h3>
           <h4>Project coordinator and project leader
           <br>														
