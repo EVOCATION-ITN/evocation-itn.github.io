@@ -76,11 +76,11 @@ permalink: /team/
                 <div id="staff_id">
                     <p>
                     <span id="staff_name">
-                    Oliver Staady									
+                    Oliver Staadt									
                     </span>
                     </p>
-                    <p>
-                    EVOCATION Project coordinator and project leader</p>														
+                    <br>
+                    EVOCATION Project coordinator and project leader														
                 </div>
                 <div id="staff_data">
                 <p>
