@@ -71,48 +71,42 @@ permalink: /team/
 	   <th id="photo_cell">
 						<img src="images/renato_pajarola.JPG"  alt="Renato Pajarola" />
 		</th>
-
 		<th id="staff_info_cell">
-						<div id="staff_info">
-							<div id="staff_id">
-								<p>
-									<span id="staff_name">
-										Renato Pajarola									</span>
-								</p>
-
-								<p>
-									DIVA Project Head								</p>														
-							</div>
-							
-							<div id="staff_data">
-								<p>
-									Affiliation:
-									Universität Zürich (UZH)								</p>	
-								
-																
-									<p>
-										Phone: 
-										+41 44 635 4370									</p>
-
-									<p>
-										Fax:				
-										 - 									</p>
-
-																
-								<p>
-									Email:
-									<img class="email" src="tmp/112097106097114111108097064105102105046117122104046099104.png" />	
-								</p>
-								
-								<p>
-									Webpage:
-									 <a href="http://www.ifi.uzh.ch/vmml.html">http://www.ifi.uzh.ch/vmml.html</a>								</p>
-							</div>
-						</div>
-					</th>
-				</tr>
-                </thead>			
-			</table>
+			<div id="staff_info">
+                <div id="staff_id">
+                    <p>
+                    <span id="staff_name">
+                    Renato Pajarola									
+                    </span>
+                    </p>
+                    <p>
+                    DIVA Project Head								
+                    </p>														
+                </div>
+                <div id="staff_data">
+                <p>
+                Affiliation:
+                Universität Zürich (UZH)								
+                </p>	
+                <p>
+                Phone: +41 44 635 4370									
+                </p>
+                <p>
+                Fax:
+                </p>
+				<p>
+                Email:
+                <img class="email" src="tmp/112097106097114111108097064105102105046117122104046099104.png" />	
+                </p>
+                <p>
+                Webpage:
+                <a href="http://www.ifi.uzh.ch/vmml.html">http://www.ifi.uzh.ch/vmml.html</a>							</p>
+                </div>
+            </div>
+        </th>
+    </tr>
+</thead>			
+</table>
 
 
 
