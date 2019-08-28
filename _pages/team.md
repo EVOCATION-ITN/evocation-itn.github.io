@@ -10,17 +10,32 @@ permalink: /team/
 
 - Oliver Staadt
 
-EVOCATION Project coordinator and project leader
+  EVOCATION Project coordinator and project leader
 
-Affiliation: University of Rostock
+  Affiliation: University of Rostock (UROS)
 
-Phone: +49 381 4987480
+  Phone: +49 381 4987480
 
-Fax:	+49 381 4987482
+  Fax:	+49 381 4987482
 
-Email:  [oliver.staadt@uni-rostock.de](mailto:oliver.staadt@uni-rostock.de)
+  Email:  [oliver.staadt@uni-rostock.de](mailto:oliver.staadt@uni-rostock.de)
 
-Website: [https://vcg.informatik.uni-rostock.de](https://vcg.informatik.uni-rostock.de)
+  Website: [https://vcg.informatik.uni-rostock.de](https://vcg.informatik.uni-rostock.de)
+
+- Renato Pajarola
+
+  Project leader
+
+  Affiliation: Universität Zürich (UZH)
+
+  Phone: +41 44 635 4370
+
+  Fax:
+
+  Email: [pajarola@ifi.uzh.ch](mailto:pajarola@ifi.uzh.ch) 
+
+  Website: [http://www.ifi.uzh.ch/vmml.html] (http://www.ifi.uzh.ch/vmml.html)
+
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
