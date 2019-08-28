@@ -65,7 +65,7 @@ permalink: /team/
 </table>
 -->
 
-<table border="1">
+<table>
 	<thead>		
 	<tr>
 	   <th id="photo_cell">
@@ -78,10 +78,8 @@ permalink: /team/
                     <h4>Project coordinator and project leader</h4>														
                 <div id="staff_data">
                 <h4>Affiliation:
-                University of Rostock (UROS)</h4>
-                <p>
-                Phone: +49 381 4987480									
-                </p>
+                University of Rostock (UROS)
+                Phone: +49 381 4987480</h4>
                 <p>
                 Fax: +49 381 4987482
                 </p>
