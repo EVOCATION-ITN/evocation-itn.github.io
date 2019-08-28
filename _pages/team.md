@@ -79,6 +79,7 @@ permalink: /team/
                 <div id="staff_data">
                 <h4>Affiliation:
                 University of Rostock (UROS)
+                <br>
                 Phone: +49 381 4987480</h4>
                 <p>
                 Fax: +49 381 4987482
