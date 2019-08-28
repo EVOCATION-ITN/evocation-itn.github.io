@@ -36,6 +36,20 @@ permalink: /team/
 
   Website: [https://www.ifi.uzh.ch/en/vmml.html](https://www.ifi.uzh.ch/en/vmml.html)
 
+- Enrico Gobbetti
+
+  Project leader
+
+  Affiliation: CRS4
+
+  Phone: +39 070 9250 212
+
+  Fax:	+39 070 9250 216
+
+  Email: [gobbetti@crs4.it](mailto:gobbetti@crs4.it)
+
+  Website: [http://www.crs4.it/vic/](http://www.crs4.it/vic/)
+
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
