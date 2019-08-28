@@ -42,7 +42,7 @@ permalink: /team/
   </tbody>
 </table>
 -->
-<table width="10%" border="1">
+<table>
 	<thead>		
 	<tr>
 	   <th> <img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
@@ -111,7 +111,7 @@ permalink: /team/
           Webpage: <a href="http://www.crs4.it/vic/">http://www.crs4.it/vic/</a>	
           </h4>						
         </th>
-        <th> </th>
+        <th> &nbsp; &nbsp; &nbsp;</th>
     </tr>
 
 </thead>		
@@ -136,14 +136,14 @@ permalink: /team/
           Webpage: <a href="http://www.holografika.com">http://www.holografika.com</a>	
           </h4>						
         </th>
-        <th>&nbsp; &nbsp; &nbsp;</th>
+        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;</th>
     </tr>
 
 </thead>		
 </table>
-
+<!-->
 <p style="margin-left: 0.5em;padding: 0 7em 2em 0;border-width: 1px; border-color: black; border-style:solid; width:600px;background-color: #FFFF00;padding-right: 200px;padding-bottom: 100px;">Example of a paragraph with margin and padding.</p>
-
+-->
 ## ESRs
 
 
