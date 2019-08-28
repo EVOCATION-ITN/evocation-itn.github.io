@@ -81,11 +81,12 @@ permalink: /team/
           <br>
           Phone: +49 381 4987480
           <br>
-          Fax: +49 381 4987482</h4>
+          Fax: +49 381 4987482
           <br>
 				  Email: <a href="mailto:oliver.staadt@uni-rostock.de">oliver.staadt@uni-rostock.de</a>	
           <br>
-          Webpage: <a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>							
+          Webpage: <a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>	
+          </h4>						
         </div>
         </th>
     </tr>
