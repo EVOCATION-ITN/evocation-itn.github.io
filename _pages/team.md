@@ -66,6 +66,7 @@ permalink: /team/
 -->
 
 <table >
+<tbody>
 <div style="background-color:lightblue">				
 	<tr>
 	   <th id="photo_cell">
@@ -98,7 +99,8 @@ permalink: /team/
             </div>
         </th>
     </tr>
-</div>			
+</div>
+</tbody>			
 </table>
 
 
