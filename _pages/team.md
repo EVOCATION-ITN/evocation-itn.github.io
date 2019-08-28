@@ -43,7 +43,7 @@ permalink: /team/
 </table>
 -->
 
-<table>
+<!-- <table>
   <thead>
     <tr>
       <th id="Photo_cell"> <img src="/assets/images/flag_eu_150.jpg" alt="Oliver Staadt"> </th>
@@ -63,7 +63,7 @@ permalink: /team/
     </tr>
   </thead>
 </table>
-
+-->
 
 <table >
 <thead>				
