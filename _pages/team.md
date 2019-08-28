@@ -64,7 +64,8 @@ permalink: /team/
 </table>
 
 
-<table >				
+<table >
+<thead>				
 	<tr>
 	   <th id="photo_cell">
 						<img src="images/renato_pajarola.JPG"  alt="Renato Pajarola" />
@@ -108,7 +109,8 @@ permalink: /team/
 							</div>
 						</div>
 					</th>
-				</tr>			
+				</tr>
+                </thead>			
 			</table>
 
 
