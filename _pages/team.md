@@ -1,6 +1,6 @@
 ---
 title: "Team"
-#author_profile: true
+author_profile: true
 layout: single
 classes: wide
 permalink: /team/
@@ -10,6 +10,8 @@ permalink: /team/
 
 ### Oliver Staadt
 
+<img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
+![EU Emblem](/assets/images/staadt.jpg){: .align-left}
   EVOCATION Project coordinator and project leader
 
   Affiliation: University of Rostock (UROS)
@@ -66,7 +68,7 @@ permalink: /team/
 
 
   ## ESRs
-  
+
 
 
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
