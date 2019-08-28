@@ -76,29 +76,28 @@ permalink: /team/
                 <div id="staff_id">
                     <p>
                     <span id="staff_name">
-                    Renato Pajarola									
+                    Oliver Staady									
                     </span>
                     </p>
                     <p>
-                    DIVA Project Head								
-                    </p>														
+                    EVOCATION Project coordinator and project leader</p>														
                 </div>
                 <div id="staff_data">
                 <p>
                 Affiliation:
-                Universität Zürich (UZH)								
+                University of Rostock (UROS)								
                 </p>	
                 <p>
-                Phone: +41 44 635 4370									
+                Phone: +49 381 4987480									
                 </p>
                 <p>
-                Fax:
+                Fax: +49 381 4987482
                 </p>
-				<p>
-                Email:
-                <img class="email" src="tmp/112097106097114111108097064105102105046117122104046099104.png" />	
+				<p> 
+                Email: [oliver.staadt@uni-rostock.de](mailto:oliver.staadt@uni-rostock.de)	
                 </p>
                 <p>
+                Website: [https://vcg.informatik.uni-rostock.de](https://vcg.informatik.uni-rostock.de)
                 Webpage:
                 <a href="http://www.ifi.uzh.ch/vmml.html">http://www.ifi.uzh.ch/vmml.html</a>							</p>
                 </div>
