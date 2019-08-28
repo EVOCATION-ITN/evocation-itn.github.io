@@ -11,22 +11,19 @@ permalink: /team/
 
 
 <a name="renato_pajarola"></a>		
-			<table class="staff_odd">				
-				<tr>
-					<td id="photo_cell">
-						<img src="images/renato_pajarola.JPG"  alt="Renato Pajarola" />
-					</td>
-
-					<td id="staff_info_cell">
+	<table class="staff_odd">				
+	<tr>
+		<td id="photo_cell">
+			<img src="images/renato_pajarola.JPG"  alt="Renato Pajarola" />
+		</td>
+        	<td id="staff_info_cell">
 						<div id="staff_info">
 							<div id="staff_id">
 								<p>
 									<span id="staff_name">
-										Renato Pajarola									</span>
+								Renato Pajarola									</span>
 								</p>
-
-								<p>
-									DIVA Project Head								</p>														
+        <p> DIVA Project Head								</p>														
 							</div>
 							
 							<div id="staff_data">
