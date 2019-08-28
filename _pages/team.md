@@ -45,7 +45,12 @@ permalink: /team/
 <table>
   <thead>
     <tr>
-      <th>Employee</th>
+      <th>
+      
+      Employee
+      
+      
+      </th>
     </tr>
   </thead>
 </table>
