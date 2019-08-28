@@ -11,7 +11,7 @@ permalink: /team/
 
 
 <a name="renato_pajarola"></a>		
-	<table class="staff_odd">				
+	<table>				
 	<tr>
 		<td id="photo_cell">
 			<img src="images/renato_pajarola.JPG"  alt="Renato Pajarola" />
