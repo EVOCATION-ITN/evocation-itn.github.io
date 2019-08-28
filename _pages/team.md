@@ -75,7 +75,7 @@ permalink: /team/
 			<div id="staff_info">
                     <h3>Heading 3</h3>Oliver Staadt									
                     <br>
-                    <h3>Heading 4</h3>Project coordinator and project leader														
+                    <h4>Heading 4</h4>Project coordinator and project leader														
                 <div id="staff_data">
                 <p>
                 Affiliation:
