@@ -136,11 +136,13 @@ permalink: /team/
           Webpage: <a href="http://www.holografika.com">http://www.holografika.com</a>	
           </h4>						
         </th>
+        <th> </th>
     </tr>
 
 </thead>		
 </table>
 
+<p style="margin-left: 2.5em;padding: 0 7em 2em 0;border-width: 2px; border-color: black; border-style:solid;">Example of a paragraph with margin and padding.</p>
 
 ## ESRs
 
