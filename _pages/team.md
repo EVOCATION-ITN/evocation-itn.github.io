@@ -94,12 +94,12 @@ permalink: /team/
                 Fax: +49 381 4987482
                 </p>
 				<p> 
-                Email: [oliver.staadt@uni-rostock.de](mailto:oliver.staadt@uni-rostock.de)	
+                Email:
+                <a href="mailto:oliver.staadt@uni-rostock.de">mailto:oliver.staadt@uni-rostock.de</a>	
                 </p>
                 <p>
-                Website: [https://vcg.informatik.uni-rostock.de](https://vcg.informatik.uni-rostock.de)
                 Webpage:
-                <a href="http://www.ifi.uzh.ch/vmml.html">http://www.ifi.uzh.ch/vmml.html</a>							</p>
+                <a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>							</p>
                 </div>
             </div>
         </th>
