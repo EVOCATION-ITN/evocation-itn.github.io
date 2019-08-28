@@ -6,7 +6,8 @@ classes: wide
 permalink: /team/
 ---
 
-## Project leaders &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative
+## Project leaders 
+<!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
 
 
 
