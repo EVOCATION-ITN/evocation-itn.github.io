@@ -69,7 +69,7 @@ permalink: /team/
 <thead>				
 	<tr>
 	   <th id="photo_cell">
-						<img src="images/renato_pajarola.JPG"  alt="Renato Pajarola" />
+						<img src="/assets/images/flag_eu_150.jpg" alt="Oliver Staadt">
 		</th>
 		<th id="staff_info_cell">
 			<div id="staff_info">
