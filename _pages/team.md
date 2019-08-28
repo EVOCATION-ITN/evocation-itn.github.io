@@ -100,7 +100,7 @@ permalink: /team/
 		<th style="text-align: left"> <font size="4"> Enrico Gobbetti </font><br>									
           <font size="2">Project leader</font>
           <h4>														
-          Affiliation: CRS4
+          Affiliation: Center for Advanced Studies, Research and Development in Sardinia (CRS4)
           <br>
           Phone: +39 070 9250 212
           <br>
@@ -125,7 +125,7 @@ permalink: /team/
 		<th style="text-align: left"> <font size="4"> Tibor Balogh </font><br>									
           <font size="2">Project leader</font>
           <h4>														
-          Affiliation: Holografika
+          Affiliation: Holografika (HOLO)
           <br>
           Phone: +36 1 2824921
           <br>
@@ -141,6 +141,108 @@ permalink: /team/
 
 </thead>		
 </table>
+
+<table>
+	<thead>		
+	<tr>
+	   <th> <img src="/assets/images/wimmer.jpg" alt="Michael Wimmer">
+		</th>
+		<th style="text-align: left"> <font size="4"> Michael Wimmer </font><br>									
+          <font size="2">Project leader</font>
+          <h4>														
+          Affiliation: TU Wien (TUW)
+          <br>
+          Phone: +43-1-58801-18687
+          <br>
+          Fax: +43 1 58801-18698
+          <br>
+				  Email: <a href="mailto:wimmer@cg.tuwien.ac.at">wimmer@cg.tuwien.ac.at</a>	
+          <br>
+          Webpage: <a href="hhttp://www.tuwien.ac.at">http://www.tuwien.ac.at</a>	
+          </h4>						
+        </th>
+        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</th>
+    </tr>
+
+</thead>		
+</table>
+
+<table>
+	<thead>		
+	<tr>
+	   <th> <img src="/assets/images/urban.jpg" alt="Philipp Urban">
+		</th>
+		<th style="text-align: left"> <font size="4"> Philipp Urban </font><br>									
+          <font size="2">Project leader</font>
+          <h4>														
+          Affiliation: Fraunhofer IGD (FHG-IGD)
+          <br>
+          Phone: +49 6151 155-250
+          <br>
+          Fax: +49 6151 155-248
+          <br>
+				  Email: <a href="mailto:philipp.urban@igd.fraunhofer.de">philipp.urban@igd.fraunhofer.de</a>	
+          <br>
+          Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
+          </h4>						
+        </th>
+        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</th>
+    </tr>
+
+</thead>		
+</table>
+
+<table>
+	<thead>		
+	<tr>
+	   <th> <img src="/assets/images/sgrenzaroli.jpg" alt="Matteo Sgrenzaroli">
+		</th>
+		<th style="text-align: left"> <font size="4"> Matteo Sgrenzaroli </font><br>									
+          <font size="2">Project leader</font>
+          <h4>														
+          Affiliation: Gexcel Srl (GEXCEL)
+          <br>
+          Phone: (+39) 030 6595001  
+          <br>
+          Fax: (+39) 030 6595020
+          <br>
+				  Email: <a href="mailto:@gexcel.it">@gexcel.it</a>	
+          <br>
+          Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>	
+          </h4>						
+        </th>
+        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</th>
+    </tr>
+
+</thead>		
+</table>
+
+<table>
+	<thead>		
+	<tr>
+	   <th> <img src="/assets/images/cignoni.jpg" alt="Paolo Cignoni">
+		</th>
+		<th style="text-align: left"> <font size="4"> Paolo Cignoni </font><br>									
+          <font size="2">Project leader</font>
+          <h4>														
+          Affiliation: Consiglio Nazionale delle Ricerche (CNR)
+          <br>
+          Phone: +39 050 3152926  
+          <br>
+          Fax: 
+          <br>
+				  Email: <a href="mailto:paolo.cignoni@isti.cnr.it ">paolo.cignoni@isti.cnr.it </a>	
+          <br>
+          Webpage: <a href="http://vcg.isti.cnr.it">http://vcg.isti.cnr.it</a>	
+          </h4>						
+        </th>
+        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</th>
+    </tr>
+
+</thead>		
+</table>
+
+
 <!--
 <p style="margin-left: 0.5em;padding: 0 7em 2em 0;border-width: 1px; border-color: black; border-style:solid; width:600px;background-color: #FFFF00;padding-right: 200px;padding-bottom: 100px;">Example of a paragraph with margin and padding.</p>
 -->
