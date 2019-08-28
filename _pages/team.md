@@ -42,7 +42,7 @@ permalink: /team/
   </tbody>
 </table>
 -->
-<table>
+<table width="700">
 	<thead>		
 	<tr>
 	   <th> <img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
