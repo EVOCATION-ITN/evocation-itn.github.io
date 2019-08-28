@@ -10,9 +10,37 @@ permalink: /team/
 
 
 
-<a name="renato_pajarola"></a>		
-	<table>				
-	</table>
+<table>
+  <thead>
+    <tr>
+      <th>Employee</th>
+      <th>Salary</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#">John Doe</a></td>
+      <td>$1</td>
+      <td>Because that’s all Steve Jobs needed for a salary.</td>
+    </tr>
+    <tr>
+      <td><a href="#">Jane Doe</a></td>
+      <td>$100K</td>
+      <td>For all the blogging she does.</td>
+    </tr>
+    <tr>
+      <td><a href="#">Fred Bloggs</a></td>
+      <td>$100M</td>
+      <td>Pictures are worth a thousand words, right? So Jane × 1,000.</td>
+    </tr>
+    <tr>
+      <td><a href="#">Jane Bloggs</a></td>
+      <td>$100B</td>
+      <td>With hair like that?! Enough said.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
