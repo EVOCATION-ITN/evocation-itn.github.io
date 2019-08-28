@@ -66,18 +66,16 @@ permalink: /team/
 -->
 
 <table >
-<thead>				
+<div style="background-color:lightblue">				
 	<tr>
 	   <th id="photo_cell">
 						<img src="/assets/images/flag_eu_150.jpg" alt="Oliver Staadt">
 		</th>
 		<th id="staff_info_cell">
 			<div id="staff_info">
-                <div id="staff_id">
                     Oliver Staadt									
                     <br>
                     Project coordinator and project leader														
-                </div>
                 <div id="staff_data">
                 <p>
                 Affiliation:
@@ -100,7 +98,7 @@ permalink: /team/
             </div>
         </th>
     </tr>
-</thead>			
+</div>			
 </table>
 
 
