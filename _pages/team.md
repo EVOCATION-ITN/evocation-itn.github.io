@@ -42,7 +42,13 @@ permalink: /team/
   </tbody>
 </table>
 
-
+<table>
+  <thead>
+    <tr>
+      <th>Employee</th>
+    </tr>
+  </thead>
+</table>
 
 
 ### Oliver Staadt
