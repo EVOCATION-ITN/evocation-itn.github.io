@@ -100,6 +100,42 @@ permalink: /team/
         </th>
     </tr>
 </div>
+
+
+<div style="border:1px solid black;">				
+	<tr>
+	   <th id="photo_cell">
+						<img src="/assets/images/flag_eu_150.jpg" alt="Oliver Staadt">
+		</th>
+		<th id="staff_info_cell">
+			<div id="staff_info">
+                    Oliver Staadt									
+                    <br>
+                    Project coordinator and project leader														
+                <div id="staff_data">
+                <p>
+                Affiliation:
+                University of Rostock (UROS)								
+                </p>	
+                <p>
+                Phone: +49 381 4987480									
+                </p>
+                <p>
+                Fax: +49 381 4987482
+                </p>
+				<p> 
+                Email:
+                <a href="mailto:oliver.staadt@uni-rostock.de">oliver.staadt@uni-rostock.de</a>	
+                </p>
+                <p>
+                Webpage:
+                <a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>							</p>
+                </div>
+            </div>
+        </th>
+    </tr>
+</div>
+
 </tbody>			
 </table>
 
