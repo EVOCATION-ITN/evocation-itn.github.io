@@ -74,8 +74,7 @@ permalink: /team/
 		<th id="staff_info_cell">
 			<div id="staff_info">
           <h2>Oliver Staadt</h2>									
-          <h3>Project coordinator and project leader
-          </h3>
+          Project coordinator and project leader
           <h4>Project coordinator and project leader
           <br>														
           Affiliation: University of Rostock (UROS)
