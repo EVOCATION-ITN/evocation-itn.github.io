@@ -10,8 +10,8 @@ permalink: /team/
 
 ### Oliver Staadt
 
-<img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
-![EU Emblem](/assets/images/staadt.jpg){: .align-left}
+<!-- <img src="/assets/images/staadt.jpg" alt="Oliver Staadt"> -->
+![EU Emblem](/assets/images/flag_eu_150.jpg){: .align-left}
   EVOCATION Project coordinator and project leader
 
   Affiliation: University of Rostock (UROS)
