@@ -142,7 +142,7 @@ permalink: /team/
 </thead>		
 </table>
 
-<p style="margin-left: 0.5em;padding: 0 7em 2em 0;border-width: 1px; border-color: black; border-style:solid;">Example of a paragraph with margin and padding.</p>
+<p style="margin-left: 0.5em;padding: 0 7em 2em 0;border-width: 1px; border-color: black; border-style:solid; width:400px">Example of a paragraph with margin and padding.</p>
 
 ## ESRs
 
