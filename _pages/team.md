@@ -69,7 +69,7 @@ permalink: /team/
 <table>
 	<thead>		
 	<tr>
-	   <th> <img src="/assets/images/pajarola.JPG" alt="Renato Pajarola">
+	   <th> <img src="/assets/images/pajarola.jpg" alt="Renato Pajarola">
 		</th>
 		<th style="text-align: left"> <font size="4"> Renato Pajarola </font><br>									
           <font size="2">Project leader</font>
@@ -90,67 +90,56 @@ permalink: /team/
 </thead>		
 </table>
 
+<table>
+	<thead>		
+	<tr>
+	   <th> <img src="/assets/images/gobbetti.jpg" alt="Enrico Gobbetti">
+		</th>
+		<th style="text-align: left"> <font size="4"> Enrico Gobbetti </font><br>									
+          <font size="2">Project leader</font>
+          <h4>														
+          Affiliation: CRS4
+          <br>
+          Phone: +39 070 9250 212
+          <br>
+          Fax: +39 070 9250 216
+          <br>
+				  Email: <a href="mailto:gobbetti@crs4.it">gobbetti@crs4.it</a>	
+          <br>
+          Webpage: <a href="http://www.crs4.it/vic/">http://www.crs4.it/vic/</a>	
+          </h4>						
+        </th>
+    </tr>
 
-### Oliver Staadt
+</thead>		
+</table>
 
-<img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
-![EU Emblem](/assets/images/staadt.jpg){: .align-left}
-  EVOCATION Project coordinator and project leader
+<table>
+	<thead>		
+	<tr>
+	   <th> <img src="/assets/images/balogh.jpg" alt="Tibor Balogh">
+		</th>
+		<th style="text-align: left"> <font size="4"> Tibor Balogh </font><br>									
+          <font size="2">Project leader</font>
+          <h4>														
+          Affiliation: Holografika
+          <br>
+          Phone: +36 1 2824921
+          <br>
+          Fax: +36 1 3581208
+          <br>
+				  Email: <a href="mailto:t.balogh@holografika.com">t.balogh@holografika.com</a>	
+          <br>
+          Webpage: <a href="http://www.holografika.com">http://www.holografika.com</a>	
+          </h4>						
+        </th>
+    </tr>
 
-  Affiliation: University of Rostock (UROS)
-
-  Phone: +49 381 4987480
-
-  Fax:	+49 381 4987482
-
-  Email:  [oliver.staadt@uni-rostock.de](mailto:oliver.staadt@uni-rostock.de)
-
-  Website: [https://vcg.informatik.uni-rostock.de](https://vcg.informatik.uni-rostock.de)
-
-- Renato Pajarola
-
-  Project leader
-
-  Affiliation: Universität Zürich (UZH)
-
-  Phone: +41 44 635 4370
-
-  Fax:
-
-  Email: [pajarola@ifi.uzh.ch](mailto:pajarola@ifi.uzh.ch) 
-
-  Website: [https://www.ifi.uzh.ch/en/vmml.html](https://www.ifi.uzh.ch/en/vmml.html)
-
-- Enrico Gobbetti
-
-  Project leader
-
-  Affiliation: CRS4
-
-  Phone: +39 070 9250 212
-
-  Fax:	+39 070 9250 216
-
-  Email: [gobbetti@crs4.it](mailto:gobbetti@crs4.it)
-
-  Website: [http://www.crs4.it/vic/](http://www.crs4.it/vic/)
-
-- Tibor Balogh
-
-  Project leader
-
-  Affiliation: Holografika
-
-  Phone: +36 1 2824921
-
-  Fax:	+36 1 3581208
-
-  Email:[t.balogh@holografika.com](mailto:t.balogh@holografika.com)  
-
-  Website: [http://www.holografika.com](http://www.holografika.com)
+</thead>		
+</table>
 
 
-  ## ESRs
+## ESRs
 
 
 
