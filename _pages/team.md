@@ -66,8 +66,7 @@ permalink: /team/
 -->
 
 <table >
-<thead>
-<div style="border:1px solid black;">				
+<thead>			
 	<tr>
 	   <th id="photo_cell">
 						<img src="/assets/images/flag_eu_150.jpg" alt="Oliver Staadt">
@@ -99,7 +98,6 @@ permalink: /team/
             </div>
         </th>
     </tr>
-</div>
 
 </thead>			
 </table>
