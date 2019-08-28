@@ -74,10 +74,7 @@ permalink: /team/
 		<th id="staff_info_cell">
 			<div id="staff_info">
                 <div id="staff_id">
-                    <p>
-                    <span id="staff_name">
-                    Oliver Staadt									
-                    </span>
+                    <p> Oliver Staadt									
                     </p>
                     <br>
                     EVOCATION Project coordinator and project leader														
