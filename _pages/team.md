@@ -111,7 +111,6 @@ permalink: /team/
           Webpage: <a href="http://www.crs4.it/vic/">http://www.crs4.it/vic/</a>	
           </h4>						
         </th>
-        <th></th>
     </tr>
 
 </thead>		
