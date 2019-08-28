@@ -48,7 +48,7 @@ permalink: /team/
 	   <th> <img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
 		</th>
 		<th style="text-align: left"> <font size="4"> Oliver Staadt </font><br>									
-          Project coordinator and project leader
+          <font size="3">Project coordinator and project leader</font>
           <h4>														
           Affiliation: University of Rostock (UROS)
           <br>
