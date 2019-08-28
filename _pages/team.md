@@ -51,8 +51,7 @@ permalink: /team/
 		<th id="staff_info_cell">
           <h2>Oliver Staadt</h2>									
           Project coordinator and project leader
-          <h4>Project coordinator and project leader
-          <br>														
+          <h4>														
           Affiliation: University of Rostock (UROS)
           <br>
           Phone: +49 381 4987480
