@@ -66,21 +66,19 @@ permalink: /team/
 -->
 
 <table border="1">
-			
+	<thead>		
 	<tr>
 	   <th id="photo_cell">
 						<img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
 		</th>
 		<th id="staff_info_cell">
 			<div id="staff_info">
-                    <h3>Heading 3</h3>Oliver Staadt									
+                    <h3>Oliver Staadt</h3>									
                     <br>
-                    <h4>Heading 4</h4>Project coordinator and project leader														
+                    <h4>Project coordinator and project leader</h4>														
                 <div id="staff_data">
-                <p>
-                Affiliation:
-                University of Rostock (UROS)								
-                </p>	
+                <h4>Affiliation:
+                University of Rostock (UROS)</h4>
                 <p>
                 Phone: +49 381 4987480									
                 </p>
@@ -99,7 +97,7 @@ permalink: /team/
         </th>
     </tr>
 
-			
+</thead>		
 </table>
 
 
