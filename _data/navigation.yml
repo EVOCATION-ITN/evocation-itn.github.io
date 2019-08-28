@@ -14,8 +14,8 @@ main:
   - title: "Consortium"
     url: /consortium/
 
-  # - title: "Team"
-  #   url: /team/
+  - title: "Team"
+    url: /team/
   
   # - title: "Publications"
   #   url: /publications/
