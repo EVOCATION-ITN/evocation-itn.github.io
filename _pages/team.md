@@ -6,7 +6,7 @@ classes: wide
 permalink: /team/
 ---
 
-## Project coordinator / principal investigators
+## Project leaders
 
 
 
