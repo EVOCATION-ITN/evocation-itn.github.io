@@ -10,7 +10,7 @@ permalink: /team/
 
 ### Oliver Staadt
 
-<!-- <img src="/assets/images/staadt.jpg" alt="Oliver Staadt"> -->
+<img src="/assets/images/flag_eu_150.jpg" alt="Oliver Staadt">
 ![EU Emblem](/assets/images/flag_eu_150.jpg){: .align-left}
   EVOCATION Project coordinator and project leader
 
