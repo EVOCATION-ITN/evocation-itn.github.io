@@ -66,7 +66,29 @@ permalink: /team/
 </thead>		
 </table>
 
+<table>
+	<thead>		
+	<tr>
+	   <th> <img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
+		</th>
+		<th style="text-align: left"> <font size="4"> Renato Pajarola </font><br>									
+          <font size="2">Project leader</font>
+          <h4>														
+          Affiliation: Universität Zürich (UZH)
+          <br>
+          Phone: +41 44 635 4370
+          <br>
+          Fax: 
+          <br>
+				  Email: <a href="mailto:pajarola@ifi.uzh.ch">pajarola@ifi.uzh.ch</a>	
+          <br>
+          Webpage: <a href="https://www.ifi.uzh.ch/en/vmml.html">https://www.ifi.uzh.ch/en/vmml.html</a>	
+          </h4>						
+        </th>
+    </tr>
 
+</thead>		
+</table>
 
 
 ### Oliver Staadt
