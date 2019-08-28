@@ -210,7 +210,7 @@ permalink: /team/
           Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>	
           </h4>						
         </th>
-        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</th>
+        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;</th>
     </tr>
 
 </thead>		
