@@ -235,7 +235,7 @@ permalink: /team/
           Webpage: <a href="http://vcg.isti.cnr.it">http://vcg.isti.cnr.it</a>	
           </h4>						
         </th>
-        <th>&nbsp; &nbsp; &nbsp;</th>
+        <th></th>
     </tr>
 
 </thead>		
