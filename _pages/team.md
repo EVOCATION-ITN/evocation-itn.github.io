@@ -8,7 +8,7 @@ permalink: /team/
 
 ## Project coordinator / principal investigators
 
-- Oliver Staadt
+### Oliver Staadt
 
   EVOCATION Project coordinator and project leader
 
@@ -52,7 +52,7 @@ permalink: /team/
 
 - Tibor Balogh
 
-  Project Leader
+  Project leader
 
   Affiliation: Holografika
 
