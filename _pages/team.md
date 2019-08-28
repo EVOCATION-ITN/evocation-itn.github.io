@@ -2,6 +2,7 @@
 title: "Team"
 #author_profile: true
 layout: single
+classes: wide
 permalink: /team/
 ---
 
