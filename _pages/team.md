@@ -67,7 +67,7 @@ permalink: /team/
 
 <table >
 <tbody>
-<div style="background-color:lightblue">				
+<div style="border:1px solid black;">				
 	<tr>
 	   <th id="photo_cell">
 						<img src="/assets/images/flag_eu_150.jpg" alt="Oliver Staadt">
