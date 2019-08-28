@@ -1,6 +1,7 @@
 ---
 title: "Team"
-author_profile: false
+author_profile: true
+layout: splash
 permalink: /team/
 ---
 
