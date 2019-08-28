@@ -50,6 +50,20 @@ permalink: /team/
 
   Website: [http://www.crs4.it/vic/](http://www.crs4.it/vic/)
 
+- Tibor Balogh
+
+  Project Leader
+
+  Affiliation: Holografika
+
+  Phone: +36 1 2824921
+
+  Fax:	+36 1 3581208
+
+  Email:[t.balogh@holografika.com](mailto:t.balogh@holografika.com)  
+
+  Website: [http://www.holografika.com](http://www.holografika.com)
+
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
