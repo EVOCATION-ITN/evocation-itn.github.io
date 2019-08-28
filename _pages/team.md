@@ -46,7 +46,10 @@ permalink: /team/
   <thead>
     <tr>
       <th id="Photo_cell"> <img src="/assets/images/flag_eu_150.jpg" alt="Oliver Staadt"> </th>
-      <th id="Info_cell"> Employee </th>
+      <th id="Info_cell"> 
+      <p>Oliver Staadt</p>
+      <p>EVOCATION Project coordinator and project leader</p> 
+      </th>
     </tr>
   </thead>
 </table>
