@@ -74,10 +74,9 @@ permalink: /team/
 		<th id="staff_info_cell">
 			<div id="staff_info">
                 <div id="staff_id">
-                    <p> Oliver Staadt									
-                    </p>
+                    Oliver Staadt									
                     <br>
-                    EVOCATION Project coordinator and project leader														
+                    Project coordinator and project leader														
                 </div>
                 <div id="staff_data">
                 <p>
