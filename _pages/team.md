@@ -34,7 +34,7 @@ permalink: /team/
 
   Email: [pajarola@ifi.uzh.ch](mailto:pajarola@ifi.uzh.ch) 
 
-  Website: [http://www.ifi.uzh.ch/vmml.html] (http://www.ifi.uzh.ch/vmml.html)
+  Website: [https://www.ifi.uzh.ch/en/vmml.html](https://www.ifi.uzh.ch/en/vmml.html)
 
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
