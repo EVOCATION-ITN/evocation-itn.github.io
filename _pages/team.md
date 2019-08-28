@@ -135,7 +135,7 @@ permalink: /team/
           Webpage: <a href="http://www.holografika.com">http://www.holografika.com</a>	
           </h4>						
         </th>
-        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</th>
+        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</th>
     </tr>
 
 </thead>		
@@ -160,7 +160,7 @@ permalink: /team/
           Webpage: <a href="hhttp://www.tuwien.ac.at">http://www.tuwien.ac.at</a>	
           </h4>						
         </th>
-        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</th>
+        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</th>
     </tr>
 
 </thead>		
