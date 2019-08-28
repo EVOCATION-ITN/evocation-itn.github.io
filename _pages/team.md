@@ -61,6 +61,7 @@ permalink: /team/
           Webpage: <a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>	
           </h4>						
         </th>
+        <th> </th>
     </tr>
 
 </thead>		
