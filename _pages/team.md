@@ -1,5 +1,6 @@
 ---
 title: "Team"
+author_profile: true
 permalink: /team/
 ---
 
