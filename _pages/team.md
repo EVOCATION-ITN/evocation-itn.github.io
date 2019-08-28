@@ -86,6 +86,7 @@ permalink: /team/
           Webpage: <a href="https://www.ifi.uzh.ch/en/vmml.html">https://www.ifi.uzh.ch/en/vmml.html</a>	
           </h4>						
         </th>
+        <th> </th>
     </tr>
 
 </thead>		
@@ -110,6 +111,7 @@ permalink: /team/
           Webpage: <a href="http://www.crs4.it/vic/">http://www.crs4.it/vic/</a>	
           </h4>						
         </th>
+        <th> </th>
     </tr>
 
 </thead>		
