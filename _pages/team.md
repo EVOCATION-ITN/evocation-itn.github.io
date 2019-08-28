@@ -65,7 +65,7 @@ permalink: /team/
 </table>
 -->
 
-<table >
+<table border="1">
 			
 	<tr>
 	   <th id="photo_cell">
