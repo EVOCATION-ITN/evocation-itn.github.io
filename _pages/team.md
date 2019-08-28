@@ -10,7 +10,7 @@ permalink: /team/
 
 
 
-<table>
+<!-- <table>
   <thead>
     <tr>
       <th>Employee</th>
@@ -41,6 +41,7 @@ permalink: /team/
     </tr>
   </tbody>
 </table>
+-->
 
 <table>
   <thead>
