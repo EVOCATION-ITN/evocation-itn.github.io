@@ -72,7 +72,7 @@ permalink: /team/
 <table>
 	<thead>		
 	<tr>
-	   <th> <img src="/assets/images/pajarola.jpg" alt="Renato Pajarola">
+	   <th> <img src="/assets/images/pajarola.JPG" alt="Renato Pajarola">
 		</th>
 		<th style="text-align: left"> <font size="4"> Renato Pajarola </font><br>									
           <font size="2">Project leader</font>
