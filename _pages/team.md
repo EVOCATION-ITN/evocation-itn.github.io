@@ -4,6 +4,10 @@ author_profile: true
 layout: single
 classes: wide
 permalink: /team/
+
+sidebar:
+  - title: "Twitter Feed"
+    twitter: true
 ---
 
 ## Project leaders 
