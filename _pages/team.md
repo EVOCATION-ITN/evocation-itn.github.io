@@ -167,7 +167,7 @@ permalink: /team/
           </h4>						
         </th>
         <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
-        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 15.3em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 12.3em;padding: 0.5em 0em 0em 0;"> </p> </th>
     </tr>
 
 </thead>		
