@@ -101,7 +101,7 @@ permalink: /team/
 		<th style="text-align: left"> <font size="4"> Enrico Gobbetti </font><br>									
           <font size="2">Project leader</font>
           <h4>														
-          Affiliation: Center for Advanced Studies, Research <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and Development in Sardinia (CRS4)
+          Affiliation: Center for Advanced Studies, Research and Development in Sardinia (CRS4)
           <br>
           Phone: +39 070 9250 212
           <br>
@@ -112,6 +112,7 @@ permalink: /team/
           Webpage: <a href="http://www.crs4.it/vic/">http://www.crs4.it/vic/</a>	
           </h4>						
         </th>
+        <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
     </tr>
 
 </thead>		
