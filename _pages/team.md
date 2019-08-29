@@ -88,7 +88,8 @@ permalink: /team/
           Webpage: <a href="https://www.ifi.uzh.ch/en/vmml.html">https://www.ifi.uzh.ch/en/vmml.html</a>	
           </h4>						
         </th>
-        <th> </th>
+        <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
+        <th>&emsp; &emsp; &emsp; &emsp;</th>
     </tr>
 
 </thead>		
