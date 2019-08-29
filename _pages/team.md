@@ -141,7 +141,7 @@ permalink: /team/
         </th>
         <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
         <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
-        <th> &nbsp;</th> <th> </th>
+        <th> &nbsp;&nbsp; &nbsp;</th> <th> </th>
     </tr>
 
 </thead>		
