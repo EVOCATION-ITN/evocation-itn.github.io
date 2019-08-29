@@ -139,7 +139,8 @@ permalink: /team/
           Webpage: <a href="http://www.holografika.com">http://www.holografika.com</a>	
           </h4>						
         </th>
-        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;</th>
+        <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
+        <th>&emsp; &emsp; &emsp; &emsp;</th>
     </tr>
 
 </thead>		
