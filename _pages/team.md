@@ -166,7 +166,8 @@ permalink: /team/
           Webpage: <a href="hhttp://www.tuwien.ac.at">http://www.tuwien.ac.at</a>	
           </h4>						
         </th>
-        <th>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</th>
+        <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 0.3em;padding: 0.5em 0em 0em 0;"> </p> </th>
     </tr>
 
 </thead>		
