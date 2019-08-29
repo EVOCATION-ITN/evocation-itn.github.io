@@ -140,7 +140,7 @@ permalink: /team/
           </h4>						
         </th>
         <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
-        <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+        <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> </th> <th> </th>
     </tr>
 
