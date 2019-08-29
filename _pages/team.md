@@ -63,6 +63,7 @@ permalink: /team/
           </h4>						
         </th>
         <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
+        <th> &nbsp; &nbsp;</th>
     </tr>
 
 </thead>		
