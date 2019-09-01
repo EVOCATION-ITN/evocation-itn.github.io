@@ -50,7 +50,7 @@ permalink: /team/
   <!-- <col width="130">
   <col width="80"> -->	
 	<tr>
-	   <th> <img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
+	   <th style="background-color:#ECE8E7"> <img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
 		</th>
 		<th style="background-color:#ECE8E7">  <font size="4"> Oliver Staadt </font><br>									
           <font size="2">Project coordinator and project leader</font>
