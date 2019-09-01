@@ -46,7 +46,7 @@ permalink: /team/
 <table>
 	<tbody>	
   <col width="130">
-  <col width="600">
+  <col width="590">
   <!-- <col width="130">
   <col width="80"> -->	
 	<tr>
