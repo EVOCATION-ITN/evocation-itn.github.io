@@ -75,8 +75,10 @@ permalink: /team/
 </tbody>		
 </table>
 
-<table>
-	<thead>		
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
 	<tr>
 	   <th> <img src="/assets/images/pajarola.JPG" alt="Renato Pajarola">
 		</th>
@@ -94,11 +96,11 @@ permalink: /team/
           Webpage: <a href="https://www.ifi.uzh.ch/en/vmml.html">https://www.ifi.uzh.ch/en/vmml.html</a>	
           </h4>						
         </th>
-        <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
-        <th>&emsp; &emsp; &emsp; &emsp;</th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
+        <th>&emsp; &emsp; &emsp; &emsp;</th> -->
     </tr>
 
-</thead>		
+</tbody>		
 </table>
 
 <table>
