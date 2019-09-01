@@ -75,7 +75,7 @@ permalink: /team/
 </tbody>		
 </table>
 
-<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 3px solid #AEAEAE; border-right: 3px solid #AEAEAE;width:723px">
 	<tbody>	
   <col width="130">
   <col width="593">
@@ -103,7 +103,7 @@ permalink: /team/
 </tbody>		
 </table>
 
-<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 3px solid #AEAEAE; border-right: 3px solid #AEAEAE;width:723px">
 	<tbody>	
   <col width="130">
   <col width="593">
