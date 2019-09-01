@@ -103,8 +103,10 @@ permalink: /team/
 </tbody>		
 </table>
 
-<table>
-	<thead>		
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
 	<tr>
 	   <th> <img src="/assets/images/gobbetti.jpg" alt="Enrico Gobbetti">
 		</th>
@@ -122,14 +124,16 @@ permalink: /team/
           Webpage: <a href="http://www.crs4.it/vic/">http://www.crs4.it/vic/</a>	
           </h4>						
         </th>
-        <th> </th>
+        <!--<th> </th>-->
     </tr>
 
-</thead>		
+</tbody>		
 </table>
 
-<table>
-	<thead>		
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
 	<tr>
 	   <th> <img src="/assets/images/balogh.jpg" alt="Tibor Balogh">
 		</th>
@@ -147,16 +151,19 @@ permalink: /team/
           Webpage: <a href="http://www.holografika.com">http://www.holografika.com</a>	
           </h4>						
         </th>
-        <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
         <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 0.3em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
     </tr>
 
-</thead>		
+</tbody>		
 </table>
 
-<table>
-	<thead>		
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
 	<tr>
 	   <th> <img src="/assets/images/wimmer.jpg" alt="Michael Wimmer">
 		</th>
@@ -174,15 +181,18 @@ permalink: /team/
           Webpage: <a href="hhttp://www.tuwien.ac.at">http://www.tuwien.ac.at</a>	
           </h4>						
         </th>
-        <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 11.9em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
     </tr>
 
-</thead>		
+</tbody>		
 </table>
 
-<table>
-	<thead>		
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
 	<tr>
 	   <th> <img src="/assets/images/urban.jpg" alt="Philipp Urban">
 		</th>
@@ -200,15 +210,18 @@ permalink: /team/
           Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
           </h4>						
         </th>
-        <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 9.4em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
     </tr>
 
-</thead>		
+</tbody>		
 </table>
 
-<table>
-	<thead>		
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
 	<tr>
 	   <th> <img src="/assets/images/sgrenzaroli.jpg" alt="Matteo Sgrenzaroli">
 		</th>
@@ -226,15 +239,18 @@ permalink: /team/
           Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>	
           </h4>						
         </th>
-        <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 12.9em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
     </tr>
 
-</thead>		
+</tbody>		
 </table>
 
-<table>
-	<thead>		
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
 	<tr>
 	   <th> <img src="/assets/images/cignoni.jpg" alt="Paolo Cignoni">
 		</th>
@@ -252,11 +268,12 @@ permalink: /team/
           Webpage: <a href="http://vcg.isti.cnr.it">http://vcg.isti.cnr.it</a>	
           </h4>						
         </th>
-        <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
     </tr>
 
-</thead>		
+</tbody>		
 </table>
 
 
