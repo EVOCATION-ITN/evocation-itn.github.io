@@ -43,8 +43,8 @@ permalink: /team/
   </tbody>
 </table>
 -->
-<table>
-	<thead>	
+<table bgcolor="#00FF00">
+	<tbody>	
   <col width="130">
   <col width="593">
   <!-- <col width="130">
@@ -70,7 +70,7 @@ permalink: /team/
         <th>&emsp; &emsp; &emsp; &emsp;</th> -->
     </tr>
 
-</thead>		
+</tbody>		
 </table>
 
 <table>
