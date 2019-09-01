@@ -43,16 +43,18 @@ permalink: /team/
   </tbody>
 </table>
 -->
-<table style="background-color: #ffffff; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
+<!--<table style="background-color: #ffffff; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
+-->
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
 	<tbody>	
   <col width="130">
   <col width="593">
   <!-- <col width="130">
   <col width="80"> -->	
 	<tr>
-	   <th style="background-color:#F1F1F1"> <img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
+	   <th> <img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
 		</th>
-		<th style="background-color:#F1F1F1">  <font size="4"> Oliver Staadt </font><br>									
+		<th style="text-align: left">  <font size="4"> Oliver Staadt </font><br>									
           <font size="2">Project coordinator and project leader</font>
           <h4>														
           Affiliation: University of Rostock (UROS)
