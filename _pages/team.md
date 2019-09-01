@@ -44,7 +44,11 @@ permalink: /team/
 </table>
 -->
 <table>
-	<thead>		
+	<thead>	
+  <col width="130">
+  <col width="80">
+  <col width="130">
+  <col width="80">	
 	<tr>
 	   <th> <img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
 		</th>
