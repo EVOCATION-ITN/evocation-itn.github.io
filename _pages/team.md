@@ -43,7 +43,7 @@ permalink: /team/
   </tbody>
 </table>
 -->
-<table style="background-color: #ffffff; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width=723">
+<table style="background-color: #ffffff; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
 	<tbody>	
   <col width="130">
   <col width="593">
