@@ -45,7 +45,7 @@ permalink: /team/
 -->
 <!--<table style="background-color: #ffffff; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
 -->
-<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 3px solid #ddd; width:723px">
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 3px solid #ddd; border-right: 3px solid #ddd;width:723px">
 	<tbody>	
   <col width="130">
   <col width="593">
