@@ -43,7 +43,7 @@ permalink: /team/
   </tbody>
 </table>
 -->
-<table bgcolor="#00FF00">
+<table bgcolor="#00FF00", width = "723">
 	<tbody>	
   <col width="130">
   <col width="593">
