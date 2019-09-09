@@ -28,7 +28,7 @@ row2:
       excerpt: "ESR04 (CRS4, Italy)"
       btn_label: "Hiring Pending"
       btn_class: "btn--info btn--small"
-      url: /recruitment/
+      url: /recruitment/esr04/
     - alt: "EVOCATION"
       title: "Scalable geometry processing and 3D reconstruction"
       excerpt: "ESR05 (University of Zurich, Switzerland)"
