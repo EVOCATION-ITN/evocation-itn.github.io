@@ -76,9 +76,9 @@ row4:
     - alt: "EVOCATION"
       title: "Color and translucency for fabrication"
       excerpt: "ESR12 (Fraunhofer IGD, Germany)"
-      btn_label: "Read More"
+      btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/esr12/
+      url: /recruitment/
 row5:
     - alt: "EVOCATION"
       title: "Perceptually accurate light-field display rendering"
