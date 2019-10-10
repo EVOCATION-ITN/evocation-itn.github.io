@@ -26,9 +26,9 @@ row2:
     - alt: "EVOCATION"
       title: "Scalable exploration of complex objects and environments beyond plain visual replication"
       excerpt: "ESR04 (CRS4, Italy)"
-      btn_label: "Hiring Pending"
+      btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/esr04/
+      url: /recruitment/
     - alt: "EVOCATION"
       title: "Scalable geometry processing and 3D reconstruction"
       excerpt: "ESR05 (University of Zurich, Switzerland)"
