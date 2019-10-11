@@ -83,7 +83,7 @@ row5:
     - alt: "EVOCATION"
       title: "Perceptually accurate light-field display rendering"
       excerpt: "ESR13 (Holografika, Hungary)"
-      btn_label: "Hiring Pending"
+      btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
     - alt: "EVOCATION"
