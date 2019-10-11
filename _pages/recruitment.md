@@ -103,7 +103,7 @@ We can offer you a **36-months PhD training program** coordinated among eight ac
 
 The host network includes prestigious institutions from across Europe:
 
-{% include feature_row id="row1" %}
+<!-- {% include feature_row id="row1" %} -->
 {% include feature_row id="row2" %}
 {% include feature_row id="row3" %}
 {% include feature_row id="row4" %}
