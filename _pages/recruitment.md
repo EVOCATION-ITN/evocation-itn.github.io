@@ -92,12 +92,6 @@ row5:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
-    - alt: "EVOCATION"
-      title: "Acquisition of complex and structured environments"
-      excerpt: "ESR14 (Gexcel, Italy)"
-      btn_label: "Read More"
-      btn_class: "btn--info btn--small"
-      url: /recruitment/esr14/
 ---
 ## Open PhD Positions
 
@@ -112,12 +106,15 @@ The host network includes prestigious institutions from across Europe.
 ## Still open positions
 
 {% include feature_row id="row1" %}
+
+## Already filled positions
+
 {% include feature_row id="row2" %}
 {% include feature_row id="row3" %}
 {% include feature_row id="row4" %}
 {% include feature_row id="row5" %}
 
-## Already filled positions
+
 
 ## Benefits
 
