@@ -22,6 +22,12 @@ row1:
       btn_label: "Read More"
       btn_class: "btn--info btn--small"
       url: /recruitment/esr03/
+    - alt: "EVOCATION"
+      title: "Acquisition of complex and structured environments"
+      excerpt: "ESR14 (Gexcel, Italy)"
+      btn_label: "Read More"
+      btn_class: "btn--info btn--small"
+      url: /recruitment/esr14/
 row2:
     - alt: "EVOCATION"
       title: "Scalable exploration of complex objects and environments beyond plain visual replication"
@@ -101,13 +107,17 @@ We are looking for **highly motivated candidates** for becoming the next generat
 
 We can offer you a **36-months PhD training program** coordinated among eight academic and industrial partners.
 
-The host network includes prestigious institutions from across Europe:
+The host network includes prestigious institutions from across Europe.
+
+## Still open positions
 
 <!-- {% include feature_row id="row1" %} -->
 {% include feature_row id="row2" %}
 {% include feature_row id="row3" %}
 {% include feature_row id="row4" %}
 {% include feature_row id="row5" %}
+
+## Already filled positions
 
 ## Benefits
 
