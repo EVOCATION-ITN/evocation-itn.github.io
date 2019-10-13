@@ -93,7 +93,7 @@ permalink: /team/
           <br>
 				  Email: <a href="mailto:pajarola@ifi.uzh.ch">pajarola@ifi.uzh.ch</a>	
           <br>
-          Webpage: <a href="www.ifi.uzh.ch/vmml/">www.ifi.uzh.ch/vmml/</a>	
+          Webpage: <a href="http://www.ifi.uzh.ch/vmml/">http://www.ifi.uzh.ch/vmml/</a>	
           </h4>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
