@@ -85,7 +85,7 @@ permalink: /team/
 		<th style="text-align: left"> <font size="4"> Renato Pajarola </font><br>									
           <font size="2">Project leader</font>
           <h4>														
-          Affiliation: Universität Zürich (UZH)
+          Affiliation: University of Zürich (UZH)
           <br>
           Phone: +41 44 635 4370
           <br>
@@ -321,7 +321,7 @@ permalink: /team/
 		<th style="text-align: left"> <font size="4"> Lizeth Joseline Fuentes Perez </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
           <h4>														
-          Affiliation: Department of Informatics, Universität Zürich
+          Affiliation: Department of Informatics, University of Zürich
           <br>
           Phone: +41 44 635 75 84 
           <br>
@@ -350,7 +350,7 @@ permalink: /team/
 		<th style="text-align: left"> <font size="4"> Luciano Arnaldo Romero Calla </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
           <h4>														
-          Affiliation: Department of Informatics, Universität Zürich
+          Affiliation: Department of Informatics, University of Zürich
           <br>
           Phone: +41 44 635 75 38 
           <br>
