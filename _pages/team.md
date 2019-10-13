@@ -263,7 +263,7 @@ permalink: /team/
           <br>
           Fax: 
           <br>
-				  Email: <a href="mailto:paolo.cignoni@isti.cnr.it ">paolo.cignoni@isti.cnr.it </a>	
+				  Email: <a href="mailto:paolo.cignoni@isti.cnr.it">paolo.cignoni@isti.cnr.it</a>	
           <br>
           Webpage: <a href="http://vcg.isti.cnr.it">http://vcg.isti.cnr.it</a>	
           </h4>						
@@ -280,7 +280,7 @@ permalink: /team/
 <!--
 <p style="margin-left: 0.5em;padding: 0 7em 2em 0;border-width: 1px; border-color: black; border-style:solid; width:600px;background-color: #FFFF00;padding-right: 200px;padding-bottom: 100px;">Example of a paragraph with margin and padding.</p>
 -->
-## ESRs
+## Early Stage Researchers (ESRs)
 
 <table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
 	<tbody>	
@@ -290,9 +290,9 @@ permalink: /team/
 	   <th> <img src="/assets/images/AdamCelarek.jpg" alt="Adam Celarek">
 		</th>
 		<th style="text-align: left"> <font size="4"> Adam Celarek </font><br>									
-          <font size="2">PhD Student/Early Stage Researcher</font>
+          <font size="2">PhD Student / Early Stage Researcher</font>
           <h4>														
-          Affiliation: TU-Wien/Research Unit of Computer Graphics
+          Affiliation: Research Unit of Computer Graphics, TU-Wien
           <br>
           Phone:  
           <br>
@@ -301,6 +301,64 @@ permalink: /team/
 				  Email: 
           <br>
           Webpage: <a href="http://www.celarek.at">http://www.celarek.at</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/LizethJoseline.jpg" alt="Lizeth Joseline Fuentes Perez">
+		</th>
+		<th style="text-align: left"> <font size="4"> Lizeth Joseline Fuentes Perez </font><br>									
+          <font size="2">PhD Student / Early Stage Researcher</font>
+          <h4>														
+          Affiliation: Department of Informatics, Universität Zürich
+          <br>
+          Phone: +41 44 635 75 84 
+          <br>
+          Fax: 
+          <br>
+				  Email: <a href="mailto:fuentes@ifi.uzh.ch">fuentes@ifi.uzh.ch</a>
+          <br>
+          Webpage: <a href="https://lishh.github.io">https://lishh.github.io</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/LucianoArnaldo.jpg" alt="Luciano Arnaldo Romero Calla">
+		</th>
+		<th style="text-align: left"> <font size="4"> Luciano Arnaldo Romero Calla </font><br>									
+          <font size="2">PhD Student / Early Stage Researcher</font>
+          <h4>														
+          Affiliation: Department of Informatics, Universität Zürich
+          <br>
+          Phone: +41 44 635 75 38 
+          <br>
+          Fax: 
+          <br>
+				  Email: <a href="mailto:romero@ifi.uzh.ch">romero@ifi.uzh.ch</a>
+          <br>
+          Webpage: <a href="https://larc.github.io">https://larc.github.io</a>	
           </h4>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
