@@ -89,11 +89,11 @@ permalink: /team/
           <br>
           Phone: +41 44 635 4370
           <br>
-          Fax: 
+          Fax: +41 44 635 6809
           <br>
 				  Email: <a href="mailto:pajarola@ifi.uzh.ch">pajarola@ifi.uzh.ch</a>	
           <br>
-          Webpage: <a href="https://www.ifi.uzh.ch/en/vmml.html">https://www.ifi.uzh.ch/en/vmml.html</a>	
+          Webpage: <a href="www.ifi.uzh.ch/vmml/">www.ifi.uzh.ch/vmml/</a>	
           </h4>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
@@ -176,7 +176,7 @@ permalink: /team/
           <br>
           Fax: +43 1 58801-18698
           <br>
-				  Email: <a href="mailto:wimmer@cg.tuwien.ac.at">wimmer@cg.tuwien.ac.at</a>	
+				  Email:
           <br>
           Webpage: <a href="hhttp://www.tuwien.ac.at">http://www.tuwien.ac.at</a>	
           </h4>						
