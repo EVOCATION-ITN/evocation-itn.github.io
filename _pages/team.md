@@ -6,43 +6,9 @@ classes: wide
 permalink: /team/
 ---
 
-## Project leaders, supervisors and mangaement 
+## Project leaders 
 <!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
 
-
-
-<!-- <table>
-  <thead>
-    <tr>
-      <th>Employee</th>
-      <th>Salary</th>
-      <th> </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="#">John Doe</a></td>
-      <td>$1</td>
-      <td>Because that’s all Steve Jobs needed for a salary.</td>
-    </tr>
-    <tr>
-      <td><a href="#">Jane Doe</a></td>
-      <td>$100K</td>
-      <td>For all the blogging she does.</td>
-    </tr>
-    <tr>
-      <td><a href="#">Fred Bloggs</a></td>
-      <td>$100M</td>
-      <td>Pictures are worth a thousand words, right? So Jane × 1,000.</td>
-    </tr>
-    <tr>
-      <td><a href="#">Jane Bloggs</a></td>
-      <td>$100B</td>
-      <td>With hair like that?! Enough said.</td>
-    </tr>
-  </tbody>
-</table>
--->
 <!--<table style="background-color: #ffffff; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
 -->
 <table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
