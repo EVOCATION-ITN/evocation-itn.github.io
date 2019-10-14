@@ -203,7 +203,7 @@ permalink: /team/
           <br>
           Phone: +49 6151 155-250
           <br>
-          Fax: +49 6151 155-248
+          Fax: +49 6151 155-480
           <br>
 				  Email: <a href="mailto:philipp.urban@igd.fraunhofer.de">philipp.urban@igd.fraunhofer.de</a>	
           <br>
@@ -234,7 +234,7 @@ permalink: /team/
           <br>
           Fax: (+39) 030 6595020
           <br>
-				  Email: <a href="mailto:@gexcel.it">@gexcel.it</a>	
+				  Email:
           <br>
           Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>	
           </h4>						
@@ -266,6 +266,35 @@ permalink: /team/
 				  Email: <a href="mailto:paolo.cignoni@isti.cnr.it">paolo.cignoni@isti.cnr.it</a>	
           <br>
           Webpage: <a href="http://vcg.isti.cnr.it">http://vcg.isti.cnr.it</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/AttilaBarsi.jpg" alt="Attila Barsi">
+		</th>
+		<th style="text-align: left"> <font size="4"> Attila Barsi </font><br>									
+          <font size="2">Fellow supervisor</font>
+          <h4>														
+          Affiliation: Holografika Ltd. (HOLO)
+          <br>
+          Phone: +36-1-282-4921  
+          <br>
+          Fax: +36-1-3581208
+          <br>
+				  Email: <a href="mailto:a.barsi@holografika.com">pa.barsi@holografika.com</a>	
+          <br>
+          Webpage: <a href="http://www.holografika.com">http://www.holografika.com</a>	
           </h4>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -359,6 +388,35 @@ permalink: /team/
 				  Email: <a href="mailto:romero@ifi.uzh.ch">romero@ifi.uzh.ch</a>
           <br>
           Webpage: <a href="https://larc.github.io">https://larc.github.io</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/MoonisaAhsan.jpg" alt="Moonisa Ahsan">
+		</th>
+		<th style="text-align: left"> <font size="4"> Moonisa Ahsan </font><br>									
+          <font size="2">PhD Student / Early Stage Researcher</font>
+          <h4>														
+          Affiliation: CRS4
+          <br>
+          Phone: +39-070-9250-1 
+          <br>
+          Fax: +39-070-9250-216
+          <br>
+				  Email: <a href="mailto:moonisa@crs4.it">moonisa@crs4.it</a>
+          <br>
+          Webpage: <a href="https://www.crs4.it/vic/cgi-bin/people-page.cgi?name=%27moonisa.ahsan%27">https://www.crs4.it/vic/cgi-bin/people-page.cgi?name=%27moonisa.ahsan%27</a>	
           </h4>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
