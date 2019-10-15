@@ -287,7 +287,7 @@ permalink: /team/
           <br>
           Fax: +36-1-3581208
           <br>
-				  Email: <a href="mailto:a.barsi@holografika.com">pa.barsi@holografika.com</a>	
+				  Email: <a href="mailto:a.barsi@holografika.com">a.barsi@holografika.com</a>	
           <br>
           Webpage: <a href="http://www.holografika.com">http://www.holografika.com</a>	
           </h4>						
