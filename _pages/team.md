@@ -107,7 +107,7 @@ permalink: /team/
 		<th style="text-align: left"> <font size="4"> Tibor Balogh </font><br>									
           <font size="2">Project leader</font>
           <h4>														
-          Affiliation: Holografika (HOLO)
+          Affiliation: Holografika Ltd. (HOLO)
           <br>
           Phone: +36 1 2824921
           <br>
@@ -346,7 +346,7 @@ permalink: /team/
 		<th style="text-align: left"> <font size="4"> Lizeth Joseline Fuentes Perez </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
           <h4>														
-          Affiliation: Department of Informatics, University of Zürich
+          Affiliation: University of Zürich (UZH)
           <br>
           Phone: +41 44 635 75 84 
           <br>
@@ -375,7 +375,7 @@ permalink: /team/
 		<th style="text-align: left"> <font size="4"> Luciano Arnaldo Romero Calla </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
           <h4>														
-          Affiliation: Department of Informatics, University of Zürich
+          Affiliation: University of Zürich (UZH)
           <br>
           Phone: +41 44 635 75 38 
           <br>
@@ -404,7 +404,7 @@ permalink: /team/
 		<th style="text-align: left"> <font size="4"> Moonisa Ahsan </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
           <h4>														
-          Affiliation: CRS4
+          Affiliation: Center for Advanced Studies, Research and Development in Sardinia (CRS4)
           <br>
           Phone: +39-070-9250-1 
           <br>
