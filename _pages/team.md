@@ -21,7 +21,7 @@ permalink: /team/
 	   <th> <img src="/assets/images/staadt.jpg" alt="Oliver Staadt">
 		</th>
 		<th style="text-align: left">  <font size="4"> Oliver Staadt </font><br>									
-          <font size="2">Project coordinator and project leader</font>
+          <font size="2">Project Coordinator / Project leader</font>
           <h4>														
           Affiliation: University of Rostock (UROS)
           <br>
@@ -49,7 +49,7 @@ permalink: /team/
 	   <th> <img src="/assets/images/gobbetti.jpg" alt="Enrico Gobbetti">
 		</th>
 		<th style="text-align: left"> <font size="4"> Enrico Gobbetti </font><br>									
-          <font size="2">Project leader and Co-PI</font>
+          <font size="2">Project leader / Co-PI</font>
           <h4>														
           Affiliation: Center for Advanced Studies, Research and Development in Sardinia (CRS4)
           <br>
@@ -317,7 +317,7 @@ permalink: /team/
 		<th style="text-align: left"> <font size="4"> Adam Celarek </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
           <h4>														
-          Affiliation: Research Unit of Computer Graphics, TU-Wien
+          Affiliation: TU Wien (TUW)
           <br>
           Phone:  
           <br>
@@ -463,7 +463,7 @@ permalink: /team/
 		<th style="text-align: left"> <font size="4"> Joao Liborio </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
           <h4>														
-          Affiliation: TU Wien
+          Affiliation: TU Wien (TUW)
           <br>
           Phone: +43-1-58801-18686 
           <br>
@@ -531,6 +531,35 @@ permalink: /team/
 				  Email: <a href="mailto:iason.manolas@isti.cnr.it">iason.manolas@isti.cnr.it</a>
           <br>
           Webpage: <a href="http://vcg.isti.cnr.it/">http://vcg.isti.cnr.it/</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/DanwuChen.jpg" alt="Danwu Chen">
+		</th>
+		<th style="text-align: left"> <font size="4"> Danwu Chen </font><br>									
+          <font size="2">PhD Student / Early Stage Researcher</font>
+          <h4>														
+          Affiliation: Fraunhofer IGD (FHG-IGD)
+          <br>
+          Phone: 
+          <br>
+          Fax: 
+          <br>
+				  Email: <a href="mailto:danwu.chen@igd.fraunhofer.de">danwu.chen@igd.fraunhofer.de</a>
+          <br>
+          Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
           </h4>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
