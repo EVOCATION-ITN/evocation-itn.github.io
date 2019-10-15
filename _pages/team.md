@@ -189,6 +189,35 @@ permalink: /team/
   <col width="130">
   <col width="593">
 	<tr>
+	   <th> <img src="/assets/images/PedroSantos.jpg" alt="Pedro Santos">
+		</th>
+		<th style="text-align: left"> <font size="4"> Pedro Santos </font><br>									
+          <font size="2">Project leader</font>
+          <h4>														
+          Affiliation: Fraunhofer IGD (FHG-IGD)
+          <br>
+          Phone: +49 6151 155-472
+          <br>
+          Fax: +49 6151 155-139
+          <br>
+				  Email: <a href="mailto:pedro.santos@igd.fraunhofer.de">pedro.santos@igd.fraunhofer.de</a>	
+          <br>
+          Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 9.4em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
 	   <th> <img src="/assets/images/sgrenzaroli.jpg" alt="Matteo Sgrenzaroli">
 		</th>
 		<th style="text-align: left"> <font size="4"> Matteo Sgrenzaroli </font><br>									
