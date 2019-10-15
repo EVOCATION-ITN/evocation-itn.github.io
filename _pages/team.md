@@ -46,6 +46,33 @@ permalink: /team/
   <col width="130">
   <col width="593">
 	<tr>
+	   <th> <img src="/assets/images/gobbetti.jpg" alt="Enrico Gobbetti">
+		</th>
+		<th style="text-align: left"> <font size="4"> Enrico Gobbetti </font><br>									
+          <font size="2">Project leader and Co-PI</font>
+          <h4>														
+          Affiliation: Center for Advanced Studies, Research and Development in Sardinia (CRS4)
+          <br>
+          Phone: +39 070 9250 212
+          <br>
+          Fax: +39 070 9250 216
+          <br>
+				  Email: <a href="mailto:gobbetti@crs4.it">gobbetti@crs4.it</a>	
+          <br>
+          Webpage: <a href="http://www.crs4.it/vic/">http://www.crs4.it/vic/</a>	
+          </h4>						
+        </th>
+        <!--<th> </th>-->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
 	   <th> <img src="/assets/images/pajarola.JPG" alt="Renato Pajarola">
 		</th>
 		<th style="text-align: left"> <font size="4"> Renato Pajarola </font><br>									
@@ -69,32 +96,6 @@ permalink: /team/
 </tbody>		
 </table>
 
-<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
-	<tbody>	
-  <col width="130">
-  <col width="593">
-	<tr>
-	   <th> <img src="/assets/images/gobbetti.jpg" alt="Enrico Gobbetti">
-		</th>
-		<th style="text-align: left"> <font size="4"> Enrico Gobbetti </font><br>									
-          <font size="2">Project leader</font>
-          <h4>														
-          Affiliation: Center for Advanced Studies, Research and Development in Sardinia (CRS4)
-          <br>
-          Phone: +39 070 9250 212
-          <br>
-          Fax: +39 070 9250 216
-          <br>
-				  Email: <a href="mailto:gobbetti@crs4.it">gobbetti@crs4.it</a>	
-          <br>
-          Webpage: <a href="http://www.crs4.it/vic/">http://www.crs4.it/vic/</a>	
-          </h4>						
-        </th>
-        <!--<th> </th>-->
-    </tr>
-
-</tbody>		
-</table>
 
 <table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
 	<tbody>	
