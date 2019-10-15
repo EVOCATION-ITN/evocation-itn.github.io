@@ -500,7 +500,7 @@ permalink: /team/
           <br>
 				  Email: <a href="mailto:Yuetong.Li@isti.cnr.it">Yuetong.Li@isti.cnr.it</a>
           <br>
-          Webpage: <a href="http://vcg.isti.cnr.it/~li/">http://vcg.isti.cnr.it/~li/</a>	
+          Webpage: <a href="http://vcg.isti.cnr.it/">http://vcg.isti.cnr.it/</a>	
           </h4>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
