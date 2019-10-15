@@ -511,6 +511,35 @@ permalink: /team/
 </tbody>		
 </table>
 
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/IasonManolas.jpg" alt="Iason Manolas">
+		</th>
+		<th style="text-align: left"> <font size="4"> Iason Manolas </font><br>									
+          <font size="2">PhD Student / Early Stage Researcher</font>
+          <h4>														
+          Affiliation: Consiglio Nazionale delle Ricerche (CNR)
+          <br>
+          Phone: 
+          <br>
+          Fax: 
+          <br>
+				  Email: <a href="mailto:iason.manolas@isti.cnr.it">iason.manolas@isti.cnr.it</a>
+          <br>
+          Webpage: <a href="http://vcg.isti.cnr.it/">http://vcg.isti.cnr.it/</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
