@@ -422,6 +422,35 @@ permalink: /team/
 </tbody>		
 </table>
 
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/MaryGuindy.jpg" alt="Mary Mohsen Messak Guindy">
+		</th>
+		<th style="text-align: left"> <font size="4"> Mary Mohsen Messak Guindy </font><br>									
+          <font size="2">PhD Student / Early Stage Researcher</font>
+          <h4>														
+          Affiliation: Holografika Ltd. (HOLO)
+          <br>
+          Phone: +36706574977 
+          <br>
+          Fax: 
+          <br>
+				  Email: <a href="mailto:m.guindy@holografika.com">m.guindy@holografika.com</a>
+          <br>
+          Webpage: <a href="https://www.holografika.com">https://www.holografika.com</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
