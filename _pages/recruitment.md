@@ -7,9 +7,9 @@ row1:
     - alt: "EVOCATION"
       title: "Foveated rendering for large-high-resolution displays"
       excerpt: "ESR01 (University of Rostock, Germany)"
-      btn_label: "Read More"
+      btn_label: "Hiring Pending"
       btn_class: "btn--info btn--small"
-      url: /recruitment/esr01/
+      url: /recruitment/
     - alt: "EVOCATION"
       title: "Real-time acquisition for collaborative telepresence on LHDs"
       excerpt: "ESR02 (University of Rostock, Germany)"
