@@ -6,7 +6,7 @@ classes: wide
 permalink: /team/
 ---
 
-## Project leaders 
+## Project Leaders 
 <!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
 
 <!--<table style="background-color: #ffffff; filter: alpha(opacity=40); opacity: 0.95;border:1px grey solid; width:723px">
@@ -571,7 +571,7 @@ permalink: /team/
 </table>
 
 
-## Project management
+## Project Management
 
 <table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
 	<tbody>	
@@ -580,7 +580,7 @@ permalink: /team/
   <!-- <col width="130">
   <col width="80"> -->	
 	<tr>
-	   <th> <img src="/assets/images/TariqulIslam.jpg" alt="Tariqul Islam">
+	   <th> <img src="/assets/images/TariqulIslam.png" alt="Tariqul Islam">
 		</th>
 		<th style="text-align: left">  <font size="4"> Tariqul Islam </font><br>									
           <font size="2">Project Manager / Scientific Researcher</font>
@@ -640,7 +640,7 @@ permalink: /team/
   <!-- <col width="130">
   <col width="80"> -->	
 	<tr>
-	   <th> <img src="/assets/images/ZsuzsaDobranyi.jpg" alt="Zsuzsa Dobranyi">
+	   <th> <img src="/assets/images/ZsuzsaDobrnyi.jpg" alt="Zsuzsa Dobranyi">
 		</th>
 		<th style="text-align: left">  <font size="4"> Zsuzsa Dobranyi </font><br>									
           <font size="2">Administrative assistant</font>
