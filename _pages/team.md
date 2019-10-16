@@ -570,6 +570,99 @@ permalink: /team/
 </tbody>		
 </table>
 
+
+## Project management
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+  <!-- <col width="130">
+  <col width="80"> -->	
+	<tr>
+	   <th> <img src="/assets/images/TariqulIslam.jpg" alt="Tariqul Islam">
+		</th>
+		<th style="text-align: left">  <font size="4"> Tariqul Islam </font><br>									
+          <font size="2">Project Manager / Scientific Researcher</font>
+          <h4>														
+          Affiliation: University of Rostock (UROS)
+          <br>
+          Phone: +49 381 4987487
+          <br>
+          Fax: +49 381 4987482
+          <br>
+				  Email: <a href="mailto:a.islam@uni-rostock.de">a.islam@uni-rostock.de</a>	
+          <br>
+          Webpage: <a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>	
+          </h4>						
+        </th>
+        <!-- <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
+        <th>&emsp; &emsp; &emsp; &emsp;</th> -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+  <!-- <col width="130">
+  <col width="80"> -->	
+	<tr>
+	   <th> <img src="/assets/images/FabioBettio.jpg" alt="Fabio Bettio">
+		</th>
+		<th style="text-align: left">  <font size="4"> Fabio Bettio </font><br>									
+          <font size="2">Systems Engineer / Training Coordination Support</font>
+          <h4>														
+          Affiliation: Center for Advanced Studies, Research and Development in Sardinia (CRS4)
+          <br>
+          Phone: +39 070 9250 254
+          <br>
+          Fax: +39 070 9250 216
+          <br>
+				  Email: <a href="mailto:fabio@crs4.it">fabio@crs4.it</a>	
+          <br>
+          Webpage: <a href="http://www.crs4.it/vic/">http://www.crs4.it/vic/</a>	
+          </h4>						
+        </th>
+        <!-- <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
+        <th>&emsp; &emsp; &emsp; &emsp;</th> -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+  <!-- <col width="130">
+  <col width="80"> -->	
+	<tr>
+	   <th> <img src="/assets/images/ZsuzsaDobranyi.jpg" alt="Zsuzsa Dobranyi">
+		</th>
+		<th style="text-align: left">  <font size="4"> Zsuzsa Dobranyi </font><br>									
+          <font size="2">Administrative assistant</font>
+          <h4>														
+          Affiliation: Holografika Ltd. (HOLO)
+          <br>
+          Phone: +36 1 2824921
+          <br>
+          Fax: +36 1 3581208
+          <br>
+				  Email: <a href="mailto:zs.dobranyi@holografika.com">zs.dobranyi@holografika.com</a>	
+          <br>
+          Webpage: <a href="http://www.holografika.com">http://www.holografika.com</a>	
+          </h4>						
+        </th>
+        <!-- <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
+        <th>&emsp; &emsp; &emsp; &emsp;</th> -->
+    </tr>
+
+</tbody>		
+</table>
+
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
