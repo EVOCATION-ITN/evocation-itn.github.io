@@ -546,7 +546,7 @@ permalink: /team/
   <col width="130">
   <col width="593">
 	<tr>
-	   <th> <img src="/assets/images/DanwuChen.jpg" alt="Danwu Chen">
+	   <th> <img src="/assets/images/Danwu_Chen.jpg" alt="Danwu Chen">
 		</th>
 		<th style="text-align: left"> <font size="4"> Danwu Chen </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
