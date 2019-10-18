@@ -553,7 +553,7 @@ permalink: /team/
           <h4>														
           Affiliation: Fraunhofer IGD (FHG-IGD)
           <br>
-          Phone: 
+          Phone: +4961511558839
           <br>
           Fax: 
           <br>
