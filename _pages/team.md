@@ -517,7 +517,7 @@ permalink: /team/
   <col width="130">
   <col width="593">
 	<tr>
-	   <th> <img src="/assets/images/IasonManolas.jpg" alt="Iason Manolas">
+	   <th> <img src="/assets/images/Manolas.jpg" alt="Iason Manolas">
 		</th>
 		<th style="text-align: left"> <font size="4"> Iason Manolas </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
