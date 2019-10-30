@@ -29,12 +29,6 @@ row2:
       btn_label: "Read More"
       btn_class: "btn--info btn--small"
       url: /recruitment/esr11/
-    - alt: "EVOCATION"
-      title: "Acquisition of complex and structured environments"
-      excerpt: "ESR14 (Gexcel, Italy)"
-      btn_label: "Read More"
-      btn_class: "btn--info btn--small"
-      url: /recruitment/esr14/
 row3:
     - alt: "EVOCATION"
       title: "Scalable exploration of complex objects and environments beyond plain visual replication"
@@ -92,6 +86,13 @@ row5:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
+row6:    
+    - alt: "EVOCATION"
+      title: "Acquisition of complex and structured environments"
+      excerpt: "ESR14 (Gexcel, Italy)"
+      btn_label: "Hiring Completed"
+      btn_class: "btn--info btn--small"
+      url: /recruitment/      
 ---
 ## Open PhD Positions
 
@@ -113,6 +114,7 @@ The host network includes prestigious institutions from across Europe.
 {% include feature_row id="row3" %}
 {% include feature_row id="row4" %}
 {% include feature_row id="row5" %}
+{% include feature_row id="row6" %}
 
 
 
