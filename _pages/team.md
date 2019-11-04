@@ -230,7 +230,36 @@ permalink: /team/
           <br>
           Fax: (+39) 030 6595020
           <br>
-				  Email:
+				  Email:<a href="mailto:matteo.sgrenzaroli@gexcel.it">matteo.sgrenzaroli@gexcel.it</a>
+          <br>
+          Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 12.9em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/vassena.jpg" alt="Giorgio Paolo Maria Vassena">
+		</th>
+		<th style="text-align: left"> <font size="4"> Giorgio Paolo Maria Vassena </font><br>									
+          <font size="2">Project leader</font>
+          <h4>														
+          Affiliation: Gexcel Srl (GEXCEL)
+          <br>
+          Phone: (+39) 030 6595001  
+          <br>
+          Fax: (+39) 030 6595020
+          <br>
+				  Email:<a href="mailto:giorgio.vassena@gexcel.it">giorgio.vassena@gexcel.it</a>
           <br>
           Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>	
           </h4>						
@@ -570,6 +599,34 @@ permalink: /team/
 </tbody>		
 </table>
 
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/armando.jpg" alt="Armando Arturo Sánchez Alcázar">
+		</th>
+		<th style="text-align: left"> <font size="4"> Armando Arturo Sánchez Alcázar </font><br>									
+          <font size="2">PhD Student / Early Stage Researcher</font>
+          <h4>														
+          Affiliation: Gexcel Srl (GEXCEL)
+          <br>
+          Phone: (+39) 030 6595001
+          <br>
+          Fax: (+39) 030 6595020
+          <br>
+				  Email: <a href="mailto:evocation@gexcel.it">evocation@gexcel.it</a>
+          <br>
+          Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
 
 ## Project Management
 
@@ -583,7 +640,7 @@ permalink: /team/
 	   <th> <img src="/assets/images/TariqulIslam.png" alt="Tariqul Islam">
 		</th>
 		<th style="text-align: left">  <font size="4"> Tariqul Islam </font><br>									
-          <font size="2">Project Manager / Scientific Researcher</font>
+          <font size="2">Project Manager / Senior Scientific Researcher</font>
           <h4>														
           Affiliation: University of Rostock (UROS)
           <br>
