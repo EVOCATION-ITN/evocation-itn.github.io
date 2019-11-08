@@ -557,7 +557,7 @@ permalink: /team/
           <br>
           Fax: 
           <br>
-				  Email: <a href="mailto:iason.manolas@isti.cnr.it">iason.manolas@isti.cnr.it</a>
+				  Email: <a href="mailto:iason.manolas@phd.unipi.it">iason.manolas@phd.unipi.it</a>
           <br>
           Webpage: <a href="http://vcg.isti.cnr.it/">http://vcg.isti.cnr.it/</a>	
           </h4>						
