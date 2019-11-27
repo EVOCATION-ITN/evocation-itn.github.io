@@ -489,7 +489,7 @@ permalink: /team/
 	<tr>
 	   <th> <img src="/assets/images/JoaoLiborio.jpg" alt="Joao Liborio Cardoso">
 		</th>
-		<th style="text-align: left"> <font size="4"> Joao Liborio </font><br>									
+		<th style="text-align: left"> <font size="4"> Joao Cardoso </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
           <h4>														
           Affiliation: TU Wien (TUW)
