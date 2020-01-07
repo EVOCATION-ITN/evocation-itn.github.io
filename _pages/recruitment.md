@@ -144,7 +144,7 @@ You need to be flexible to travel throughout the Europe in order to exchange exp
 
 Candidates will be interviewed by teleconference or called to interview soon after the application deadline.
 
-## Employment Details
+## Employment Detail
 
 **Starting date:** Starting date is possible immediately\\
 **Contract duration:** 36 months\\
