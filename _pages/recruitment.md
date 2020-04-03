@@ -13,22 +13,22 @@ row1:
     - alt: "EVOCATION"
       title: "Real-time acquisition for collaborative telepresence on LHDs"
       excerpt: "ESR02 (University of Rostock, Germany)"
-      btn_label: "Read More"
+      btn_label: "Hiring Pending"
       btn_class: "btn--info btn--small"
-      url: /recruitment/esr02/
+      url: /recruitment/
     - alt: "EVOCATION"
       title: "Scalable reconstruction and exploration of complex indoor environments"
       excerpt: "ESR03 (CRS4, Italy)"
-      btn_label: "Read More"
+      btn_label: "Hiring Pending"
       btn_class: "btn--info btn--small"
-      url: /recruitment/esr03/
+      url: /recruitment/
 row2:    
     - alt: "EVOCATION"
       title: "Standardizing optical material properties"
       excerpt: "ESR11 (Fraunhofer IGD, Germany)"
-      btn_label: "Read More"
+      btn_label: "Hiring Pending"
       btn_class: "btn--info btn--small"
-      url: /recruitment/esr11/
+      url: /recruitment/
 row3:
     - alt: "EVOCATION"
       title: "Scalable exploration of complex objects and environments beyond plain visual replication"
