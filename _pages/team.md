@@ -512,7 +512,7 @@ permalink: /team/
 </table>
 
 
-<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+<!-- <table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
 	<tbody>	
   <col width="130">
   <col width="593">
@@ -539,7 +539,7 @@ permalink: /team/
     </tr>
 
 </tbody>		
-</table>
+</table> -->
 
 <table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
 	<tbody>	
