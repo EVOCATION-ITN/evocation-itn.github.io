@@ -152,7 +152,7 @@ Candidates will be interviewed by teleconference or called to interview soon aft
 
 **The exact salary will be confirmed upon appointment** and is dependent on a predetermined country correction factor, includes living allowance basic gross salary. An approximate guide to salary:
 
-* Living allowance basic gross salary: approx. €3,2170 per month. This amount is adjusted through the application of a country correction coefficient to the living allowance of the country in which the researcher will be recruited.
+* Living allowance basic gross salary: approx. €3,217 per month. This amount is adjusted through the application of a country correction coefficient to the living allowance of the country in which the researcher will be recruited.
 * Mobility allowance: €600 per month
 * Family allowance (if applicable): €500/month
 * Additional funding for participation to courses, workshops, conferences, etc. is available.
