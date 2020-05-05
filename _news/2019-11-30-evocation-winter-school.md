@@ -10,7 +10,7 @@ title: EVOCATION first winter school in Vienna, Austria
 The first winter school of EVOCATION took place in Vienna, Austria from 27-29 November, 2019. The winter school is the first time that the whole EVOCATION network was brought together and that all the Early Stage Researchers (ESRs) and Project Leaders (PIs) got a chance to meet each other. The purpose of the school is therefore three-fold: to introduce the ESRs to the scientific topics covered within the EVOCATION network, to involve them in training and networking activities through courses from experts on the scientific topics of EVOCATION and exposing them (via a co-located event: GCD symposium) to other scientific communities from outside of the EVOCATION network, and to have ESRs and PIs get to know each other and their respective research areas.
 
 <figure>
-  <img style='vertical-align:middle;' src="/assets/images/WinterSchool2.jpg" alt="Winter School participants at GCD symposium" style="width:100%">
+  <img src="/assets/images/WinterSchool2.jpg" alt="Winter School participants at GCD symposium" style="width:100%">
   <figcaption>Winter School participants at GCD symposium.</figcaption>
 </figure>
 
