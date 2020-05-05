@@ -22,6 +22,7 @@ On the first day, the project plan was introduced to the participants, which was
   <figcaption>Winter School participants at social gathering.</figcaption>
 </figure>
 -->
+
 Most of the participants stayed together in a hotel in the downtown of Vienna that was easily connected with the event venue. In the evenings, they participated in social activities to encourage bonding as a team and the development of personal relationships with the newcomers.
 
 
