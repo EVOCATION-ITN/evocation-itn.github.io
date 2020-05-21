@@ -219,6 +219,64 @@ permalink: /team/
   <col width="130">
   <col width="593">
 	<tr>
+	   <th> <img src="/assets/images/MartinRitz.jpg" alt="Martin Ritz">
+		</th>
+		<th style="text-align: left"> <font size="4"> Martin Ritz </font><br>									
+          <font size="2">Project leader / Fellow supervisor</font>
+          <h4>														
+          Affiliation: Fraunhofer IGD (FHG-IGD)
+          <br>
+          Phone: +49 6151 155-607
+          <br>
+          Fax: +49 6151 155-139
+          <br>
+				  Email: <a href="mailto:martin.ritz@igd.fraunhofer.de">martin.ritz@igd.fraunhofer.de</a>	
+          <br>
+          Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 9.4em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/MatevzDomajnko.jpg" alt="Matevz Domajnko ">
+		</th>
+		<th style="text-align: left"> <font size="4"> Matevz Domajnko </font><br>									
+          <font size="2">Fellow supervisor</font>
+          <h4>														
+          Affiliation: Fraunhofer IGD (FHG-IGD)
+          <br>
+          Phone: +49 6151 155-648
+          <br>
+          Fax: +49 6151 155-139
+          <br>
+				  Email: <a href="mailto:matevz.domajnko@igd.fraunhofer.de">matevz.domajnko@igd.fraunhofer.de</a>	
+          <br>
+          Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 9.4em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
 	   <th> <img src="/assets/images/sgrenzaroli.jpg" alt="Matteo Sgrenzaroli">
 		</th>
 		<th style="text-align: left"> <font size="4"> Matteo Sgrenzaroli </font><br>									
@@ -589,6 +647,35 @@ permalink: /team/
 				  Email: <a href="mailto:evocation@gexcel.it">evocation@gexcel.it</a>
           <br>
           Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>	
+          </h4>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/TarekAbuHaila.jpg" alt="Tarek Abu Haila">
+		</th>
+		<th style="text-align: left"> <font size="4"> Tarek Abu Haila </font><br>									
+          <font size="2">PhD Student / Early Stage Researcher</font>
+          <h4>														
+          Affiliation: Fraunhofer IGD (FHG-IGD)
+          <br>
+          Phone: (+35) 841 7177802 
+          <br>
+          Fax: (+49) 6151 155-139
+          <br>
+				  Email: <a href="mailto:Tarek.Aiu@gmail.com">Tarek.Aiu@gmail.com</a>
+          <br>
+          Webpage:	
           </h4>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
