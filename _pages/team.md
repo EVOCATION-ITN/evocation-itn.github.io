@@ -22,7 +22,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left">  <font size="4"> Oliver Staadt </font><br>									
           <font size="2">Project Coordinator / Project leader</font>
-          <h4>														
+          <h6>														
           Affiliation: University of Rostock (UROS)
           <br>
           Phone: +49 381 4987480
@@ -32,7 +32,7 @@ permalink: /team/
 				  Email: <a href="mailto:oliver.staadt@uni-rostock.de">oliver.staadt@uni-rostock.de</a>	
           <br>
           Webpage: <a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>	
-          </h4>						
+          </h6>						
         </th>
         <!-- <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
         <th>&emsp; &emsp; &emsp; &emsp;</th> -->
