@@ -50,7 +50,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Enrico Gobbetti </font><br>									
           <font size="2">Project leader / Co-PI</font>
-          <h4>														
+          <h6>														
           Affiliation: Center for Advanced Studies, Research and Development in Sardinia (CRS4)
           <br>
           Phone: +39 070 9250 212
@@ -60,7 +60,7 @@ permalink: /team/
 				  Email: <a href="mailto:gobbetti@crs4.it">gobbetti@crs4.it</a>	
           <br>
           Webpage: <a href="http://www.crs4.it/vic/">http://www.crs4.it/vic/</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> </th>-->
     </tr>
@@ -77,7 +77,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Renato Pajarola </font><br>									
           <font size="2">Project leader</font>
-          <h4>														
+          <h6>														
           Affiliation: University of Zürich (UZH)
           <br>
           Phone: +41 44 635 4370
@@ -87,7 +87,7 @@ permalink: /team/
 				  Email: <a href="mailto:pajarola@ifi.uzh.ch">pajarola@ifi.uzh.ch</a>	
           <br>
           Webpage: <a href="http://www.ifi.uzh.ch/vmml/">http://www.ifi.uzh.ch/vmml/</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
         <th>&emsp; &emsp; &emsp; &emsp;</th> -->
@@ -106,7 +106,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Tibor Balogh </font><br>									
           <font size="2">Project leader</font>
-          <h4>														
+          <h6>														
           Affiliation: Holografika Ltd. (HOLO)
           <br>
           Phone: +36 1 2824921
@@ -116,7 +116,7 @@ permalink: /team/
 				  Email: <a href="mailto:t.balogh@holografika.com">t.balogh@holografika.com</a>	
           <br>
           Webpage: <a href="http://www.holografika.com">http://www.holografika.com</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
         <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -136,7 +136,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Michael Wimmer </font><br>									
           <font size="2">Project leader</font>
-          <h4>														
+          <h6>														
           Affiliation: TU Wien (TUW)
           <br>
           Phone: +43-1-58801-18687
@@ -146,7 +146,7 @@ permalink: /team/
 				  Email:
           <br>
           Webpage: <a href="hhttp://www.tuwien.ac.at">http://www.tuwien.ac.at</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 11.9em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -165,7 +165,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Philipp Urban </font><br>									
           <font size="2">Project leader</font>
-          <h4>														
+          <h6>														
           Affiliation: Fraunhofer IGD (FHG-IGD)
           <br>
           Phone: +49 6151 155-250
@@ -175,7 +175,7 @@ permalink: /team/
 				  Email: <a href="mailto:philipp.urban@igd.fraunhofer.de">philipp.urban@igd.fraunhofer.de</a>	
           <br>
           Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 9.4em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -194,7 +194,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Pedro Santos </font><br>									
           <font size="2">Project leader</font>
-          <h4>														
+          <h6>														
           Affiliation: Fraunhofer IGD (FHG-IGD)
           <br>
           Phone: +49 6151 155-472
@@ -204,7 +204,7 @@ permalink: /team/
 				  Email: <a href="mailto:pedro.santos@igd.fraunhofer.de">pedro.santos@igd.fraunhofer.de</a>	
           <br>
           Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 9.4em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -223,7 +223,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Martin Ritz </font><br>									
           <font size="2">Project leader / Fellow supervisor</font>
-          <h4>														
+          <h6>														
           Affiliation: Fraunhofer IGD (FHG-IGD)
           <br>
           Phone: +49 6151 155-607
@@ -233,7 +233,7 @@ permalink: /team/
 				  Email: <a href="mailto:martin.ritz@igd.fraunhofer.de">martin.ritz@igd.fraunhofer.de</a>	
           <br>
           Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 9.4em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -252,7 +252,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Matevz Domajnko </font><br>									
           <font size="2">Fellow supervisor</font>
-          <h4>														
+          <h6>														
           Affiliation: Fraunhofer IGD (FHG-IGD)
           <br>
           Phone: +49 6151 155-648
@@ -262,7 +262,7 @@ permalink: /team/
 				  Email: <a href="mailto:matevz.domajnko@igd.fraunhofer.de">matevz.domajnko@igd.fraunhofer.de</a>	
           <br>
           Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 9.4em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -281,7 +281,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Matteo Sgrenzaroli </font><br>									
           <font size="2">Project leader</font>
-          <h4>														
+          <h6>														
           Affiliation: Gexcel Srl (GEXCEL)
           <br>
           Phone: (+39) 030 6595001  
@@ -291,7 +291,7 @@ permalink: /team/
 				  Email:<a href="mailto:matteo.sgrenzaroli@gexcel.it">matteo.sgrenzaroli@gexcel.it</a>
           <br>
           Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 12.9em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -310,7 +310,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Giorgio Paolo Maria Vassena </font><br>									
           <font size="2">Project leader</font>
-          <h4>														
+          <h6>														
           Affiliation: Gexcel Srl (GEXCEL)
           <br>
           Phone: (+39) 030 6595001  
@@ -320,7 +320,7 @@ permalink: /team/
 				  Email:<a href="mailto:giorgio.vassena@gexcel.it">giorgio.vassena@gexcel.it</a>
           <br>
           Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 12.9em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -339,7 +339,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Paolo Cignoni </font><br>									
           <font size="2">Project leader</font>
-          <h4>														
+          <h6>														
           Affiliation: Consiglio Nazionale delle Ricerche (CNR)
           <br>
           Phone: +39 050 3152926  
@@ -349,7 +349,7 @@ permalink: /team/
 				  Email: <a href="mailto:paolo.cignoni@isti.cnr.it">paolo.cignoni@isti.cnr.it</a>	
           <br>
           Webpage: <a href="http://vcg.isti.cnr.it">http://vcg.isti.cnr.it</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -368,7 +368,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Attila Barsi </font><br>									
           <font size="2">Fellow supervisor</font>
-          <h4>														
+          <h6>														
           Affiliation: Holografika Ltd. (HOLO)
           <br>
           Phone: +36-1-282-4921  
@@ -378,7 +378,7 @@ permalink: /team/
 				  Email: <a href="mailto:a.barsi@holografika.com">a.barsi@holografika.com</a>	
           <br>
           Webpage: <a href="http://www.holografika.com">http://www.holografika.com</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -403,7 +403,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Adam Celarek </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
-          <h4>														
+          <h6>														
           Affiliation: TU Wien (TUW)
           <br>
           Phone:  
@@ -413,7 +413,7 @@ permalink: /team/
 				  Email: 
           <br>
           Webpage: <a href="http://www.celarek.at">http://www.celarek.at</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -432,7 +432,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Lizeth Joseline Fuentes Perez </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
-          <h4>														
+          <h6>														
           Affiliation: University of Zürich (UZH)
           <br>
           Phone: +41 44 635 75 84 
@@ -442,7 +442,7 @@ permalink: /team/
 				  Email: <a href="mailto:fuentes@ifi.uzh.ch">fuentes@ifi.uzh.ch</a>
           <br>
           Webpage: <a href="https://lishh.github.io">https://lishh.github.io</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -461,7 +461,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Luciano Arnaldo Romero Calla </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
-          <h4>														
+          <h6>														
           Affiliation: University of Zürich (UZH)
           <br>
           Phone: +41 44 635 75 38 
@@ -471,7 +471,7 @@ permalink: /team/
 				  Email: <a href="mailto:romero@ifi.uzh.ch">romero@ifi.uzh.ch</a>
           <br>
           Webpage: <a href="https://larc.github.io">https://larc.github.io</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -490,7 +490,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Moonisa Ahsan </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
-          <h4>														
+          <h6>														
           Affiliation: Center for Advanced Studies, Research and Development in Sardinia (CRS4)
           <br>
           Phone: +39-070-9250-1 
@@ -500,7 +500,7 @@ permalink: /team/
 				  Email: <a href="mailto:moonisa@crs4.it">moonisa@crs4.it</a>
           <br>
           Webpage: <a href="https://www.crs4.it/vic/cgi-bin/people-page.cgi?name=%27moonisa.ahsan%27">https://www.crs4.it/vic/cgi-bin/people-page.cgi?name=%27moonisa.ahsan%27</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -519,7 +519,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Mary Mohsen Messak Guindy </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
-          <h4>														
+          <h6>														
           Affiliation: Holografika Ltd. (HOLO)
           <br>
           Phone: +36706574977 
@@ -529,7 +529,7 @@ permalink: /team/
 				  Email: <a href="mailto:m.guindy@holografika.com">m.guindy@holografika.com</a>
           <br>
           Webpage: <a href="https://www.holografika.com">https://www.holografika.com</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -549,7 +549,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Joao Cardoso </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
-          <h4>														
+          <h6>														
           Affiliation: TU Wien (TUW)
           <br>
           Phone: +43-1-58801-18686 
@@ -559,7 +559,7 @@ permalink: /team/
 				  Email: <a href="mailto:jaliborc@cg.tuwien.ac.at">jaliborc@cg.tuwien.ac.at</a>
           <br>
           Webpage: <a href="http://www.jaliborc.com/">http://www.jaliborc.com/</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -579,7 +579,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Iason Manolas </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
-          <h4>														
+          <h6>														
           Affiliation: Consiglio Nazionale delle Ricerche (CNR)
           <br>
           Phone: +306943860133
@@ -589,7 +589,7 @@ permalink: /team/
 				  Email: <a href="mailto:iason.manolas@phd.unipi.it">iason.manolas@phd.unipi.it</a>
           <br>
           Webpage: <a href="http://vcg.isti.cnr.it/">http://vcg.isti.cnr.it/</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -608,7 +608,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Danwu Chen </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
-          <h4>														
+          <h6>														
           Affiliation: Fraunhofer IGD (FHG-IGD)
           <br>
           Phone: +4961511558839
@@ -618,7 +618,7 @@ permalink: /team/
 				  Email: <a href="mailto:danwu.chen@igd.fraunhofer.de">danwu.chen@igd.fraunhofer.de</a>
           <br>
           Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -637,7 +637,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Armando Arturo Sánchez Alcázar </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
-          <h4>														
+          <h6>														
           Affiliation: Gexcel Srl (GEXCEL)
           <br>
           Phone: (+39) 030 6595001
@@ -647,7 +647,7 @@ permalink: /team/
 				  Email: <a href="mailto:evocation@gexcel.it">evocation@gexcel.it</a>
           <br>
           Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -666,7 +666,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left"> <font size="4"> Tarek Abu Haila </font><br>									
           <font size="2">PhD Student / Early Stage Researcher</font>
-          <h4>														
+          <h6>														
           Affiliation: Fraunhofer IGD (FHG-IGD)
           <br>
           Phone: (+35) 841 7177802 
@@ -676,7 +676,7 @@ permalink: /team/
 				  Email: <a href="mailto:Tarek.Aiu@gmail.com">Tarek.Aiu@gmail.com</a>
           <br>
           Webpage:	
-          </h4>						
+          </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
@@ -699,7 +699,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left">  <font size="4"> Tariqul Islam </font><br>									
           <font size="2">Project Manager / Senior Scientific Researcher</font>
-          <h4>														
+          <h6>														
           Affiliation: University of Rostock (UROS)
           <br>
           Phone: +49 381 4987487
@@ -709,7 +709,7 @@ permalink: /team/
 				  Email: <a href="mailto:a.islam@uni-rostock.de">a.islam@uni-rostock.de</a>	
           <br>
           Webpage: <a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>	
-          </h4>						
+          </h6>						
         </th>
         <!-- <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
         <th>&emsp; &emsp; &emsp; &emsp;</th> -->
@@ -729,7 +729,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left">  <font size="4"> Fabio Bettio </font><br>									
           <font size="2">Systems Engineer / Training Coordination Support</font>
-          <h4>														
+          <h6>														
           Affiliation: Center for Advanced Studies, Research and Development in Sardinia (CRS4)
           <br>
           Phone: +39 070 9250 254
@@ -739,7 +739,7 @@ permalink: /team/
 				  Email: <a href="mailto:fabio@crs4.it">fabio@crs4.it</a>	
           <br>
           Webpage: <a href="http://www.crs4.it/vic/">http://www.crs4.it/vic/</a>	
-          </h4>						
+          </h6>						
         </th>
         <!-- <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
         <th>&emsp; &emsp; &emsp; &emsp;</th> -->
@@ -759,7 +759,7 @@ permalink: /team/
 		</th>
 		<th style="text-align: left">  <font size="4"> Zsuzsa Dobranyi </font><br>									
           <font size="2">Administrative assistant</font>
-          <h4>														
+          <h6>														
           Affiliation: Holografika Ltd. (HOLO)
           <br>
           Phone: +36 1 2824921
@@ -769,7 +769,7 @@ permalink: /team/
 				  Email: <a href="mailto:zs.dobranyi@holografika.com">zs.dobranyi@holografika.com</a>	
           <br>
           Webpage: <a href="http://www.holografika.com">http://www.holografika.com</a>	
-          </h4>						
+          </h6>						
         </th>
         <!-- <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &emsp;</th>
         <th>&emsp; &emsp; &emsp; &emsp;</th> -->
