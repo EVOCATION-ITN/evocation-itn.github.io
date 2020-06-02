@@ -669,13 +669,13 @@ permalink: /team/
           <h6>														
           Affiliation: Fraunhofer IGD (FHG-IGD)
           <br>
-          Phone: (+35) 841 7177802 
+          Phone: (+49) 6151 155-608
           <br>
           Fax: (+49) 6151 155-139
           <br>
-				  Email: <a href="mailto:Tarek.Aiu@gmail.com">Tarek.Aiu@gmail.com</a>
+				  Email: <a href="mailto:tarek.abu.haila@igd.fraunhofer.de"> tarek.abu.haila@igd.fraunhofer.de</a>
           <br>
-          Webpage:	
+          Webpage:	<a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
