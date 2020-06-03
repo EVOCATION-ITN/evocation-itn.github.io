@@ -22,14 +22,7 @@ row1:
       btn_label: "Hiring Pending"
       btn_class: "btn--info btn--small"
       url: /recruitment/
-row2:    
-    - alt: "EVOCATION"
-      title: "Standardizing optical material properties"
-      excerpt: "ESR11 (Fraunhofer IGD, Germany)"
-      btn_label: "Hiring Pending"
-      btn_class: "btn--info btn--small"
-      url: /recruitment/
-row3:
+row2:
     - alt: "EVOCATION"
       title: "Scalable exploration of complex objects and environments beyond plain visual replication"
       excerpt: "ESR04 (CRS4, Italy)"
@@ -48,7 +41,7 @@ row3:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
-row4:
+row3:
     - alt: "EVOCATION"
       title: "Multimodal and Flexible 3D Acquisition"
       excerpt: "ESR07 (CNR, Italy)"
@@ -67,32 +60,39 @@ row4:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/     
-row5:
+row4:
     - alt: "EVOCATION"
       title: "New paradigms for navigation in and interaction with large captured data sets"
       excerpt: "ESR10 (TU Wien, Austria)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
+      - alt: "EVOCATION"
+      title: "Standardizing optical material properties"
+      excerpt: "ESR11 (Fraunhofer IGD, Germany)"
+      btn_label: "Hiring Pending"
+      btn_class: "btn--info btn--small"
+      url: /recruitment/ 
     - alt: "EVOCATION"
       title: "Color and translucency for fabrication"
       excerpt: "ESR12 (Fraunhofer IGD, Germany)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
+row5:  
     - alt: "EVOCATION"
       title: "Perceptually accurate light-field display rendering"
       excerpt: "ESR13 (Holografika, Hungary)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/
-row6:    
+      url: /recruitment/  
     - alt: "EVOCATION"
       title: "Acquisition of complex and structured environments"
       excerpt: "ESR14 (Gexcel, Italy)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/      
+      url: /recruitment/   
+        
 ---
 ## Open PhD Positions
 
