@@ -70,7 +70,7 @@ row4:
       - alt: "EVOCATION"
       title: "Standardizing optical material properties"
       excerpt: "ESR11 (Fraunhofer IGD, Germany)"
-      btn_label: "Hiring Pending"
+      btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/ 
     - alt: "EVOCATION"
