@@ -67,7 +67,7 @@ row4:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
-      - alt: "EVOCATION"
+    - alt: "EVOCATION"
       title: "Standardizing optical material properties"
       excerpt: "ESR11 (Fraunhofer IGD, Germany)"
       btn_label: "Hiring Completed"
