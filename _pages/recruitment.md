@@ -107,14 +107,13 @@ The host network includes prestigious institutions from across Europe.
 ## Still open positions
 
 {% include feature_row id="row1" %}
-{% include feature_row id="row2" %}
 
 ## Already filled positions
 
+{% include feature_row id="row2" %}
 {% include feature_row id="row3" %}
 {% include feature_row id="row4" %}
 {% include feature_row id="row5" %}
-{% include feature_row id="row6" %}
 
 
 
