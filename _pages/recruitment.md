@@ -5,12 +5,6 @@ classes: wide
 permalink: /recruitment/
 row1:
     - alt: "EVOCATION"
-      title: "Foveated rendering for large-high-resolution displays"
-      excerpt: "ESR01 (University of Rostock, Germany)"
-      btn_label: "Hiring Pending"
-      btn_class: "btn--info btn--small"
-      url: /recruitment/
-    - alt: "EVOCATION"
       title: "Real-time acquisition for collaborative telepresence on LHDs"
       excerpt: "ESR02 (University of Rostock, Germany)"
       btn_label: "Hiring Pending"
@@ -24,6 +18,12 @@ row1:
       url: /recruitment/
 row2:
     - alt: "EVOCATION"
+      title: "Foveated rendering for large-high-resolution displays"
+      excerpt: "ESR01 (University of Rostock, Germany)"
+      btn_label: "Hiring Completed"
+      btn_class: "btn--info btn--small"
+      url: /recruitment/
+    - alt: "EVOCATION"
       title: "Scalable exploration of complex objects and environments beyond plain visual replication"
       excerpt: "ESR04 (CRS4, Italy)"
       btn_label: "Hiring Completed"
@@ -35,13 +35,13 @@ row2:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
+row3:
     - alt: "EVOCATION"
       title: "Interactive and parallel visualization"
       excerpt: "ESR06 (University of Zurich, Switzerland)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
-row3:
     - alt: "EVOCATION"
       title: "Multimodal and Flexible 3D Acquisition"
       excerpt: "ESR07 (CNR, Italy)"
@@ -53,14 +53,14 @@ row3:
       excerpt: "ESR08 (CNR, Italy)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/
+      url: /recruitment/     
+row4:
     - alt: "EVOCATION"
       title: "Alternative representations for processing and visualizing large captured data sets"
       excerpt: "ESR09 (TU Wien, Austria)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/     
-row4:
+      url: /recruitment/
     - alt: "EVOCATION"
       title: "New paradigms for navigation in and interaction with large captured data sets"
       excerpt: "ESR10 (TU Wien, Austria)"
@@ -73,13 +73,13 @@ row4:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/ 
+row5:  
     - alt: "EVOCATION"
       title: "Color and translucency for fabrication"
       excerpt: "ESR12 (Fraunhofer IGD, Germany)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
-row5:  
     - alt: "EVOCATION"
       title: "Perceptually accurate light-field display rendering"
       excerpt: "ESR13 (Holografika, Hungary)"
