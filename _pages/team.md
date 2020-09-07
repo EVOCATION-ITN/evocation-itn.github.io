@@ -702,7 +702,7 @@ permalink: /team/
           <br>
           Fax: +49 381 4987482
           <br>
-				  Email: <a href="mailto:bipul.mohanto@outlook.com"> bipul.mohanto@outlook.com</a>
+				  Email: <a href="mailto:bipul.mohanto@uni-rostock.de"> bipul.mohanto@uni-rostock.de</a>
           <br>
           Webpage:	<a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>
           </h6>						
