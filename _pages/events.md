@@ -33,53 +33,64 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </tr>
 <tr>
 <td style="width: 10%;">09:15</td>
-<td style="width: 75.1667%;">&nbsp;</td>
-<td style="width: 10.8333%;">&nbsp;</td>
+<td style="width: 75.1667%;">
+<p>JAMES SHE / HKUST-NIE, Hong Kong</p>
+<p> AI and Art</p>
+</td>
+<td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">10:15</td>
-<td style="width: 75.1667%;">&nbsp;</td>
-<td style="width: 10.8333%;">&nbsp;</td>
+<td style="width: 75.1667%;">
+<p>Virtual Coffee break</p>
+</td>
+<td style="width: 10.8333%;">ALL</td>
 </tr>
 <tr>
 <td style="width: 10%;">10:30</td>
-<td style="width: 75.1667%;">&nbsp;</td>
-<td style="width: 10.8333%;">&nbsp;</td>
+<td style="width: 75.1667%;">
+<p>JAMES SHE / HKUST-NIE, Hong Kong</p>
+<p> AI and Art</p>
+</td>
+<td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">11:30</td>
-<td style="width: 75.1667%;">&nbsp;</td>
-<td style="width: 10.8333%;">&nbsp;</td>
+<td style="width: 75.1667%;">
+<p>JAMES SHE / HKUST-NIE, Hong Kong</p>
+<p> AI and Art</p></td>
+<td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">12:30</td>
 <td style="width: 75.1667%;">&nbsp;</td>
-<td style="width: 10.8333%;">&nbsp;</td>
+<td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">14:00</td>
 <td style="width: 75.1667%;">&nbsp;</td>
-<td style="width: 10.8333%;">&nbsp;</td>
+<td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">14:15</td>
 <td style="width: 75.1667%;">&nbsp;</td>
-<td style="width: 10.8333%;">&nbsp;</td>
+<td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">15:15</td>
 <td style="width: 75.1667%;">&nbsp;</td>
-<td style="width: 10.8333%;">&nbsp;</td>
+<td style="width: 10.8333%;">ALL</td>
 </tr>
 <tr>
 <td style="width: 10%;">15:30</td>
 <td style="width: 75.1667%;">&nbsp;</td>
-<td style="width: 10.8333%;">&nbsp;</td>
+<td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">17:30</td>
-<td style="width: 75.1667%;">&nbsp;</td>
-<td style="width: 10.8333%;">&nbsp;</td>
+<td style="width: 75.1667%;">
+<p> END OF SCHOOL - DAY 1</p></td>
+<td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 </tbody>
 </table>
