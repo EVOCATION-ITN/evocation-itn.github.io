@@ -18,63 +18,166 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 <tbody>
 <tr style="height: 21px; background-color: #eeeeee;">
 <td style="width: 7%; height: 21px;"><strong>Time</strong></td>
-<td style="width: 56.474%; height: 21px;">&nbsp;<strong>Program</strong></td>
-<td style="width: 34.526%; height: 21px;"><strong>Attendance</strong>&nbsp;</td>
+<td style="width: 67.9948%; height: 21px;">&nbsp;<strong>Program</strong></td>
+<td style="width: 21.0052%; height: 21px;"><strong>Attendance</strong>&nbsp;</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">09:00&nbsp;</td>
-<td style="width: 56.474%; height: 21px;">&nbsp;</td>
-<td style="width: 34.526%; height: 21px;">&nbsp;</td>
+<td style="width: 67.9948%; height: 21px;">ENRICO GOBBETTI / CRS4, Italy and OLIVER STAADT / UNIRO, Germany Welcome, introduction to program and to scientific sessions</td>
+<td style="width: 21.0052%; height: 21px;">
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>PIs + ESRs + Externals</p>
+</div>
+</div>
+</div>
+</div>
+</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">09:15&nbsp;</td>
-<td style="width: 56.474%; height: 21px;">&nbsp;</td>
-<td style="width: 34.526%; height: 21px;">&nbsp;</td>
+<td style="width: 67.9948%; height: 21px;">
+<p>JAMES SHE / HKUST-NIE, Hong Kong</p>
+<p>AI and Art</p>
+</td>
+<td style="width: 21.0052%; height: 21px;">
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>PIs + ESRs + Externals</p>
+</div>
+</div>
+</div>
+</div>
+</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">10:15&nbsp;</td>
-<td style="width: 56.474%; height: 21px;">&nbsp;</td>
-<td style="width: 34.526%; height: 21px;">&nbsp;</td>
+<td style="width: 67.9948%; height: 21px;">&nbsp;</td>
+<td style="width: 21.0052%; height: 21px;">ALL</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">10:30&nbsp;</td>
-<td style="width: 56.474%; height: 21px;">&nbsp;</td>
-<td style="width: 34.526%; height: 21px;">&nbsp;</td>
+<td style="width: 67.9948%; height: 21px;">&nbsp;</td>
+<td style="width: 21.0052%; height: 21px;">
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>PIs + ESRs + Externals</p>
+</div>
+</div>
+</div>
+</div>
+</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">11:30&nbsp;</td>
-<td style="width: 56.474%; height: 21px;">&nbsp;</td>
-<td style="width: 34.526%; height: 21px;">&nbsp;</td>
+<td style="width: 67.9948%; height: 21px;">&nbsp;</td>
+<td style="width: 21.0052%; height: 21px;">
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>PIs + ESRs + Externals</p>
+</div>
+</div>
+</div>
+</div>
+</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">12:30&nbsp;</td>
-<td style="width: 56.474%; height: 21px;">&nbsp;</td>
-<td style="width: 34.526%; height: 21px;">&nbsp;</td>
+<td style="width: 67.9948%; height: 21px;">&nbsp;</td>
+<td style="width: 21.0052%; height: 21px;">
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>ALL</p>
+</div>
+</div>
+</div>
+</div>
+</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">14:00&nbsp;</td>
-<td style="width: 56.474%; height: 21px;">&nbsp;</td>
-<td style="width: 34.526%; height: 21px;">&nbsp;</td>
+<td style="width: 67.9948%; height: 21px;">&nbsp;</td>
+<td style="width: 21.0052%; height: 21px;">
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>PIs + ESRs + Externals</p>
+</div>
+</div>
+</div>
+</div>
+</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">14:15&nbsp;</td>
-<td style="width: 56.474%; height: 21px;">&nbsp;</td>
-<td style="width: 34.526%; height: 21px;">&nbsp;</td>
+<td style="width: 67.9948%; height: 21px;">&nbsp;</td>
+<td style="width: 21.0052%; height: 21px;">
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>PIs + ESRs + Externals&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">15:15</td>
-<td style="width: 56.474%; height: 21px;">&nbsp;</td>
-<td style="width: 34.526%; height: 21px;">&nbsp;</td>
+<td style="width: 67.9948%; height: 21px;">&nbsp;</td>
+<td style="width: 21.0052%; height: 21px;">
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>PIs + ESRs + Externals</p>
+</div>
+</div>
+</div>
+</div>
+</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">15:30</td>
-<td style="width: 56.474%; height: 21px;">&nbsp;</td>
-<td style="width: 34.526%; height: 21px;">&nbsp;</td>
+<td style="width: 67.9948%; height: 21px;">&nbsp;</td>
+<td style="width: 21.0052%; height: 21px;">
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>PIs + ESRs + Externals</p>
+</div>
+</div>
+</div>
+</div>
+</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">17:30&nbsp;</td>
-<td style="width: 56.474%; height: 21px;">&nbsp;</td>
-<td style="width: 34.526%; height: 21px;">&nbsp;</td>
+<td style="width: 67.9948%; height: 21px;">&nbsp;</td>
+<td style="width: 21.0052%; height: 21px;">
+<div class="page" title="Page 17">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>PIs + ESRs + Externals</p>
+</div>
+</div>
+</div>
+</div>
+</td>
 </tr>
 </tbody>
 </table>
