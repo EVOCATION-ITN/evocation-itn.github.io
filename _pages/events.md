@@ -24,10 +24,10 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 <tr>
 <td style="width: 10%;">09:00</td>
 <td style="width: 75.1667%;">
-<p>Text</p>
-<p>subtext</p>
+<p>ENRICO GOBBETTI / CRS4, Italy and OLIVER STAADT / UNIRO, Germany</p>
+<p>Welcome, introduction to program and to scientific sessions</p>
 </td>
-<td style="width: 10.8333%;">Text</td>
+<td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">09:15</td>
