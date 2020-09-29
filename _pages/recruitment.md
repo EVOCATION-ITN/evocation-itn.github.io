@@ -16,6 +16,12 @@ row1:
       btn_label: "Hiring Pending"
       btn_class: "btn--info btn--small"
       url: /recruitment/
+    - alt: "EVOCATION"
+      title: "Multimodal and Flexible 3D Acquisition"
+      excerpt: "ESR07(CNR, Italy)"
+      btn_label: "Hiring Pending"
+      btn_class: "btn--info btn--small"
+      url: /recruitment/  
 row2:
     - alt: "EVOCATION"
       title: "Foveated rendering for large-high-resolution displays"
@@ -42,12 +48,12 @@ row3:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
-    - alt: "EVOCATION"
-      title: "Multimodal and Flexible 3D Acquisition"
-      excerpt: "ESR07 (CNR, Italy)"
-      btn_label: "Hiring Completed"
-      btn_class: "btn--info btn--small"
-      url: /recruitment/
+    #- alt: "EVOCATION"
+    #  title: "Multimodal and Flexible 3D Acquisition"
+    #  excerpt: "ESR07 (CNR, Italy)"
+    #  btn_label: "Hiring Completed"
+    #  btn_class: "btn--info btn--small"
+    #  url: /recruitment/
     - alt: "EVOCATION"
       title: "Geometry processing for 3D fabrication"
       excerpt: "ESR08 (CNR, Italy)"
