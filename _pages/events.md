@@ -16,7 +16,7 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 
 <table style="width: 100%;" border="2">
 <tbody>
-<tr>
+<tr style="background-color: #eeeeee;">
 <td style="width: 10%;"><strong>Time</strong></td>
 <td style="width: 75.1667%;"><strong>Program</strong></td>
 <td style="width: 10.8333%;"><strong>Attendance</strong></td>
