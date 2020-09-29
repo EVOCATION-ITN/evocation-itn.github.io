@@ -23,146 +23,55 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">09:00&nbsp;</td>
-<td style="width: 67.9948%; height: 21px;">ENRICO GOBBETTI / CRS4, Italy and OLIVER STAADT / UNIRO, Germany Welcome, introduction to program and to scientific sessions</td>
-<td style="width: 21.0052%; height: 21px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs + Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<td style="width: 67.9948%; height: 21px;">ENRICO GOBBETTI / CRS4, Italy and OLIVER STAADT / UNIRO, Germany Welcome, Introduction to program and to scientific sessions</td>
+<td style="width: 21.0052%; height: 21px;">&nbsp;</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">09:15&nbsp;</td>
 <td style="width: 67.9948%; height: 21px;">
-<p>JAMES SHE / HKUST-NIE, Hong Kong</p>
-<p>AI and Art</p>
+<p>JAMES SHE / HKUST-NIE, Hong Kong AI and Art</p>
 </td>
-<td style="width: 21.0052%; height: 21px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs + Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<td style="width: 21.0052%; height: 21px;">&nbsp;</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">10:15&nbsp;</td>
 <td style="width: 67.9948%; height: 21px;">&nbsp;</td>
-<td style="width: 21.0052%; height: 21px;">ALL</td>
+<td style="width: 21.0052%; height: 21px;">&nbsp;</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">10:30&nbsp;</td>
 <td style="width: 67.9948%; height: 21px;">&nbsp;</td>
-<td style="width: 21.0052%; height: 21px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs + Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<td style="width: 21.0052%; height: 21px;">&nbsp;</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">11:30&nbsp;</td>
 <td style="width: 67.9948%; height: 21px;">&nbsp;</td>
-<td style="width: 21.0052%; height: 21px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs + Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<td style="width: 21.0052%; height: 21px;">&nbsp;</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">12:30&nbsp;</td>
 <td style="width: 67.9948%; height: 21px;">&nbsp;</td>
-<td style="width: 21.0052%; height: 21px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>ALL</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<td style="width: 21.0052%; height: 21px;">&nbsp;</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">14:00&nbsp;</td>
 <td style="width: 67.9948%; height: 21px;">&nbsp;</td>
-<td style="width: 21.0052%; height: 21px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs + Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<td style="width: 21.0052%; height: 21px;">&nbsp;</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">14:15&nbsp;</td>
 <td style="width: 67.9948%; height: 21px;">&nbsp;</td>
-<td style="width: 21.0052%; height: 21px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs + Externals&nbsp;</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<td style="width: 21.0052%; height: 21px;">&nbsp;</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">15:15</td>
 <td style="width: 67.9948%; height: 21px;">&nbsp;</td>
-<td style="width: 21.0052%; height: 21px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs + Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<td style="width: 21.0052%; height: 21px;">&nbsp;</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">15:30</td>
 <td style="width: 67.9948%; height: 21px;">&nbsp;</td>
-<td style="width: 21.0052%; height: 21px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs + Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<td style="width: 21.0052%; height: 21px;">&nbsp;</td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 7%; height: 21px;">17:30&nbsp;</td>
@@ -172,7 +81,7 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 <div class="section">
 <div class="layoutArea">
 <div class="column">
-<p>PIs + ESRs + Externals</p>
+<p>&nbsp;</p>
 </div>
 </div>
 </div>
