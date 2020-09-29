@@ -18,7 +18,7 @@ row1:
       url: /recruitment/
     - alt: "EVOCATION"
       title: "Multimodal and Flexible 3D Acquisition"
-      excerpt: "ESR07(CNR, Italy)"
+      excerpt: "ESR07 (CNR, Italy)"
       btn_label: "Hiring Pending"
       btn_class: "btn--info btn--small"
       url: /recruitment/  
