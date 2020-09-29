@@ -16,14 +16,14 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 
 <table style="width: 70%;" border="2" cellpadding="1">
 <tbody>
-<tr>
-<td style="width: 10%;"><strong>&nbsp;Time</strong></td>
-<td style="width: 73.146%;"><strong>Program&nbsp;</strong></td>
-<td style="width: 13.854%;"><strong>Attendance&nbsp;</strong></td>
+<tr style="height: 21px;">
+<td style="width: 10%; height: 21px;"><strong>&nbsp;Time</strong></td>
+<td style="width: 73.146%; height: 21px;"><strong>Program&nbsp;</strong></td>
+<td style="width: 13.854%; height: 21px;"><strong>Attendance&nbsp;</strong></td>
 </tr>
-<tr>
-<td style="width: 10%;">09:00</td>
-<td style="width: 73.146%;">&nbsp;
+<tr style="height: 71px;">
+<td style="width: 10%; height: 71px;">09:00</td>
+<td style="width: 73.146%; height: 71px;">&nbsp;
 <div class="page" title="Page 17">
 <div class="section">
 <div class="layoutArea">
@@ -34,7 +34,7 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </div>
 </td>
-<td style="width: 13.854%;">&nbsp;
+<td style="width: 13.854%; height: 71px;">&nbsp;
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
@@ -46,9 +46,9 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </td>
 </tr>
-<tr>
-<td style="width: 10%;">09:15&nbsp;</td>
-<td style="width: 73.146%;">
+<tr style="height: 61px;">
+<td style="width: 10%; height: 61px;">09:15&nbsp;</td>
+<td style="width: 73.146%; height: 61px;">
 <div class="page" title="Page 17">
 <div class="section">
 <div class="layoutArea">
@@ -60,7 +60,7 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </div>
 </td>
-<td style="width: 13.854%;">
+<td style="width: 13.854%; height: 61px;">
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
@@ -72,9 +72,9 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </td>
 </tr>
-<tr>
-<td style="width: 10%;">10:15&nbsp;</td>
-<td style="width: 73.146%;">
+<tr style="height: 31px;">
+<td style="width: 10%; height: 31px;">10:15&nbsp;</td>
+<td style="width: 73.146%; height: 31px;">
 <div class="page" title="Page 17">
 <div class="section">
 <div class="layoutArea">
@@ -85,11 +85,11 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </div>
 </td>
-<td style="width: 13.854%;">ALL&nbsp;</td>
+<td style="width: 13.854%; height: 31px;">ALL&nbsp;</td>
 </tr>
-<tr>
-<td style="width: 10%;">10:30</td>
-<td style="width: 73.146%;">
+<tr style="height: 51px;">
+<td style="width: 10%; height: 51px;">10:30</td>
+<td style="width: 73.146%; height: 51px;">
 <div class="page" title="Page 17">
 <div class="section">
 <div class="layoutArea">
@@ -100,7 +100,7 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </div>
 </td>
-<td style="width: 13.854%;">
+<td style="width: 13.854%; height: 51px;">
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
@@ -112,9 +112,9 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </td>
 </tr>
-<tr>
-<td style="width: 10%;">11:30&nbsp;</td>
-<td style="width: 73.146%;">
+<tr style="height: 51px;">
+<td style="width: 10%; height: 51px;">11:30&nbsp;</td>
+<td style="width: 73.146%; height: 51px;">
 <div class="page" title="Page 17">
 <div class="section">
 <div class="layoutArea">
@@ -125,7 +125,7 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </div>
 </td>
-<td style="width: 13.854%;">
+<td style="width: 13.854%; height: 51px;">
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
@@ -137,9 +137,9 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </td>
 </tr>
-<tr>
-<td style="width: 10%;">12:30&nbsp;</td>
-<td style="width: 73.146%;">
+<tr style="height: 31px;">
+<td style="width: 10%; height: 31px;">12:30&nbsp;</td>
+<td style="width: 73.146%; height: 31px;">
 <div class="page" title="Page 17">
 <div class="section">
 <div class="layoutArea">
@@ -150,7 +150,7 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </div>
 </td>
-<td style="width: 13.854%;">
+<td style="width: 13.854%; height: 31px;">
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
@@ -162,9 +162,9 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </td>
 </tr>
-<tr>
-<td style="width: 10%;">14:00&nbsp;</td>
-<td style="width: 73.146%;">
+<tr style="height: 51px;">
+<td style="width: 10%; height: 51px;">14:00&nbsp;</td>
+<td style="width: 73.146%; height: 51px;">
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
@@ -175,7 +175,7 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </div>
 </td>
-<td style="width: 13.854%;">
+<td style="width: 13.854%; height: 51px;">
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
@@ -187,9 +187,9 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </td>
 </tr>
-<tr>
-<td style="width: 10%;">14:15&nbsp;</td>
-<td style="width: 73.146%;">
+<tr style="height: 51px;">
+<td style="width: 10%; height: 51px;">14:15&nbsp;</td>
+<td style="width: 73.146%; height: 51px;">
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
@@ -200,7 +200,7 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </div>
 </td>
-<td style="width: 13.854%;">
+<td style="width: 13.854%; height: 51px;">
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
@@ -212,9 +212,9 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </td>
 </tr>
-<tr>
-<td style="width: 10%;">15:15&nbsp;</td>
-<td style="width: 73.146%;">
+<tr style="height: 31px;">
+<td style="width: 10%; height: 31px;">15:15&nbsp;</td>
+<td style="width: 73.146%; height: 31px;">
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
@@ -225,11 +225,11 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </div>
 </td>
-<td style="width: 13.854%;">ALL&nbsp;</td>
+<td style="width: 13.854%; height: 31px;">ALL&nbsp;</td>
 </tr>
-<tr>
-<td style="width: 10%;">15:30&nbsp;</td>
-<td style="width: 73.146%;">
+<tr style="height: 61px;">
+<td style="width: 10%; height: 61px;">15:30&nbsp;</td>
+<td style="width: 73.146%; height: 61px;">
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
@@ -241,7 +241,7 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </div>
 </td>
-<td style="width: 13.854%;">
+<td style="width: 13.854%; height: 61px;">
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
@@ -253,20 +253,20 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 </div>
 </td>
 </tr>
-<tr>
-<td style="width: 10%;">17:30&nbsp;</td>
-<td style="width: 73.146%;">
+<tr style="height: 32px;">
+<td style="width: 10%; height: 32px;">17:30&nbsp;</td>
+<td style="width: 73.146%; height: 32px;">
 <div class="page" title="Page 18">
 <div class="section">
 <div class="layoutArea">
 <div class="column">
-<p>END OF SCHOOL - DAY 1</p>
+<p>Test</p>
 </div>
 </div>
 </div>
 </div>
 </td>
-<td style="width: 13.854%;">&nbsp;ALL</td>
+<td style="width: 13.854%; height: 32px;">&nbsp;ALL</td>
 </tr>
 </tbody>
 </table>
