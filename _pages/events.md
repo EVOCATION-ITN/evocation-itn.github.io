@@ -14,79 +14,70 @@ The program is organized around two tracks. In the morning, the lectures are foc
 
 The school, originally planned to be hosted at CRS4 premises, is held online due to COVID-19 regulations. The detailed program of the summer school is given in the following tables:
 
-<table style="width: 100%;" border="1">
+<table style="width: 100%;" border="2">
 <tbody>
-<tr style="height: 21px; background-color: #eeeeee;">
-<td style="width: 7%; height: 21px;"><strong>Time</strong></td>
-<td style="width: 71.7865%; height: 21px;">&nbsp;<strong>Program</strong></td>
-<td style="width: 14.2135%; height: 21px;"><strong>Attendance</strong>&nbsp;</td>
+<tr>
+<td style="width: 10%;"><strong>Time</strong></td>
+<td style="width: 75.1667%;"><strong>Program</strong></td>
+<td style="width: 10.8333%;"><strong>Attendance</strong></td>
 </tr>
-<tr style="height: 21px;">
-<td style="width: 7%; height: 21px;">09:00&nbsp;</td>
-<td style="width: 71.7865%; height: 21px;">ENRICO GOBBETTI / CRS4, Italy and OLIVER STAADT / UNIRO, Germany Welcome, Introduction to program and to scientific sessions</td>
-<td style="width: 14.2135%; height: 21px;">PIs + ESRs + Externals&nbsp;</td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 7%; height: 21px;">09:15&nbsp;</td>
-<td style="width: 71.7865%; height: 21px;">
-<p>JAMES SHE / HKUST-NIE, Hong Kong AI and Art</p>
+<tr>
+<td style="width: 10%;">09:00</td>
+<td style="width: 75.1667%;">
+<p>Text</p>
+<p>subtext</p>
 </td>
-<td style="width: 14.2135%; height: 21px;">&nbsp;</td>
+<td style="width: 10.8333%;">Text</td>
 </tr>
-<tr style="height: 21px;">
-<td style="width: 7%; height: 21px;">10:15&nbsp;</td>
-<td style="width: 71.7865%; height: 21px;">&nbsp;</td>
-<td style="width: 14.2135%; height: 21px;">&nbsp;</td>
+<tr>
+<td style="width: 10%;">09:15</td>
+<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 10.8333%;">&nbsp;</td>
 </tr>
-<tr style="height: 21px;">
-<td style="width: 7%; height: 21px;">10:30&nbsp;</td>
-<td style="width: 71.7865%; height: 21px;">&nbsp;</td>
-<td style="width: 14.2135%; height: 21px;">&nbsp;</td>
+<tr>
+<td style="width: 10%;">10:15</td>
+<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 10.8333%;">&nbsp;</td>
 </tr>
-<tr style="height: 21px;">
-<td style="width: 7%; height: 21px;">11:30&nbsp;</td>
-<td style="width: 71.7865%; height: 21px;">&nbsp;</td>
-<td style="width: 14.2135%; height: 21px;">&nbsp;</td>
+<tr>
+<td style="width: 10%;">10:30</td>
+<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 10.8333%;">&nbsp;</td>
 </tr>
-<tr style="height: 21px;">
-<td style="width: 7%; height: 21px;">12:30&nbsp;</td>
-<td style="width: 71.7865%; height: 21px;">&nbsp;</td>
-<td style="width: 14.2135%; height: 21px;">&nbsp;</td>
+<tr>
+<td style="width: 10%;">11:30</td>
+<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 10.8333%;">&nbsp;</td>
 </tr>
-<tr style="height: 21px;">
-<td style="width: 7%; height: 21px;">14:00&nbsp;</td>
-<td style="width: 71.7865%; height: 21px;">&nbsp;</td>
-<td style="width: 14.2135%; height: 21px;">&nbsp;</td>
+<tr>
+<td style="width: 10%;">12:30</td>
+<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 10.8333%;">&nbsp;</td>
 </tr>
-<tr style="height: 21px;">
-<td style="width: 7%; height: 21px;">14:15&nbsp;</td>
-<td style="width: 71.7865%; height: 21px;">&nbsp;</td>
-<td style="width: 14.2135%; height: 21px;">&nbsp;</td>
+<tr>
+<td style="width: 10%;">14:00</td>
+<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 10.8333%;">&nbsp;</td>
 </tr>
-<tr style="height: 21px;">
-<td style="width: 7%; height: 21px;">15:15</td>
-<td style="width: 71.7865%; height: 21px;">&nbsp;</td>
-<td style="width: 14.2135%; height: 21px;">&nbsp;</td>
+<tr>
+<td style="width: 10%;">14:15</td>
+<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 10.8333%;">&nbsp;</td>
 </tr>
-<tr style="height: 21px;">
-<td style="width: 7%; height: 21px;">15:30</td>
-<td style="width: 71.7865%; height: 21px;">&nbsp;</td>
-<td style="width: 14.2135%; height: 21px;">&nbsp;</td>
+<tr>
+<td style="width: 10%;">15:15</td>
+<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 10.8333%;">&nbsp;</td>
 </tr>
-<tr style="height: 21px;">
-<td style="width: 7%; height: 21px;">17:30&nbsp;</td>
-<td style="width: 71.7865%; height: 21px;">&nbsp;</td>
-<td style="width: 14.2135%; height: 21px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>&nbsp;</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<tr>
+<td style="width: 10%;">15:30</td>
+<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 10.8333%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 10%;">17:30</td>
+<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 10.8333%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
