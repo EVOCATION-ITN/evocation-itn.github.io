@@ -49,47 +49,55 @@ The school, originally planned to be hosted at CRS4 premises, is held online due
 <tr>
 <td style="width: 10%;">10:30</td>
 <td style="width: 75.1667%;">
-<p>JAMES SHE / HKUST-NIE, Hong Kong</p>
-<p> AI and Art</p>
+<p>JENS SCHNEIDER / HBKU, Qatar</p>
+<p>Efficient GPU Data Structures for Rendering and Querying Volume Data</p>
 </td>
 <td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">11:30</td>
 <td style="width: 75.1667%;">
-<p>JAMES SHE / HKUST-NIE, Hong Kong</p>
-<p> AI and Art</p></td>
+<p>JOSE A. IGLESIAS GUITIAN / UDC, Spain</p>
+<p>Rendering in the times of ray-tracing, denoising and AI</p></td>
 <td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">12:30</td>
-<td style="width: 75.1667%;">&nbsp;</td>
-<td style="width: 10.8333%;">PIs + ESRs + Externals</td>
+<td style="width: 75.1667%;">
+<p>Virtual Lunch break</p></td>
+<td style="width: 10.8333%;">ALL</td>
 </tr>
 <tr>
 <td style="width: 10%;">14:00</td>
-<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 75.1667%;">
+<p>ENRICO GOBBETTI / CRS4</p>
+<p>Opening of complementary skills sessions</p></td>
 <td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">14:15</td>
-<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 75.1667%;">
+<p>TIBOR BALOGH / Holografika, Hungary</p>
+<p>Patents, IPR do’s and don’ts: the Bottom-up View</p></td>
 <td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">15:15</td>
-<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 75.1667%;">
+<p>Virtual Coffee break</p></td>
 <td style="width: 10.8333%;">ALL</td>
 </tr>
 <tr>
 <td style="width: 10%;">15:30</td>
-<td style="width: 75.1667%;">&nbsp;</td>
+<td style="width: 75.1667%;">
+<p>VITTORIO MELONI and ALESSANDRO SULIS / CRS4. Italy.</p>
+<p>FAIRly basic - a practical introduction to FAIR Principles</p></td>
 <td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 <tr>
 <td style="width: 10%;">17:30</td>
 <td style="width: 75.1667%;">
-<p> END OF SCHOOL - DAY 1</p></td>
+<p>END OF SCHOOL - DAY 1</p></td>
 <td style="width: 10.8333%;">PIs + ESRs + Externals</td>
 </tr>
 </tbody>
