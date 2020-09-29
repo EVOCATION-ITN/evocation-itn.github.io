@@ -14,7 +14,7 @@ The program is organized around two tracks. In the morning, the lectures are foc
 
 The school, originally planned to be hosted at CRS4 premises, is held online due to COVID-19 regulations. The detailed program of the summer school is given in the following tables:
 
-<table style="width: 70%;" border="2" cellpadding="1">
+<table style="width: 100%;" border="2" cellpadding="1">
 <tbody>
 <tr style="height: 21px;">
 <td style="width: 10%; height: 21px;"><strong>&nbsp;Time</strong></td>
