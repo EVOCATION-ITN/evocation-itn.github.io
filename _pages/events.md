@@ -1,5 +1,6 @@
 ---
 title: "Events"
+author_profile: true
 permalink: /events/
 ---
 
