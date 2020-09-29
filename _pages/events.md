@@ -14,261 +14,68 @@ The program is organized around two tracks. In the morning, the lectures are foc
 
 The school, originally planned to be hosted at CRS4 premises, is held online due to COVID-19 regulations. The detailed program of the summer school is given in the following tables:
 
-<table style="width: 100%;" border="2" cellpadding="1">
+<table style="width: 100%;" border="1">
 <tbody>
+<tr style="height: 21px; background-color: #eeeeee;">
+<td style="width: 7%; height: 21px;"><strong>Time</strong></td>
+<td style="width: 56.474%; height: 21px;">&nbsp;<strong>Program</strong></td>
+<td style="width: 34.526%; height: 21px;"><strong>Attendance</strong>&nbsp;</td>
+</tr>
 <tr style="height: 21px;">
-<td style="width: 10%; height: 21px;"><strong>&nbsp;Time</strong></td>
-<td style="width: 73.146%; height: 21px;"><strong>Program&nbsp;</strong></td>
-<td style="width: 13.854%; height: 21px;"><strong>Attendance&nbsp;</strong></td>
+<td style="width: 7%; height: 21px;">09:00&nbsp;</td>
+<td style="width: 56.474%; height: 21px;">&nbsp;</td>
+<td style="width: 34.526%; height: 21px;">&nbsp;</td>
 </tr>
-<tr style="height: 71px;">
-<td style="width: 10%; height: 71px;">09:00</td>
-<td style="width: 73.146%; height: 71px;">&nbsp;
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>ENRICO GOBBETTI / CRS4, Italy and OLIVER STAADT / UNIRO, Germany Welcome, introduction to program and to scientific sessions</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-<td style="width: 13.854%; height: 71px;">&nbsp;
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs+ Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<tr style="height: 21px;">
+<td style="width: 7%; height: 21px;">09:15&nbsp;</td>
+<td style="width: 56.474%; height: 21px;">&nbsp;</td>
+<td style="width: 34.526%; height: 21px;">&nbsp;</td>
 </tr>
-<tr style="height: 61px;">
-<td style="width: 10%; height: 61px;">09:15&nbsp;</td>
-<td style="width: 73.146%; height: 61px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>JAMES SHE / HKUST-NIE, Hong Kong</p>
-<p>AI and Art&nbsp;</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-<td style="width: 13.854%; height: 61px;">
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs+ Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<tr style="height: 21px;">
+<td style="width: 7%; height: 21px;">10:15&nbsp;</td>
+<td style="width: 56.474%; height: 21px;">&nbsp;</td>
+<td style="width: 34.526%; height: 21px;">&nbsp;</td>
 </tr>
-<tr style="height: 31px;">
-<td style="width: 10%; height: 31px;">10:15&nbsp;</td>
-<td style="width: 73.146%; height: 31px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>Virtual Coffee break</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-<td style="width: 13.854%; height: 31px;">ALL&nbsp;</td>
+<tr style="height: 21px;">
+<td style="width: 7%; height: 21px;">10:30&nbsp;</td>
+<td style="width: 56.474%; height: 21px;">&nbsp;</td>
+<td style="width: 34.526%; height: 21px;">&nbsp;</td>
 </tr>
-<tr style="height: 51px;">
-<td style="width: 10%; height: 51px;">10:30</td>
-<td style="width: 73.146%; height: 51px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>JENS SCHNEIDER / HBKU, Qatar<br /> Efficient GPU Data Structures for Rendering and Querying Volume Data</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-<td style="width: 13.854%; height: 51px;">
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs+ Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<tr style="height: 21px;">
+<td style="width: 7%; height: 21px;">11:30&nbsp;</td>
+<td style="width: 56.474%; height: 21px;">&nbsp;</td>
+<td style="width: 34.526%; height: 21px;">&nbsp;</td>
 </tr>
-<tr style="height: 51px;">
-<td style="width: 10%; height: 51px;">11:30&nbsp;</td>
-<td style="width: 73.146%; height: 51px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>JOSE A. IGLESIAS GUITIAN / UDC, Spain<br /> Rendering in the times of ray-tracing, denoising and AI</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-<td style="width: 13.854%; height: 51px;">
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs+ Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<tr style="height: 21px;">
+<td style="width: 7%; height: 21px;">12:30&nbsp;</td>
+<td style="width: 56.474%; height: 21px;">&nbsp;</td>
+<td style="width: 34.526%; height: 21px;">&nbsp;</td>
 </tr>
-<tr style="height: 31px;">
-<td style="width: 10%; height: 31px;">12:30&nbsp;</td>
-<td style="width: 73.146%; height: 31px;">
-<div class="page" title="Page 17">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>Virtual Lunch break</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-<td style="width: 13.854%; height: 31px;">
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>ALL</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<tr style="height: 21px;">
+<td style="width: 7%; height: 21px;">14:00&nbsp;</td>
+<td style="width: 56.474%; height: 21px;">&nbsp;</td>
+<td style="width: 34.526%; height: 21px;">&nbsp;</td>
 </tr>
-<tr style="height: 51px;">
-<td style="width: 10%; height: 51px;">14:00&nbsp;</td>
-<td style="width: 73.146%; height: 51px;">
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>ENRICO GOBBETTI / CRS4<br /> Opening of complementary skills sessions</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-<td style="width: 13.854%; height: 51px;">
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs+ Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<tr style="height: 21px;">
+<td style="width: 7%; height: 21px;">14:15&nbsp;</td>
+<td style="width: 56.474%; height: 21px;">&nbsp;</td>
+<td style="width: 34.526%; height: 21px;">&nbsp;</td>
 </tr>
-<tr style="height: 51px;">
-<td style="width: 10%; height: 51px;">14:15&nbsp;</td>
-<td style="width: 73.146%; height: 51px;">
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>TIBOR BALOGH / Holografika, Hungary<br /> Patents, IPR do&rsquo;s and don&rsquo;ts: the Bottom-up View</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-<td style="width: 13.854%; height: 51px;">
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs+ Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
+<tr style="height: 21px;">
+<td style="width: 7%; height: 21px;">15:15</td>
+<td style="width: 56.474%; height: 21px;">&nbsp;</td>
+<td style="width: 34.526%; height: 21px;">&nbsp;</td>
 </tr>
-<tr style="height: 31px;">
-<td style="width: 10%; height: 31px;">15:15&nbsp;</td>
-<td style="width: 73.146%; height: 31px;">
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>Virtual Coffee break</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-<td style="width: 13.854%; height: 31px;">ALL&nbsp;</td>
+<tr style="height: 21px;">
+<td style="width: 7%; height: 21px;">15:30</td>
+<td style="width: 56.474%; height: 21px;">&nbsp;</td>
+<td style="width: 34.526%; height: 21px;">&nbsp;</td>
 </tr>
-<tr style="height: 61px;">
-<td style="width: 10%; height: 61px;">15:30&nbsp;</td>
-<td style="width: 73.146%; height: 61px;">
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>VITTORIO MELONI and ALESSANDRO SULIS / CRS4. Italy.</p>
-<p>FAIRly basic - a practical introduction to FAIR Principles</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-<td style="width: 13.854%; height: 61px;">
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>PIs + ESRs+ Externals</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-</tr>
-<tr style="height: 32px;">
-<td style="width: 10%; height: 32px;">17:30&nbsp;</td>
-<td style="width: 73.146%; height: 32px;">
-<div class="page" title="Page 18">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>Test</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-<td style="width: 13.854%; height: 32px;">&nbsp;ALL</td>
+<tr style="height: 21px;">
+<td style="width: 7%; height: 21px;">17:30&nbsp;</td>
+<td style="width: 56.474%; height: 21px;">&nbsp;</td>
+<td style="width: 34.526%; height: 21px;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
-<!-- DivTable.com -->
 
