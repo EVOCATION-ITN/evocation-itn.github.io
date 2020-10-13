@@ -19,9 +19,9 @@ row1:
     - alt: "EVOCATION"
       title: "Multimodal and Flexible 3D Acquisition"
       excerpt: "ESR07 (CNR, Italy)"
-      btn_label: "Hiring Pending"
+      btn_label: "Hiring open"
       btn_class: "btn--info btn--small"
-      url: /recruitment/  
+      url: /recruitment/apply/  
 row2:
     - alt: "EVOCATION"
       title: "Foveated rendering for large-high-resolution displays"
