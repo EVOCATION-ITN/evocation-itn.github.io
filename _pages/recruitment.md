@@ -11,6 +11,12 @@ row1:
       btn_class: "btn--info btn--small"
       url: /recruitment/
     - alt: "EVOCATION"
+      title: "Scalable reconstruction and exploration of complex indoor environments"
+      excerpt: "ESR03 (CRS4, Italy)"
+      btn_label: "Hiring Pending"
+      btn_class: "btn--info btn--small"
+      url: /recruitment/
+    - alt: "EVOCATION"
       title: "Multimodal and Flexible 3D Acquisition"
       excerpt: "ESR07 (CNR, Italy)"
       btn_label: "Hiring open"
@@ -23,25 +29,19 @@ row2:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
-      - alt: "EVOCATION"
-      title: "Scalable reconstruction and exploration of complex indoor environments"
-      excerpt: "ESR03 (CRS4, Italy)"
-      btn_label: "Hiring Completed"
-      btn_class: "btn--info btn--small"
-      url: /recruitment/
     - alt: "EVOCATION"
       title: "Scalable exploration of complex objects and environments beyond plain visual replication"
       excerpt: "ESR04 (CRS4, Italy)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
-row3:
     - alt: "EVOCATION"
       title: "Scalable geometry processing and 3D reconstruction"
       excerpt: "ESR05 (University of Zurich, Switzerland)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
+row3:
     - alt: "EVOCATION"
       title: "Interactive and parallel visualization"
       excerpt: "ESR06 (University of Zurich, Switzerland)"
