@@ -715,6 +715,35 @@ permalink: /team/
 </tbody>		
 </table>
 
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/EvaAlmansa.jpg" alt="Eva María Almansa Aranega">
+		</th>
+		<th style="text-align: left"> <font size="4"> Eva María Almansa Aranega </font><br>									
+          <font size="2">PhD Student / Early Stage Researcher</font>
+          <h6>														
+          Affiliation: Center for Advanced Studies, Research and Development in Sardinia (CRS4)
+          <br>
+          Phone: +39-070-9250-1 
+          <br>
+          Fax: +39-070-9250-216
+          <br>
+				  Email: <a href="mailto:evaalmansa@crs4.it">evaalmansa@crs4.it</a>
+          <br>
+          Webpage: <a href="http://vic.crs4.it/vic/cgi-bin/people-page.cgi?name=%27eva.almansa%27">http://vic.crs4.it/vic/cgi-bin/people-page.cgi?name=%27eva.almansa%27</a>	
+          </h6>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
 ## Project Management
 
 <table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
