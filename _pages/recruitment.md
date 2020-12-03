@@ -11,12 +11,6 @@ row1:
       btn_class: "btn--info btn--small"
       url: /recruitment/
     - alt: "EVOCATION"
-      title: "Scalable reconstruction and exploration of complex indoor environments"
-      excerpt: "ESR03 (CRS4, Italy)"
-      btn_label: "Hiring Pending"
-      btn_class: "btn--info btn--small"
-      url: /recruitment/
-    - alt: "EVOCATION"
       title: "Multimodal and Flexible 3D Acquisition"
       excerpt: "ESR07 (CNR, Italy)"
       btn_label: "Hiring open"
