@@ -414,7 +414,7 @@ permalink: /team/
           <br>
           Webpage: <a href="http://www.celarek.at">http://www.celarek.at</a>
           <br>
-          Publication: <a href="/recruitment/esr09_publications/">Publication</a>
+          Publication: <a href="/recruitment/esr09_publications/">list of publication</a>
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -443,7 +443,9 @@ permalink: /team/
           <br>
 				  Email: <a href="mailto:fuentes@ifi.uzh.ch">fuentes@ifi.uzh.ch</a>
           <br>
-          Webpage: <a href="https://lishh.github.io">https://lishh.github.io</a>	
+          Webpage: <a href="https://lishh.github.io">https://lishh.github.io</a>
+          <br>
+          Publication: <a href="/recruitment/esr05_publications/">list of publication</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -472,7 +474,9 @@ permalink: /team/
           <br>
 				  Email: <a href="mailto:romero@ifi.uzh.ch">romero@ifi.uzh.ch</a>
           <br>
-          Webpage: <a href="https://larc.github.io">https://larc.github.io</a>	
+          Webpage: <a href="https://larc.github.io">https://larc.github.io</a>
+          <br>
+          Publication: <a href="/recruitment/esr06_publications/">list of publication</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -501,7 +505,9 @@ permalink: /team/
           <br>
 				  Email: <a href="mailto:moonisa@crs4.it">moonisa@crs4.it</a>
           <br>
-          Webpage: <a href="https://www.crs4.it/vic/cgi-bin/people-page.cgi?name=%27moonisa.ahsan%27">https://www.crs4.it/vic/cgi-bin/people-page.cgi?name=%27moonisa.ahsan%27</a>	
+          Webpage: <a href="https://www.crs4.it/vic/cgi-bin/people-page.cgi?name=%27moonisa.ahsan%27">https://www.crs4.it/vic/cgi-bin/people-page.cgi?name=%27moonisa.ahsan%27</a>
+          <br>
+          Publication: <a href="/recruitment/esr04_publications/">list of publication</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -530,7 +536,9 @@ permalink: /team/
           <br>
 				  Email: <a href="mailto:m.guindy@holografika.com">m.guindy@holografika.com</a>
           <br>
-          Webpage: <a href="https://www.holografika.com">https://www.holografika.com</a>	
+          Webpage: <a href="https://www.holografika.com">https://www.holografika.com</a>
+          <br>
+          Publication: <a href="/recruitment/esr13_publications/">list of publication</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -560,7 +568,9 @@ permalink: /team/
           <br>
 				  Email: <a href="mailto:jaliborc@cg.tuwien.ac.at">jaliborc@cg.tuwien.ac.at</a>
           <br>
-          Webpage: <a href="http://www.jaliborc.com/">http://www.jaliborc.com/</a>	
+          Webpage: <a href="http://www.jaliborc.com/">http://www.jaliborc.com/</a>
+          <br>
+          Publication: <a href="/recruitment/esr10_publications/">list of publication</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -590,7 +600,9 @@ permalink: /team/
           <br>
 				  Email: <a href="mailto:iason.manolas@phd.unipi.it">iason.manolas@phd.unipi.it</a>
           <br>
-          Webpage: <a href="http://vcg.isti.cnr.it/">http://vcg.isti.cnr.it/</a>	
+          Webpage: <a href="http://vcg.isti.cnr.it/">http://vcg.isti.cnr.it/</a>
+          <br>
+          Publication: <a href="/recruitment/esr08_publications/">list of publication</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -619,7 +631,9 @@ permalink: /team/
           <br>
 				  Email: <a href="mailto:danwu.chen@igd.fraunhofer.de">danwu.chen@igd.fraunhofer.de</a>
           <br>
-          Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>	
+          Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>
+          <br>
+          Publication: <a href="/recruitment/esr12_publications/">list of publication</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -648,7 +662,9 @@ permalink: /team/
           <br>
 				  Email: <a href="mailto:evocation@gexcel.it">evocation@gexcel.it</a>
           <br>
-          Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>	
+          Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>
+          <br>
+          Publication: <a href="/recruitment/esr14_publications/">list of publication</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -678,6 +694,8 @@ permalink: /team/
 				  Email: <a href="mailto:tarek.abu.haila@igd.fraunhofer.de"> tarek.abu.haila@igd.fraunhofer.de</a>
           <br>
           Webpage:	<a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>
+          <br>
+          Publication: <a href="/recruitment/esr11_publications/">list of publication</a>
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -707,6 +725,8 @@ permalink: /team/
 				  Email: <a href="mailto:bipul.mohanto@uni-rostock.de"> bipul.mohanto@uni-rostock.de</a>
           <br>
           Webpage:	<a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>
+          <br>
+          Publication: <a href="/recruitment/esr01_publications/">list of publication</a>
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -735,7 +755,9 @@ permalink: /team/
           <br>
 				  Email: <a href="mailto:evaalmansa@crs4.it">evaalmansa@crs4.it</a>
           <br>
-          Webpage: <a href="http://vic.crs4.it/vic/cgi-bin/people-page.cgi?name=%27eva.almansa%27">http://vic.crs4.it/vic/cgi-bin/people-page.cgi?name=%27eva.almansa%27</a>	
+          Webpage: <a href="http://vic.crs4.it/vic/cgi-bin/people-page.cgi?name=%27eva.almansa%27">http://vic.crs4.it/vic/cgi-bin/people-page.cgi?name=%27eva.almansa%27</a>
+          <br>
+          Publication: <a href="/recruitment/esr03_publications/">list of publication</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
