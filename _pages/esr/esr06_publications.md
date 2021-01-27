@@ -1,5 +1,5 @@
 ---
-title: "ESR 09 :: List of Publications"
+title: "ESR 06 :: List of Publications"
 classes: wide
 permalink: /recruitment/esr06_publications/
 ---
