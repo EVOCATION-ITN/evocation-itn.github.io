@@ -414,7 +414,7 @@ permalink: /team/
           <br>
           Webpage: <a href="http://www.celarek.at">http://www.celarek.at</a>
           <br>
-          Publication: <a href="/recruitment/esr09_publications/">list of publication</a>
+          Publications: <a href="/recruitment/esr09_publications/">list of publications</a>
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -445,7 +445,7 @@ permalink: /team/
           <br>
           Webpage: <a href="https://lishh.github.io">https://lishh.github.io</a>
           <br>
-          Publication: <a href="/recruitment/esr05_publications/">list of publication</a>	
+          Publications: <a href="/recruitment/esr05_publications/">list of publications</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -476,7 +476,7 @@ permalink: /team/
           <br>
           Webpage: <a href="https://larc.github.io">https://larc.github.io</a>
           <br>
-          Publication: <a href="/recruitment/esr06_publications/">list of publication</a>	
+          Publications: <a href="/recruitment/esr06_publications/">list of publications</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -507,7 +507,7 @@ permalink: /team/
           <br>
           Webpage: <a href="https://www.crs4.it/vic/cgi-bin/people-page.cgi?name=%27moonisa.ahsan%27">https://www.crs4.it/vic/cgi-bin/people-page.cgi?name=%27moonisa.ahsan%27</a>
           <br>
-          Publication: <a href="/recruitment/esr04_publications/">list of publication</a>	
+          Publications: <a href="/recruitment/esr04_publications/">list of publications</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -538,7 +538,7 @@ permalink: /team/
           <br>
           Webpage: <a href="https://www.holografika.com">https://www.holografika.com</a>
           <br>
-          Publication: <a href="/recruitment/esr13_publications/">list of publication</a>	
+          Publications: <a href="/recruitment/esr13_publications/">list of publications</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -570,7 +570,7 @@ permalink: /team/
           <br>
           Webpage: <a href="http://www.jaliborc.com/">http://www.jaliborc.com/</a>
           <br>
-          Publication: <a href="/recruitment/esr10_publications/">list of publication</a>	
+          Publications: <a href="/recruitment/esr10_publications/">list of publications</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -602,7 +602,7 @@ permalink: /team/
           <br>
           Webpage: <a href="http://vcg.isti.cnr.it/">http://vcg.isti.cnr.it/</a>
           <br>
-          Publication: <a href="/recruitment/esr08_publications/">list of publication</a>	
+          Publications: <a href="/recruitment/esr08_publications/">list of publications</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -633,7 +633,7 @@ permalink: /team/
           <br>
           Webpage: <a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>
           <br>
-          Publication: <a href="/recruitment/esr12_publications/">list of publication</a>	
+          Publications: <a href="/recruitment/esr12_publications/">list of publications</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -664,7 +664,7 @@ permalink: /team/
           <br>
           Webpage: <a href="https://www.gexcel.it">https://www.gexcel.it</a>
           <br>
-          Publication: <a href="/recruitment/esr14_publications/">list of publication</a>	
+          Publications: <a href="/recruitment/esr14_publications/">list of publications</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -695,7 +695,7 @@ permalink: /team/
           <br>
           Webpage:	<a href="https://www.igd.fraunhofer.de">https://www.igd.fraunhofer.de</a>
           <br>
-          Publication: <a href="/recruitment/esr11_publications/">list of publication</a>
+          Publications: <a href="/recruitment/esr11_publications/">list of publications</a>
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -726,7 +726,7 @@ permalink: /team/
           <br>
           Webpage:	<a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>
           <br>
-          Publication: <a href="/recruitment/esr01_publications/">list of publication</a>
+          Publications: <a href="/recruitment/esr01_publications/">list of publications</a>
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -757,7 +757,7 @@ permalink: /team/
           <br>
           Webpage: <a href="http://vic.crs4.it/vic/cgi-bin/people-page.cgi?name=%27eva.almansa%27">http://vic.crs4.it/vic/cgi-bin/people-page.cgi?name=%27eva.almansa%27</a>
           <br>
-          Publication: <a href="/recruitment/esr03_publications/">list of publication</a>	
+          Publications: <a href="/recruitment/esr03_publications/">list of publications</a>	
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
