@@ -414,7 +414,7 @@ permalink: /team/
           <br>
           Webpage: <a href="http://www.celarek.at">http://www.celarek.at</a>
           <br>
-          [Publication](/recruitment/apply/) [GEXCEL]
+          Publication: <a href="file:////recruitment/apply/">Publication</a>
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
