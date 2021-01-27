@@ -4,4 +4,4 @@ classes: wide
 permalink: /publications/
 ---
 
-{% bibliography --query @*[year=2019] %}
+{% bibliography --query @*[label='Celarek:2019'] %}
