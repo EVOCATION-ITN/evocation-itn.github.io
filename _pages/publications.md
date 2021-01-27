@@ -3,4 +3,5 @@ title: "Publications"
 classes: wide
 permalink: /publications/
 ---
-{% bibliography %}
+
+{% bibliography --query @*[year=2019] %}
