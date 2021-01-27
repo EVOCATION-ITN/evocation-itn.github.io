@@ -413,8 +413,6 @@ permalink: /team/
 				  Email: 
           <br>
           Webpage: <a href="http://www.celarek.at">http://www.celarek.at</a>
-          <br>
-          [Link]({{ site.baseurl }}/recruitment/apply/)
           </h6>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
