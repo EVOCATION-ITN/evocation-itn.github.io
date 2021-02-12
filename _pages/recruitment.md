@@ -9,13 +9,7 @@ row1:
       excerpt: "ESR02 (University of Rostock, Germany)"
       btn_label: "Hiring Pending"
       btn_class: "btn--info btn--small"
-      url: /recruitment/
-    - alt: "EVOCATION"
-      title: "Multimodal and Flexible 3D Acquisition"
-      excerpt: "ESR07 (CNR, Italy)"
-      btn_label: "Hiring open"
-      btn_class: "btn--info btn--small"
-      url: /recruitment/apply/  
+      url: /recruitment/ 
 row2:
     - alt: "EVOCATION"
       title: "Foveated rendering for large-high-resolution displays"
@@ -48,19 +42,19 @@ row3:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
-    #- alt: "EVOCATION"
-    #  title: "Multimodal and Flexible 3D Acquisition"
-    #  excerpt: "ESR07 (CNR, Italy)"
-    #  btn_label: "Hiring Completed"
-    #  btn_class: "btn--info btn--small"
-    #  url: /recruitment/
+    - alt: "EVOCATION"
+      title: "Multimodal and Flexible 3D Acquisition"
+      excerpt: "ESR07 (CNR, Italy)"
+      btn_label: "Hiring Completed"
+      btn_class: "btn--info btn--small"
+      url: /recruitment/   
+row4:
     - alt: "EVOCATION"
       title: "Geometry processing for 3D fabrication"
       excerpt: "ESR08 (CNR, Italy)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/     
-row4:
+      url: /recruitment/  
     - alt: "EVOCATION"
       title: "Alternative representations for processing and visualizing large captured data sets"
       excerpt: "ESR09 (TU Wien, Austria)"
@@ -72,14 +66,14 @@ row4:
       excerpt: "ESR10 (TU Wien, Austria)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/
+      url: /recruitment/ 
+row5:  
     - alt: "EVOCATION"
       title: "Standardizing optical material properties"
       excerpt: "ESR11 (Fraunhofer IGD, Germany)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/ 
-row5:  
+      url: /recruitment/
     - alt: "EVOCATION"
       title: "Color and translucency for fabrication"
       excerpt: "ESR12 (Fraunhofer IGD, Germany)"
@@ -91,13 +85,14 @@ row5:
       excerpt: "ESR13 (Holografika, Hungary)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/  
+      url: /recruitment/    
+row6:  
     - alt: "EVOCATION"
       title: "Acquisition of complex and structured environments"
       excerpt: "ESR14 (Gexcel, Italy)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/   
+      url: /recruitment/       
         
 ---
 ## Open PhD Positions
