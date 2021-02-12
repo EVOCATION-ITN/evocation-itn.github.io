@@ -18,13 +18,13 @@ var store = [{
         "teaser": null
       },{
         "title": "EVOCATION second workshop (held online due to COVID-19)",
-        "excerpt":"2nd Workshop (held online). The second workshop of EVOCATION was help online on 20-21 May, 2020 due to COVID-19. Due to the global travel restrictions, our scheduled workshop could not be arranged in the originally planned location in Darmstadt (Germany). Hence the workshop was held online where all of our...","categories": [],
+        "excerpt":"2nd Workshop (held online). The second workshop of EVOCATION was held online on 20-21 May, 2020 due to COVID-19. Due to the global travel restrictions, our scheduled workshop could not be arranged in the originally planned location in Darmstadt (Germany). Hence the workshop was held online where all of our...","categories": [],
         "tags": [],
         "url": "/news/2020-05-22-evocation-2nd-workshop/",
         "teaser": null
       },{
         "title": "EVOCATION second summer school (held online due to COVID-19)",
-        "excerpt":"The second summer school of EVOCATION was help online on 01-02 October, 2020 due to COVID-19. Due to the global travel restrictions, our scheduled summer school could not be arranged in the originally planned location in Cagliari and hosted by CRS4. Hence the summer school was held online where all...","categories": [],
+        "excerpt":"The second summer school of EVOCATION was held online on 01-02 October, 2020 due to COVID-19. Due to the global travel restrictions, our scheduled summer school could not be arranged in the originally planned location in Cagliari at CRS4 premises. Second summer school (held online): talks. The summer school program...","categories": [],
         "tags": [],
         "url": "/news/2020-10-01-evocation-2nd-summer-school/",
         "teaser": null
