@@ -115,6 +115,7 @@ The host network includes prestigious institutions from across Europe.
 {% include feature_row id="row3" %}
 {% include feature_row id="row4" %}
 {% include feature_row id="row5" %}
+{% include feature_row id="row6" %}
 
 
 
