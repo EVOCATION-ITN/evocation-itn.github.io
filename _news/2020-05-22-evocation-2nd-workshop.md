@@ -6,7 +6,7 @@ title: EVOCATION second workshop (held online due to COVID-19)
   <figcaption>2nd Workshop (held online).</figcaption>
 </figure>
 
-The second workshop of EVOCATION was help online on 20-21 May, 2020 due to COVID-19. Due to the global travel restrictions, our scheduled workshop could not be arranged in the originally planned location in Darmstadt (Germany). Hence the workshop was held online where all of our currently recruited ESRs, project leaders, management personnel and quite a few external participants participated. There were a total of 35 participants in the workshop. 
+The second workshop of EVOCATION was held online on 20-21 May, 2020 due to COVID-19. Due to the global travel restrictions, our scheduled workshop could not be arranged in the originally planned location in Darmstadt (Germany). Hence the workshop was held online where all of our currently recruited ESRs, project leaders, management personnel and quite a few external participants participated. There were a total of 35 participants in the workshop. 
 
 <figure>
   <img src="/assets/images/2nd_Workshop_1.jpg" alt="Presentations of the ESRs" style="width:100%">
