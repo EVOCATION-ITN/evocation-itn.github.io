@@ -7,7 +7,12 @@ permalink: /events/
 ## Upcoming Events 
 <!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
 
-## 2nd Summer school. October 1-2, 2020 (held online due to COVID-19)
+### 2nd Workshop. March 18-19, 2021 (will be held online due to COVID-19)
+
+## Past Events 
+<!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
+
+### 2nd Summer school. October 1-2, 2020 (held online due to COVID-19)
 
 The second summer school of the EVOCATION project is a network-wide-event in which leading experts in scientific and technological fields give lectures on a variety of topics. 
 
