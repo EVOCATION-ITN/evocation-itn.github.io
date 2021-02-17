@@ -9,6 +9,8 @@ permalink: /events/
 
 ### 2nd Workshop. March 18-19, 2021 (will be held online due to COVID-19)
 
+Detailed schedule is coming soon....
+
 ## Past Events 
 <!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
 
