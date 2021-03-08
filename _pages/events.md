@@ -83,6 +83,69 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 </tbody>
 </table>
 
+<table style="width: 100%;" border="2">
+<tbody>
+<tr style="background-color: #eeeeee;">
+<td style="width: 10%;"><strong>Time</strong></td>
+<td style="width: 90%;"><strong>Program</strong></td>
+</tr>
+
+<tr>
+<td style="width: 10%;">14:00</td>
+<td style="width: 90%;">
+<p>Bipul Mohanto / UROS, Germany</p>
+<p> </p>
+</td>
+</tr>
+
+<tr>
+<td style="width: 10%;">14:30</td>
+<td style="width: 90%;">
+<p>Lizeth Joseline Fuentes Perez / UZH, Switzerland</p>
+<p> </p>
+</td>
+</tr>
+
+<tr>
+<td style="width: 10%;">15:00</td>
+<td style="width: 90%;">
+<p>Luciano Arnaldo Romero Calla / UZH, Switzerland</p>
+<p> </p>
+</td>
+</tr>
+
+<tr>
+<td style="width: 10%;">15:30</td>
+<td style="width: 90%;">Virtual cofee break</td>
+</tr>
+
+<tr>
+<td style="width: 10%;">16:00</td>
+<td style="width: 90%;">
+<p>Moonisa Ahsan / CRS4, Italy</p>
+</td>
+</tr>
+
+<tr>
+<td style="width: 10%;">16:30</td>
+<td style="width: 90%;">
+<p>Eva María Almansa Aranega / CRS4, Italy</p>
+</tr>
+
+<tr>
+<td style="width: 10%;">17:00</td>
+<td style="width: 90%;">
+<p>Mary Mohsen Messak Guindy / HOLO, Hungary</p>
+</td>
+</tr>
+
+<tr>
+<td style="width: 10%;">  </td>
+<td style="width: 90%;">END OF Workshop - DAY 1</td>
+</tr>
+</tbody>
+</table>
+
 ### Fridayday, 19 March, 2021
 
 
