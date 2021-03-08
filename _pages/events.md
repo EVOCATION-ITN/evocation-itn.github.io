@@ -23,6 +23,7 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 <td style="width: 10%;">14:00</td>
 <td style="width: 90%;">
 <p>Bipul Mohanto / UROS, Germany</p>
+<p> </p>
 </td>
 </tr>
 
@@ -30,6 +31,7 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 <td style="width: 10%;">14:30</td>
 <td style="width: 90%;">
 <p>Lizeth Joseline Fuentes Perez / UZH, Switzerland</p>
+<p> </p>
 </td>
 </tr>
 
@@ -37,6 +39,7 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 <td style="width: 10%;">15:00</td>
 <td style="width: 90%;">
 <p>Luciano Arnaldo Romero Calla / UZH, Switzerland</p>
+<p> </p>
 </td>
 </tr>
 
