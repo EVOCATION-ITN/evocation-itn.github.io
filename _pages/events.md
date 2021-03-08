@@ -12,6 +12,78 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 
 ### Thursday, 18 March, 2021
 
+### Thursday, 01 October, 2020
+
+<table style="width: 100%;" border="2">
+<tbody>
+<tr style="background-color: #eeeeee;">
+<td style="width: 10%;"><strong>Time</strong></td>
+<td style="width: 90%;"><strong>Program</strong></td>
+</tr>
+<tr>
+<td style="width: 10%;">09:00</td>
+<td style="width: 90%;">
+<p>ENRICO GOBBETTI / CRS4, Italy and OLIVER STAADT / UNIRO, Germany</p>
+<p>Welcome, introduction to program and to scientific sessions</p>
+</td>
+
+</tr>
+<tr>
+<td style="width: 10%;">09:15</td>
+<td style="width: 90%;">
+<p>JAMES SHE / HKUST-NIE, Hong Kong</p>
+<p> AI and Art</p>
+</td>
+</tr>
+<tr>
+<td style="width: 10%;">10:15</td>
+<td style="width: 90%;">Virtual Coffee break</td>
+</tr>
+<tr>
+<td style="width: 10%;">10:30</td>
+<td style="width: 90%;">
+<p>JENS SCHNEIDER / HBKU, Qatar</p>
+<p>Efficient GPU Data Structures for Rendering and Querying Volume Data</p>
+</td>
+</tr>
+<tr>
+<td style="width: 10%;">11:30</td>
+<td style="width: 90%;">
+<p>JOSE A. IGLESIAS GUITIAN / UDC, Spain</p>
+<p>Rendering in the times of ray-tracing, denoising and AI</p></td>
+</tr>
+<tr>
+<td style="width: 10%;">12:30</td>
+<td style="width: 90%;">Virtual Lunch break</td>
+</tr>
+<tr>
+<td style="width: 10%;">14:00</td>
+<td style="width: 90%;">
+<p>ENRICO GOBBETTI / CRS4</p>
+<p>Opening of complementary skills sessions</p></td>
+</tr>
+<tr>
+<td style="width: 10%;">14:15</td>
+<td style="width: 90%;">
+<p>TIBOR BALOGH / Holografika, Hungary</p>
+<p>Patents, IPR do’s and don’ts: the Bottom-up View</p></td>
+</tr>
+<tr>
+<td style="width: 10%;">15:15</td>
+<td style="width: 90%;">Virtual Coffee break</td>
+</tr>
+<tr>
+<td style="width: 10%;">15:30</td>
+<td style="width: 90%;">
+<p>VITTORIO MELONI and ALESSANDRO SULIS / CRS4. Italy.</p>
+<p>FAIRly basic - a practical introduction to FAIR Principles</p></td>
+</tr>
+<tr>
+<td style="width: 10%;">17:30</td>
+<td style="width: 90%;">END OF SCHOOL - DAY 1</td>
+</tr>
+</tbody>
+</table>
 
 ### Fridayday, 19 March, 2021
 
