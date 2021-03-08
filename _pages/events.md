@@ -23,7 +23,7 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 <td style="width: 10%;">14:00</td>
 <td style="width: 90%;">
 <p>Bipul Mohanto / UROS, Germany</p>
-<p> </p>
+<p>                                                                               </p>
 </td>
 </tr>
 
@@ -89,6 +89,7 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 <td style="width: 10%;">14:00</td>
 <td style="width: 90%;">
 <p>Adam Celerak / TUW, Austria</p>
+<p>                                                                               </p>
 </td>
 </tr>
 
