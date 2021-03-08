@@ -6,6 +6,5 @@ EVOCATION is planning to participate in as well as support and contribute to the
 
 For details of these events, please check the following websites:
 
-https://www.eurovis.org and 
-
-https://www.egpgv.org
+<a href="https://www.eurovis.org">https://www.eurovis.org</a> and
+<a href="https://www.egpgv.org">https://www.egpgv.org</a>
