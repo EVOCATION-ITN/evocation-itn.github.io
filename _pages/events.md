@@ -16,12 +16,12 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 <tbody>
 <tr style="background-color: #eeeeee;">
 <td style="width: 10%;"><strong>Time</strong></td>
-<td style="width: 90%;"><strong>Program</strong></td>
+<td style="width: 100%;"><strong>Program</strong></td>
 </tr>
 
 <tr>
 <td style="width: 10%;">14:00</td>
-<td style="width: 90%;">
+<td style="width: 100%;">
 <p>Bipul Mohanto / UROS, Germany</p>
 <p>                                                                               </p>
 </td>
@@ -82,7 +82,7 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 <tbody>
 <tr style="background-color: #eeeeee;">
 <td style="width: 10%;"><strong>Time</strong></td>
-<td style="width: 90%;"><strong>Program</strong></td>
+<td style="width: 100%;"><strong>Program</strong></td>
 </tr>
 
 <tr>
