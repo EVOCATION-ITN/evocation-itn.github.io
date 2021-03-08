@@ -19,20 +19,26 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 <td style="width: 90%;"><strong>Program</strong></td>
 </tr>
 <tr>
-<td style="width: 10%;">09:00</td>
+<td style="width: 10%;">14:00</td>
 <td style="width: 90%;">
-<p>ENRICO GOBBETTI / CRS4, Italy and OLIVER STAADT / UNIRO, Germany</p>
-<p>Welcome, introduction to program and to scientific sessions</p>
+<p>Bipul Mohanto / UROS, Germany</p>
 </td>
 
 </tr>
 <tr>
-<td style="width: 10%;">09:15</td>
+<td style="width: 10%;">14:30</td>
 <td style="width: 90%;">
-<p>JAMES SHE / HKUST-NIE, Hong Kong</p>
-<p> AI and Art</p>
+<p>Lizeth Joseline Fuentes Perez / UZH, Switzerland</p>
 </td>
 </tr>
+
+<tr>
+<td style="width: 10%;">15:00</td>
+<td style="width: 90%;">
+<p>Luciano Arnaldo Romero Calla / UZH, Switzerland</p>
+</td>
+</tr>
+
 <tr>
 <td style="width: 10%;">10:15</td>
 <td style="width: 90%;">Virtual Coffee break</td>
