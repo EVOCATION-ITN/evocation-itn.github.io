@@ -8,6 +8,7 @@ permalink: /events/
 <!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
 
 ### 2nd Workshop. March 18-19, 2021 (will be held online due to COVID-19)
+The second workshop of the EVOCATION project is a network-wide-event in which the ESRs will present their updates which would includ their current work updates, results from current research and their corresponding plans for the rest of the project timeline. Each talk will be followed by questions and feedbacks from the participants.
 
 ### Thursday, 18 March, 2021
 
