@@ -29,9 +29,9 @@ var store = [{
         "url": "/news/2020-10-01-evocation-2nd-summer-school/",
         "teaser": null
       },{
-        "title": "EVOCATION second summer school (held online due to COVID-19)",
-        "excerpt":"The second summer school of EVOCATION was held online on 01-02 October, 2020 due to COVID-19. Due to the global travel restrictions, our scheduled summer school could not be arranged in the originally planned location in Cagliari at CRS4 premises. Second summer school (held online): talks. The summer school program...","categories": [],
+        "title": "EVOCATION's participation, support and contribution to the  EGPGV  and EuroVis 2021",
+        "excerpt":"EVOCATION is planning to participate in as well as support and contribute to the Eurographics Symposium on Parallel Graphics and Visualization (EGPGV) and Eurographics Visualization Conference (EuroVis) 2021, both held in Zürich (as virtual conferences online) and organized by the project partner UZH. For details of these events, please check...","categories": [],
         "tags": [],
-        "url": "/news/2021-06-01-EVOCATION/",
+        "url": "/news/2021-06-14-EVOCATION%20participation,%20support%20and%20contribution%20to%20the%20%20EGPGV%20%20and%20EuroVis%202021/",
         "teaser": null
       },]
