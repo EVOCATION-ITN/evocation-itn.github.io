@@ -12,66 +12,43 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 
 ### Thursday, 18 March, 2021
 
-<table style="width: 100%;" border="2">
+<table style="width: 371px; float: left;" border="2">
 <tbody>
-<tr style="background-color: #eeeeee;">
-<td style="width: 10%;"><strong>Time</strong></td>
-<td style="width: 100%;"><strong>Program</strong></td>
-</tr>
-
 <tr>
-<td style="width: 10%;">14:00</td>
-<td style="width: 100%;">
-<p>Bipul Mohanto / UROS, Germany</p>
-<p>                                                                               </p>
-</td>
+<td style="width: 31px;"><span style="background-color: #eeeeee;">Time</span></td>
+<td style="width: 305px;"><span style="background-color: #eeeeee;">&nbsp;Program</span></td>
 </tr>
-
 <tr>
-<td style="width: 10%;">14:30</td>
-<td style="width: 100%;">
-<p>Lizeth Joseline Fuentes Perez / UZH, Switzerland</p>
-<p> </p>
-</td>
+<td style="width: 31px;">14:00</td>
+<td style="width: 305px;">&nbsp;Bipul Mohanto / UROS, Germany</td>
 </tr>
-
 <tr>
-<td style="width: 10%;">15:00</td>
-<td style="width: 100%;">
-<p>Luciano Arnaldo Romero Calla / UZH, Switzerland</p>
-<p> </p>
-</td>
+<td style="width: 31px;">14:30</td>
+<td style="width: 305px;">&nbsp;Lizeth Joseline Fuentes Perez / UZH, Switzerland</td>
 </tr>
-
 <tr>
-<td style="width: 10%;">15:30</td>
-<td style="width: 100%;">Virtual cofee break</td>
+<td style="width: 31px;">15:00&nbsp;</td>
+<td style="width: 305px;">&nbsp;Luciano Arnaldo Romero Calla / UZH, Switzerland</td>
 </tr>
-
 <tr>
-<td style="width: 10%;">16:00</td>
-<td style="width: 100%;">
-<p>Moonisa Ahsan / CRS4, Italy</p>
-</td>
+<td style="width: 31px;">15:30&nbsp;</td>
+<td style="width: 305px;">&nbsp;Virtual Coffee Break</td>
 </tr>
-
 <tr>
-<td style="width: 10%;">16:30</td>
-<td style="width: 100%;">
-<p>Eva María Almansa Aranega / CRS4, Italy</p>
-</td>
+<td style="width: 31px;">16:00</td>
+<td style="width: 305px;">&nbsp;Moonisa Ahsan / CRS4, Italy</td>
 </tr>
-
 <tr>
-<td style="width: 10%;">17:00</td>
-<td style="width: 100%;">
-<p>Mary Mohsen Messak Guindy / HOLO, Hungary</p>
-</td>
+<td style="width: 31px;">16:30&nbsp;</td>
+<td style="width: 305px;">Eva Mar&iacute;a Almansa Aranega / CRS4, Italy</td>
 </tr>
-
 <tr>
-<td style="width: 10%;">  </td>
-<td style="width: 100%;">END OF Workshop - DAY 1</td>
+<td style="width: 31px;">17:00&nbsp;</td>
+<td style="width: 305px;">&nbsp;Mary Mohsen Messak Guindy / HOLO, Hungary</td>
+</tr>
+<tr>
+<td style="width: 31px;">&nbsp;</td>
+<td style="width: 305px;">End Of Workshop - DAY 1</td>
 </tr>
 </tbody>
 </table>
