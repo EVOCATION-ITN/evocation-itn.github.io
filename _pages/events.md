@@ -12,47 +12,69 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 
 ### Thursday, 18 March, 2021
 
-<table style="width: 513px; float: left;" border="2">
+<table style="width: 100%;" border="2">
 <tbody>
-<tr>
-<td style="width: 63px;"><span style="background-color: #eeeeee;">Time</span></td>
-<td style="width: 415px;"><span style="background-color: #eeeeee;">&nbsp;Program</span></td>
+<tr style="background-color: #eeeeee;">
+<td style="width: 10%;"><strong>Time</strong></td>
+<td style="width: 100%;"><strong>Program</strong></td>
 </tr>
+
 <tr>
-<td style="width: 63px;">14:00</td>
-<td style="width: 415px;">&nbsp;Bipul Mohanto / UROS, Germany</td>
+<td style="width: 10%;">14:00</td>
+<td style="width: 100%;">
+<p>Bipul Mohanto / UROS, Germany</p>
+<p>                                                                               </p>
+</td>
 </tr>
+
 <tr>
-<td style="width: 63px;">14:30</td>
-<td style="width: 415px;">&nbsp;Lizeth Joseline Fuentes Perez / UZH, Switzerland</td>
+<td style="width: 10%;">14:30</td>
+<td style="width: 100%;">
+<p>Lizeth Joseline Fuentes Perez / UZH, Switzerland</p>
+<p> </p>
+</td>
 </tr>
+
 <tr>
-<td style="width: 63px;">15:00&nbsp;</td>
-<td style="width: 415px;">&nbsp;Luciano Arnaldo Romero Calla / UZH, Switzerland</td>
+<td style="width: 10%;">15:00</td>
+<td style="width: 100%;">
+<p>Luciano Arnaldo Romero Calla / UZH, Switzerland</p>
+<p> </p>
+</td>
 </tr>
+
 <tr>
-<td style="width: 63px;">15:30&nbsp;</td>
-<td style="width: 415px;">&nbsp;Virtual Coffee Break</td>
+<td style="width: 10%;">15:30</td>
+<td style="width: 100%;">Virtual cofee break</td>
 </tr>
+
 <tr>
-<td style="width: 63px;">16:00</td>
-<td style="width: 415px;">&nbsp;Moonisa Ahsan / CRS4, Italy</td>
+<td style="width: 10%;">16:00</td>
+<td style="width: 100%;">
+<p>Moonisa Ahsan / CRS4, Italy</p>
+</td>
 </tr>
+
 <tr>
-<td style="width: 63px;">16:30&nbsp;</td>
-<td style="width: 415px;">&nbsp;Eva Mar&iacute;a Almansa Aranega / CRS4, Italy</td>
+<td style="width: 10%;">16:30</td>
+<td style="width: 100%;">
+<p>Eva María Almansa Aranega / CRS4, Italy</p>
+</td>
 </tr>
+
 <tr>
-<td style="width: 63px;">17:00&nbsp;</td>
-<td style="width: 415px;">&nbsp;Mary Mohsen Messak Guindy / HOLO, Hungary</td>
+<td style="width: 10%;">17:00</td>
+<td style="width: 100%;">
+<p>Mary Mohsen Messak Guindy / HOLO, Hungary</p>
+</td>
 </tr>
+
 <tr>
-<td style="width: 63px;">&nbsp;</td>
-<td style="width: 415px;">&nbsp;End Of Workshop - DAY 1</td>
+<td style="width: 10%;">  </td>
+<td style="width: 100%;">END OF Workshop - DAY 1</td>
 </tr>
 </tbody>
 </table>
-
 
 ### Fridayday, 19 March, 2021
 
