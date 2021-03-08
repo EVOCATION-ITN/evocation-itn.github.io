@@ -28,4 +28,10 @@ var store = [{
         "tags": [],
         "url": "/news/2020-10-01-evocation-2nd-summer-school/",
         "teaser": null
+      },{
+        "title": "EVOCATION second summer school (held online due to COVID-19)",
+        "excerpt":"The second summer school of EVOCATION was held online on 01-02 October, 2020 due to COVID-19. Due to the global travel restrictions, our scheduled summer school could not be arranged in the originally planned location in Cagliari at CRS4 premises. Second summer school (held online): talks. The summer school program...","categories": [],
+        "tags": [],
+        "url": "/news/2021-06-01-EVOCATION/",
+        "teaser": null
       },]
