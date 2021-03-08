@@ -71,7 +71,7 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 
 <tr>
 <td style="width: 10%;">  </td>
-<td style="width: 100%;">END OF Workshop - DAY 1</td>
+<td style="width: 100%;">End Of Workshop - DAY 1</td>
 </tr>
 </tbody>
 </table>
@@ -135,7 +135,7 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 
 <tr>
 <td style="width: 10%;"> </td>
-<td style="width: 90%;">END OF Workshop - DAY 2</td>
+<td style="width: 90%;">End Of Workshop - DAY 2</td>
 </tr>
 </tbody>
 </table>
