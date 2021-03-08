@@ -12,8 +12,6 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 
 ### Thursday, 18 March, 2021
 
-### Thursday, 01 October, 2020
-
 <table style="width: 100%;" border="2">
 <tbody>
 <tr style="background-color: #eeeeee;">
