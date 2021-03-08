@@ -29,7 +29,7 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 
 <tr>
 <td style="width: 10%;">14:30</td>
-<td style="width: 90%;">
+<td style="width: 100%;">
 <p>Lizeth Joseline Fuentes Perez / UZH, Switzerland</p>
 <p> </p>
 </td>
@@ -37,7 +37,7 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 
 <tr>
 <td style="width: 10%;">15:00</td>
-<td style="width: 90%;">
+<td style="width: 100%;">
 <p>Luciano Arnaldo Romero Calla / UZH, Switzerland</p>
 <p> </p>
 </td>
@@ -45,33 +45,33 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 
 <tr>
 <td style="width: 10%;">15:30</td>
-<td style="width: 90%;">Virtual cofee break</td>
+<td style="width: 100%;">Virtual cofee break</td>
 </tr>
 
 <tr>
 <td style="width: 10%;">16:00</td>
-<td style="width: 90%;">
+<td style="width: 100%;">
 <p>Moonisa Ahsan / CRS4, Italy</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 10%;">16:30</td>
-<td style="width: 90%;">
+<td style="width: 100%;">
 <p>Eva María Almansa Aranega / CRS4, Italy</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 10%;">17:00</td>
-<td style="width: 90%;">
+<td style="width: 100%;">
 <p>Mary Mohsen Messak Guindy / HOLO, Hungary</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 10%;">  </td>
-<td style="width: 90%;">END OF Workshop - DAY 1</td>
+<td style="width: 100%;">END OF Workshop - DAY 1</td>
 </tr>
 </tbody>
 </table>
