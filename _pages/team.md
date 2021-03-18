@@ -768,6 +768,37 @@ permalink: /team/
 </tbody>		
 </table>
 
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="130">
+  <col width="593">
+	<tr>
+	   <th> <img src="/assets/images/Arslan.png" alt="Arslan Siddique">
+		</th>
+		<th style="text-align: left"> <font size="4"> Arslan Siddique </font><br>									
+          <font size="2">PhD Student / Early Stage Researcher</font>
+          <h6>														
+          Affiliation: Consiglio Nazionale delle Ricerche (CNR)
+          <br>
+          Phone: 
+          <br>
+          Fax: 
+          <br>
+				  Email: <a href="mailto:arslan.siddique@isti.cnr.it">arslan.siddique@isti.cnr.it</a>
+          <br>
+          Webpage: <a href="http://vcg.isti.cnr.it/">http://vcg.isti.cnr.it/</a>
+          <br>
+          Publications: <a href="/recruitment/esr07_publications/">list of publications</a>	
+          </h6>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
 ## Project Management
 
 <table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
