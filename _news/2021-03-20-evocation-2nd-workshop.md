@@ -2,16 +2,16 @@
 title: EVOCATION second workshop (held online due to COVID-19)
 ---
 <figure>
-  <img src="/assets/images/2nd_Workshop_1.jpg" alt="2nd Workshop" style="width:100%">
+  <img src="/assets/images/2nd_Workshop.jpg" alt="2nd Workshop" style="width:100%">
   <figcaption>2nd Workshop (held online).</figcaption>
 </figure>
 
 The second workshop of EVOCATION was held online on 18-19 March, 2021 due to COVID-19. Due to the global travel restrictions, our scheduled workshop could not be arranged in the originally planned location in Zürich (Switzerland). Hence the workshop was held online where all of our currently recruited ESRs, project leaders and management personnel participated. There were a total of 26 participants in the workshop. 
 
 <figure>
+  <img src="/assets/images/2nd_Workshop_1.jpg" alt="Presentations of the ESRs" style="width:100%">
   <img src="/assets/images/2nd_Workshop_2.jpg" alt="Presentations of the ESRs" style="width:100%">
   <img src="/assets/images/2nd_Workshop_3.jpg" alt="Presentations of the ESRs" style="width:100%">
-  <img src="/assets/images/2nd_Workshop_4.jpg" alt="Presentations of the ESRs" style="width:100%">
   <figcaption>Presentations of the ESRs.</figcaption>
 </figure>
 
@@ -22,16 +22,16 @@ The second workshop of EVOCATION was held online on 18-19 March, 2021 due to COV
  The second day of the workshop was initiated again with a warm greeting from the proejct co-ordinator and the project co-PI which was followed by the ESRs presentations.
 
  <figure>
+  <img src="/assets/images/2nd_Workshop_4.jpg" alt="Presentations of the ESRs" style="width:100%">
   <img src="/assets/images/2nd_Workshop_5.jpg" alt="Presentations of the ESRs" style="width:100%">
   <img src="/assets/images/2nd_Workshop_6.jpg" alt="Presentations of the ESRs" style="width:100%">
-  <img src="/assets/images/2nd_Workshop_7.jpg" alt="Presentations of the ESRs" style="width:100%">
   <figcaption>Presentations of the ESRs.</figcaption>
 </figure>
 
 After the presentations and feedback sessions, a discussion among the ESRs and project leaders took place on how to proceed with the research activities in the current tarvel-restricted situation. 
 
 <figure>
-  <img src="/assets/images/2nd_Workshop_8.png" alt="Discussions among the workshop participants" style="width:100%">
+  <img src="/assets/images/2nd_Workshop_7.png" alt="Discussions among the workshop participants" style="width:100%">
   <figcaption>Discussions among the workshop participants.</figcaption>
 </figure>
 
