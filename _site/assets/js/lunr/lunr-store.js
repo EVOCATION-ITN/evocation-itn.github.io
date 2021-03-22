@@ -17,10 +17,10 @@ var store = [{
         "url": "/news/2019-11-30-evocation-winter-school/",
         "teaser": null
       },{
-        "title": "EVOCATION second workshop (held online due to COVID-19)",
-        "excerpt":"2nd Workshop (held online). The second workshop of EVOCATION was held online on 20-21 May, 2020 due to COVID-19. Due to the global travel restrictions, our scheduled workshop could not be arranged in the originally planned location in Darmstadt (Germany). Hence the workshop was held online where all of our...","categories": [],
+        "title": "EVOCATION first workshop (held online due to COVID-19)",
+        "excerpt":"1st Workshop (held online). The first workshop of EVOCATION was held online on 20-21 May, 2020 due to COVID-19. Due to the global travel restrictions, our scheduled workshop could not be arranged in the originally planned location in Darmstadt (Germany). Hence the workshop was held online where all of our...","categories": [],
         "tags": [],
-        "url": "/news/2020-05-22-evocation-2nd-workshop/",
+        "url": "/news/2020-05-22-evocation-1st-workshop/",
         "teaser": null
       },{
         "title": "EVOCATION second summer school (held online due to COVID-19)",
@@ -33,5 +33,11 @@ var store = [{
         "excerpt":"EVOCATION is planning to participate in as well as support and contribute to the Eurographics Symposium on Parallel Graphics and Visualization (EGPGV) and Eurographics Visualization Conference (EuroVis) 2021, both held in Zürich (as virtual conferences online) and organized by the project partner UZH. For details of these events, please check...","categories": [],
         "tags": [],
         "url": "/news/2021-03-08-EVOCATION-participation-support-and-contribution-EGPGV-EuroVis/",
+        "teaser": null
+      },{
+        "title": "EVOCATION second workshop (held online due to COVID-19)",
+        "excerpt":"2nd Workshop (held online). The second workshop of EVOCATION was held online on 18-19 March, 2021 due to COVID-19. Due to the global travel restrictions, our scheduled workshop could not be arranged in the originally planned location in Zürich (Switzerland). Hence the workshop was held online where all of our...","categories": [],
+        "tags": [],
+        "url": "/news/2021-03-20-evocation-2nd-workshop/",
         "teaser": null
       },]
