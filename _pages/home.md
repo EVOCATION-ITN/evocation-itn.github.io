@@ -35,8 +35,8 @@ feature_row:
 Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication (EVOCATION) is a leading European-wide doctoral Collegium for research in Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication.
 <!-- {: .text-center } -->
 
-**Recruitment for several ESR fellowships has started. Please visit the [EVOCATION Recruitment Page](/recruitment/) for more informtion about available jobs.**
-{: .notice--info}
+<!-- **Recruitment for several ESR fellowships has started. Please visit the [EVOCATION Recruitment Page](/recruitment/) for more informtion about available jobs.**
+{: .notice--info} -->
 
 <!-- {% include feature_row %} -->
 

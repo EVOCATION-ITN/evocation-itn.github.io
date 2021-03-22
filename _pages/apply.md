@@ -4,7 +4,7 @@ permalink: /recruitment/apply/
 ---
 [EVOCATION ESR Candidate Application Form](https://kontor.cg.tuwien.ac.at/evocation/){: .btn .btn--info .btn--large}{:target="_blank"}
 
-Follow the link above to submit your applciation. The applications will be open until positions are filled.
+Follow the link above to submit your application. The applications will be open until positions are filled.
 
 Please send an e-mail to [evocation@uni-rostock.de](mailto:evocation@uni-rostock.de?subject=EVOCATION: ESR Application) if you have any questions about the application process.
 
