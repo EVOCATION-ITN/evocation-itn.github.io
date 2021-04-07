@@ -1,10 +1,17 @@
 ---
 title: "Demos"
-author_profile: true
+#author_profile: true
+layout: collection
 permalink: /demos/
+collection: demos
+#sort_by: date
+#sort_order: reverse  
+sidebar:
+  - title: "Twitter Feed"
+    twitter: true
 ---
 
-## Upcoming Events 
+## Evocation demos 
 <!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
 
 ### 2nd Workshop. March 18-19, 2021 (will be held online due to COVID-19)
