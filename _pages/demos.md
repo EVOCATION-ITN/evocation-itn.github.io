@@ -30,7 +30,9 @@ sidebar:
             Your browser does not support the video tag.
             </video>
 		</th>
-		<th style="text-align: left"> <font size="4"> Demos from CRS4, Italy </font>						
+		<th style="text-align: left"> <font size="4">Joint Camera and Lens Control for Focus-and-Context Exploration</font>	
+    <br>
+    <font size="4">Assisted and Automatic Navigation in An Annotated Model</font>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
