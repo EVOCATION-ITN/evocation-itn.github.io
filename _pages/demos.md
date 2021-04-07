@@ -16,11 +16,11 @@ sidebar:
 
 <table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
 	<tbody>	
-  <col width="510">
-  <col width="213">
+  <col width="390">
+  <col width="333">
 	<tr>
 	   <th> 
-            <video width="320" height="240" controls>
+            <video width="360" height="240" controls>
                 <source src="/assets/videos/evocation-demo1-joint-camera.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video>
@@ -37,11 +37,11 @@ sidebar:
 
 <table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
 	<tbody>	
-  <col width="510">
-  <col width="213">
+  <col width="390">
+  <col width="333">
 	<tr>
 	   <th> 
-            <video width="320" height="240" controls>
+            <video width="360" height="240" controls>
                 <source src="/assets/videos/evocation-demo2-asst-nav.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video>
