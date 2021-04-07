@@ -21,18 +21,32 @@ sidebar:
 	<tr>
 	   <th> 
             <video width="320" height="240" controls>
-                <source src="/assets/videos/evocation-demo2-asst-nav.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-            </video>
-            <br>
-            <video width="320" height="240" controls>
                 <source src="/assets/videos/evocation-demo1-joint-camera.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video>
 		</th>
-		<th style="text-align: left"> <font size="4">Joint Camera and Lens Control for Focus-and-Context Exploration</font>	
-    <br>
-    <font size="4">Assisted and Automatic Navigation in An Annotated Model</font>						
+		<th style="text-align: left"> <font size="4">Joint Camera and Lens Control for Focus-and-Context Exploration</font>						
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
+	<tbody>	
+  <col width="510">
+  <col width="213">
+	<tr>
+	   <th> 
+            <video width="320" height="240" controls>
+                <source src="/assets/videos/evocation-demo2-asst-nav.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+            </video>
+		</th>
+		<th style="text-align: left"> <font size="4">Assisted and Automatic Navigation in An Annotated Model</font>						
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
         <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
