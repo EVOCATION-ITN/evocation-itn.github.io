@@ -16,8 +16,8 @@ sidebar:
 
 <table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:723px">
 	<tbody>	
-  <col width="530">
-  <col width="193">
+  <col width="510">
+  <col width="213">
 	<tr>
 	   <th> 
             <video width="320" height="240" controls>
