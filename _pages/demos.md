@@ -24,6 +24,11 @@ sidebar:
                 <source src="/assets/videos/evocation-demo2-asst-nav.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video>
+            <br>
+            <video width="320" height="240" controls>
+                <source src="/assets/videos/evocation-demo1-joint camera.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+            </video>
 		</th>
 		<th style="text-align: left"> <font size="4"> Demos from CRS4, Italy </font>						
         </th>
