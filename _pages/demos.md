@@ -29,7 +29,7 @@ sidebar:
         <!--<font size="2">We present a novel approach for assisting users in 2D data exploration; with an interactive lens. Our first key-contribution is a novel user-interface; to jointly control lens and camera; to support effective focus-and-context exploration.</font>	
         -->
         <p> </p>
-        <p style="font-size:70%; text-align:justify;">We present a novel approach for assisting users in 2D data exploration with an interactive lens. Our first key-contribution is a novel user-interface to jointly control lens and camera to support effective focus-and-context exploration.</p>	
+        <p style="font-size:70%; text-align:justify;">This work demonstatrates a novel approach for assisting users in 2D data exploration with an interactive lens. Our first key-contribution is a novel user-interface to jointly control lens and camera to support effective focus-and-context exploration.</p>	
 
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
@@ -53,7 +53,7 @@ sidebar:
 		</th>
 		<th style="text-align: left"><font size="4">Scalable exploration of complex objects and environments beyond plain visual replication</font><br>			<font size="2" color="#686666">Assisted and automatic navigation in an annotated model</font><br>			
       <p> </p>
-        <p style="font-size:70%; text-align:justify;">In 2D Data exploration this work explots and extends the conecpt of data annotations; to provide guidance in discovering interesting areas while navigating with the lens; suggesting aanotations and displaying them without introducing clutter.</p>	
+        <p style="font-size:70%; text-align:justify;">In 2D Data exploration, this work exploits and extends the conecpt of data annotations to provide guidance in discovering interesting areas while navigating with the lens suggesting aanotations and displaying them without introducing clutter.</p>	
 	
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
