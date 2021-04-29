@@ -3,14 +3,14 @@ layout: splash
 title: "Recruitment"
 classes: wide
 permalink: /recruitment/
+
 row1:
     - alt: "EVOCATION"
       title: "Real-time acquisition for collaborative telepresence on LHDs"
       excerpt: "ESR02 (University of Rostock, Germany)"
-      btn_label: "Hiring Pending"
+      btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/ 
-row2:
     - alt: "EVOCATION"
       title: "Foveated rendering for large-high-resolution displays"
       excerpt: "ESR01 (University of Rostock, Germany)"
@@ -23,13 +23,14 @@ row2:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
+   
+row2:
     - alt: "EVOCATION"
       title: "Scalable exploration of complex objects and environments beyond plain visual replication"
       excerpt: "ESR04 (CRS4, Italy)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/    
-row3:
+      url: /recruitment/ 
     - alt: "EVOCATION"
       title: "Scalable geometry processing and 3D reconstruction"
       excerpt: "ESR05 (University of Zurich, Switzerland)"
@@ -42,13 +43,14 @@ row3:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
+  
+row3:
     - alt: "EVOCATION"
       title: "Multimodal and Flexible 3D Acquisition"
       excerpt: "ESR07 (CNR, Italy)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/   
-row4:
+      url: /recruitment/ 
     - alt: "EVOCATION"
       title: "Geometry processing for 3D fabrication"
       excerpt: "ESR08 (CNR, Italy)"
@@ -61,13 +63,14 @@ row4:
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
+
+row4:  
     - alt: "EVOCATION"
       title: "New paradigms for navigation in and interaction with large captured data sets"
       excerpt: "ESR10 (TU Wien, Austria)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/ 
-row5:  
     - alt: "EVOCATION"
       title: "Standardizing optical material properties"
       excerpt: "ESR11 (Fraunhofer IGD, Germany)"
@@ -79,14 +82,14 @@ row5:
       excerpt: "ESR12 (Fraunhofer IGD, Germany)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/
+      url: /recruitment/   
+row5:  
     - alt: "EVOCATION"
       title: "Perceptually accurate light-field display rendering"
       excerpt: "ESR13 (Holografika, Hungary)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
-      url: /recruitment/    
-row6:  
+      url: /recruitment/ 
     - alt: "EVOCATION"
       title: "Acquisition of complex and structured environments"
       excerpt: "ESR14 (Gexcel, Italy)"
@@ -105,17 +108,15 @@ We can offer you a **36-months PhD training program** coordinated among eight ac
 
 The host network includes prestigious institutions from across Europe.
 
-## Still open positions
+## All our postions are filled
+
+Please find the title and ESR numbers of the positons below. 
 
 {% include feature_row id="row1" %}
-
-## Already filled positions
-
 {% include feature_row id="row2" %}
 {% include feature_row id="row3" %}
 {% include feature_row id="row4" %}
 {% include feature_row id="row5" %}
-{% include feature_row id="row6" %}
 
 
 
