@@ -98,8 +98,9 @@ row5:
       url: /recruitment/       
         
 ---
-## Open PhD Positions
 <!-- 
+## Open PhD Positions
+
 [Apply Here](/recruitment/apply/){: .btn .btn--info .btn--x-large}
 
 We are looking for **highly motivated candidates** for becoming the next generation of early-stage scientific and industrial researchers (ESRs) who in the future will lead research and development of novel visual and geometric computing methodologies in the widest variety of applications, including industrial design and manufacturing, cultural heritage study and valorisation, geomatics, and tele-collaboration.
@@ -108,9 +109,9 @@ We can offer you a **36-months PhD training program** coordinated among eight ac
 
 The host network includes prestigious institutions from across Europe.
 -->
-## All our ESR postions are filled
+## PhD positions
 
-Please find the proejct title and ESR numbers of the positons below. 
+All our ESR postions are now filled. Please find below the proejct titles and ESR numbers of the positons below. 
 
 {% include feature_row id="row1" %}
 {% include feature_row id="row2" %}
