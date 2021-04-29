@@ -6,17 +6,17 @@ permalink: /recruitment/
 
 row1:
     - alt: "EVOCATION"
-      title: "Real-time acquisition for collaborative telepresence on LHDs"
-      excerpt: "ESR02 (University of Rostock, Germany)"
-      btn_label: "Hiring Completed"
-      btn_class: "btn--info btn--small"
-      url: /recruitment/ 
-    - alt: "EVOCATION"
       title: "Foveated rendering for large-high-resolution displays"
       excerpt: "ESR01 (University of Rostock, Germany)"
       btn_label: "Hiring Completed"
       btn_class: "btn--info btn--small"
       url: /recruitment/
+    - alt: "EVOCATION"
+      title: "Real-time acquisition for collaborative telepresence on LHDs"
+      excerpt: "ESR02 (University of Rostock, Germany)"
+      btn_label: "Hiring Completed"
+      btn_class: "btn--info btn--small"
+      url: /recruitment/ 
     - alt: "EVOCATION"
       title: "Scalable reconstruction and exploration of complex indoor environments"
       excerpt: "ESR03 (CRS4, Italy)"
@@ -99,7 +99,7 @@ row5:
         
 ---
 ## Open PhD Positions
-
+<!-- 
 [Apply Here](/recruitment/apply/){: .btn .btn--info .btn--x-large}
 
 We are looking for **highly motivated candidates** for becoming the next generation of early-stage scientific and industrial researchers (ESRs) who in the future will lead research and development of novel visual and geometric computing methodologies in the widest variety of applications, including industrial design and manufacturing, cultural heritage study and valorisation, geomatics, and tele-collaboration.
@@ -107,10 +107,10 @@ We are looking for **highly motivated candidates** for becoming the next generat
 We can offer you a **36-months PhD training program** coordinated among eight academic and industrial partners.
 
 The host network includes prestigious institutions from across Europe.
+-->
+## All our ESR postions are filled
 
-## All our postions are filled
-
-Please find the title and ESR numbers of the positons below. 
+Please find the proejct title and ESR numbers of the positons below. 
 
 {% include feature_row id="row1" %}
 {% include feature_row id="row2" %}
