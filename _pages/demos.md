@@ -24,6 +24,9 @@ sidebar:
                 <source src="/assets/videos/evocation-demo1-joint-camera.mp4" type="video/mp4">
             Your browser does not support the video tag.
             </video>
+            <iframe width="420" height="315"
+              src="https://www.youtube.com/embed/SSQFJLYIdD4">
+            </iframe>
 		</th>
 		<th style="text-align: left"> <font size="4">Scalable exploration of complex objects and environments beyond plain visual replication</font><br>			<font size="2" color="#686666">Joint Camera and Lens Control for Focus-and-Context Exploration</font><br>
         <!--<font size="2">We present a novel approach for assisting users in 2D data exploration; with an interactive lens. Our first key-contribution is a novel user-interface; to jointly control lens and camera; to support effective focus-and-context exploration.</font>	
