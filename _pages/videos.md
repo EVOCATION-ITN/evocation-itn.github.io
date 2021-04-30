@@ -120,7 +120,7 @@ sidebar:
               src="https://www.youtube.com/embed/Eew6LdvF1XA">
             </iframe>
 		</th>
-		<th style="text-align: left"><font size="4">Perceptually accurate light-field display rendering.</font><br>			<font size="2" color="#686666">Interaction methods for light field displays by means of a theater model environment.</font><br>			
+		<th style="text-align: left"><font size="4">Perceptually accurate light-field display rendering.</font><br>			<font size="2" color="#686666">Interaction methods for light field displays by means of a theater model environment</font><br>			
       <p> </p>
         <p style="font-size:70%; text-align:justify;">This work demonstrates the interaction methods for light field displays by means of a theater model environment.</p>	
 	
