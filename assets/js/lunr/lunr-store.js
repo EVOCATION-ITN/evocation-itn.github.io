@@ -40,4 +40,10 @@ var store = [{
         "tags": [],
         "url": "/news/2021-03-20-evocation-2nd-workshop/",
         "teaser": null
+      },{
+        "title": "EVOCATION's participation at the Eurographics 2021",
+        "excerpt":"EVOCATION is participating to the Eurographics 2021 held in Vienna (as virtual conference online). Our lab presentation is scheduled on May 6 2021 from 11:11 to 11:16.   For details of the event, please check the following websites:   https://virtual.eurographics2021.at/program and https://conferences.eg.org/eg2021/program/projects-and-labs/  ","categories": [],
+        "tags": [],
+        "url": "/news/2021-05-03-EVOCATION-participation-Eurographics_2021/",
+        "teaser": null
       },]
