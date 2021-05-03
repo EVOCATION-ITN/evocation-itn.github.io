@@ -168,7 +168,7 @@ sidebar:
 		</th>
 		<th style="text-align: left"><font size="4">Scalable geometry processing and 3D reconstruction</font><br>			<font size="2" color="#686666">Robust feature-aware sparse mesh representation.</font><br>			
       <p> </p>
-        <p style="font-size:70%; text-align:justify;">This work demonstrates a robust feature-aware sparse mesh representation..</p>	
+        <p style="font-size:70%; text-align:justify;">This work demonstrates a robust feature-aware sparse mesh representation.</p>	
 	
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
