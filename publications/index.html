@@ -21,7 +21,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="EVOCATION">
 <meta property="og:title" content="Publications">
-<meta property="og:url" content="https://evocation.eu/publications/">
+<meta property="og:url" content="http://localhost:4000/publications/">
 
 
   <meta property="og:description" content="A Horizon 2020 Marie Skłodowska-Curie Actions Innovative Training Network">
@@ -41,7 +41,7 @@
   
 
 
-<link rel="canonical" href="https://evocation.eu/publications/">
+<link rel="canonical" href="http://localhost:4000/publications/">
 
 
 
@@ -52,7 +52,7 @@
     
       "@type": "Person",
       "name": "EVOCATION: A MSCA-ITN",
-      "url": "https://evocation.eu/"
+      "url": "http://localhost:4000/"
     
   }
 </script>
@@ -229,41 +229,48 @@
   <!---->
 
 </div></li>
-<li><span id="Pintore:2020:SI3"><span style="font-variant: small-caps">Pintore, G., Mura, C., Ganovelli, F., Fuentes-Perez, L., Pajarola, R., and Gobbetti, E.</span> 2020. State-of-the-art in Automatic 3D Reconstruction of Structured Indoor Environments. <i>Computer Graphics Forum</i> <i>39</i>, 2.</span>
+<li><span id="Moonisa:2021"><span style="font-variant: small-caps">Jaspe-Villanueva, A., Ahsan, M., Pintus, R., Giachetti, A., Marton, F., and Gobbetti, E.</span> 2021. Web-Based Exploration of Annotated Multi-Layered Relightable Image Models. <i>J. Comput. Cult. Herit.</i> <i>14</i>, 2.</span>
 
-<div id="Pintore:2020:SI3-materials">
+<div id="Moonisa:2021-materials">
   <ul class="nav nav-pills">
     <!--
-      <li><a data-toggle="collapse" href="#Pintore:2020:SI3-abstract">Abstract</a></li>
+      <li><a data-toggle="collapse" href="#Moonisa:2021-abstract">Abstract</a></li>
     -->
 
-    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Pintore:2020:SI3-bibtex')">BibTeX</a></li>
-    <div id="Pintore:2020:SI3-bibtex" style="display:none;">
-    <pre class="collapse">@article{Pintore:2020:SI3,
-  author = {Pintore, Giovanni and Mura, Claudio and Ganovelli, Fabio and Fuentes-Perez, Lizeth and Pajarola, Renato and Gobbetti, Enrico},
-  title = {State-of-the-art in Automatic 3D Reconstruction of Structured Indoor Environments},
-  journal = {Computer Graphics Forum},
-  volume = {39},
+    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Moonisa:2021-bibtex')">BibTeX</a></li>
+    <div id="Moonisa:2021-bibtex" style="display:none;">
+    <pre class="collapse">@article{Moonisa:2021,
+  author = {Jaspe-Villanueva, Alberto and Ahsan, Moonisa and Pintus, Ruggero and Giachetti, Andrea and Marton, Fabio and Gobbetti, Enrico},
+  title = {Web-Based Exploration of Annotated Multi-Layered Relightable Image Models},
+  year = {2021},
+  issue_date = {May 2021},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {14},
   number = {2},
-  year = {2020},
-  note = {To appear},
-  doi = {https://doi.org/10.1111/cgf.14021},
-  url = {https://dspace.crs4.it/jspui/handle/1138/12}
+  issn = {1556-4673},
+  url = {https://doi.org/10.1145/3430846},
+  doi = {10.1145/3430846},
+  journal = {J. Comput. Cult. Herit.},
+  month = may,
+  articleno = {24},
+  numpages = {29},
+  keywords = {3D visualization, annotations, reflectance transformation imaging, 2D visualization}
 }
 </pre>
     </div>-->
 
     
     
-      <li>DOI: <a href="http://dx.doi.org/https://doi.org/10.1111/cgf.14021">https://doi.org/10.1111/cgf.14021</a></li>
+      <li>DOI: <a href="http://dx.doi.org/10.1145/3430846">10.1145/3430846</a></li>
     
     
-      <li><a href="https://dspace.crs4.it/jspui/handle/1138/12">URL</a></li>
+      <li><a href="https://doi.org/10.1145/3430846">URL</a></li>
     
   </ul>
 
   <!--
-  <p id="Pintore:2020:SI3-abstract" class="collapse"> Creating high-level structured 3D models of real-world indoor scenes from captured data is a fundamental task which has important applications in many fields. Given the complexity and variability of interior environments and the need to cope with noisy and partial captured data, many open research problems remain, despite the substantial progress made in the past decade. In this survey, we provide an up-to-date integrative view of the field, bridging complementary views coming from computer graphics and computer vision. After providing a characterization of input sources, we define the structure of output models and the priors exploited to bridge the gap between imperfect sources and desired output. We then identify and discuss the main components of a structured reconstruction pipeline, and review how they are combined in scalable solutions working at the building level. We finally point out relevant research issues and analyze research trends. </p>
+  <p id="Moonisa:2021-abstract" class="collapse">We introduce a novel approach for exploring image-based shape and material models registered with structured descriptive information fused in multi-scale overlays. We represent the objects of interest as a series of registered layers of image-based shape and material data. These layers are represented at different scales and can come out of a variety of pipelines. These layers can include both Reflectance Transformation Imaging representations, and spatially varying normal and Bidirectional Reflectance Distribution Function fields, possibly as a result of fusing multi-spectral data. An overlay image pyramid associates visual annotations to the various scales. The overlay pyramid of each layer is created at data preparation time by either one of the three subsequent methods: (1) by importing it from other pipelines, (2) by creating it with the simple annotation drawing toolkit available within the viewer, and (3) with external image editing tools. This makes it easier for the user to seamlessly draw annotations over the region of interest. At runtime, clients can access an annotated multi-layered dataset by a standard web server. Users can explore these datasets on a variety of devices; they range from small mobile devices to large-scale displays used in museum installations. On all these aforementioned platforms, JavaScript/WebGL2 clients running in browsers are fully capable of performing layer selection, interactive relighting, enhanced visualization, and annotation display. We address the problem of clutter by embedding interactive lenses. This focus-and-context-aware (multiple-layer) exploration tool supports exploration of more than one representation in a single view. That allows mixing and matching of presentation modes and annotation display. The capabilities of our approach are demonstrated on a variety of cultural heritage use-cases. That involves different kinds of annotated surface and material models.</p>
   -->
 
 </div></li>
@@ -332,43 +339,42 @@
   <!---->
 
 </div></li>
-<li><span id="10.1007/978-3-030-58598-3_26"><span style="font-variant: small-caps">Pintore, G., Agus, M., and Gobbetti, E.</span> 2020. AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 degree Image Beyond the Manhattan World Assumption. <i>Computer Vision – ECCV 2020</i>, Springer International Publishing, 432–448.</span>
+<li><span id="Filoscia:2020"><span style="font-variant: small-caps">Filoscia, I., Alderighi, T., Giorgi, D., Malomo, L., Callieri, M., and Cignoni, P.</span> 2020. Optimizing Object Decomposition to Reduce Visual Artifacts in 3D Printing. <i>Computer Graphics Forum</i> <i>39</i>, 2, 423–434.</span>
 
-<div id="10.1007/978-3-030-58598-3_26-materials">
+<div id="Filoscia:2020-materials">
   <ul class="nav nav-pills">
     <!--
-      <li><a data-toggle="collapse" href="#10.1007/978-3-030-58598-3_26-abstract">Abstract</a></li>
+      <li><a data-toggle="collapse" href="#Filoscia:2020-abstract">Abstract</a></li>
     -->
 
-    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('10.1007/978-3-030-58598-3_26-bibtex')">BibTeX</a></li>
-    <div id="10.1007/978-3-030-58598-3_26-bibtex" style="display:none;">
-    <pre class="collapse">@inproceedings{10.1007/978-3-030-58598-3_26,
-  author = {Pintore, Giovanni and Agus, Marco and Gobbetti, Enrico},
-  editor = {Vedaldi, Andrea and Bischof, Horst and Brox, Thomas and Frahm, Jan-Michael},
-  title = {AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 degree Image Beyond the Manhattan World Assumption},
-  booktitle = {Computer Vision -- ECCV 2020},
-  year = {2020},
-  publisher = {Springer International Publishing},
-  doi = {10.1007/978-3-030-58598-3_26},
-  url = {https://dspace.crs4.it/jspui/handle/1138/14},
-  address = {Cham},
-  pages = {432--448},
-  isbn = {978-3-030-58598-3}
+    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Filoscia:2020-bibtex')">BibTeX</a></li>
+    <div id="Filoscia:2020-bibtex" style="display:none;">
+    <pre class="collapse">@article{Filoscia:2020,
+  author = {Filoscia, I. and Alderighi, T. and Giorgi, D. and Malomo, L. and Callieri, M. and Cignoni, P.},
+  title = {Optimizing Object Decomposition to Reduce Visual Artifacts in 3D Printing},
+  journal = {Computer Graphics Forum},
+  volume = {39},
+  number = {2},
+  pages = {423-434},
+  doi = {https://doi.org/10.1111/cgf.13941},
+  url = {https://openportal.isti.cnr.it/doc?id=people______::9d51621aaa57ea79baa0ac0466002bf0},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13941},
+  year = {2020}
 }
 </pre>
     </div>-->
 
     
     
-      <li>DOI: <a href="http://dx.doi.org/10.1007/978-3-030-58598-3_26">10.1007/978-3-030-58598-3_26</a></li>
+      <li>DOI: <a href="http://dx.doi.org/https://doi.org/10.1111/cgf.13941">https://doi.org/10.1111/cgf.13941</a></li>
     
     
-      <li><a href="https://dspace.crs4.it/jspui/handle/1138/14">URL</a></li>
+      <li><a href="https://openportal.isti.cnr.it/doc?id=people______::9d51621aaa57ea79baa0ac0466002bf0">URL</a></li>
     
   </ul>
 
   <!--
-  <p id="10.1007/978-3-030-58598-3_26-abstract" class="collapse">We introduce a novel end-to-end approach to predict a 3D room layout from a single panoramic image. Compared to recent state-of-the-art works, our method is not limited to Manhattan World environments, and can reconstruct rooms bounded by vertical walls that do not form right angles or are curved – i.e., Atlanta World models. In our approach, we project the original gravity-aligned panoramic image on two horizontal planes, one above and one below the camera. This representation encodes all the information needed to recover the Atlanta World 3D bounding surfaces of the room in the form of a 2D room footprint on the floor plan and a room height. To predict the 3D layout, we propose an encoder-decoder neural network architecture, leveraging Recurrent Neural Networks (RNNs) to capture long-range geometric patterns, and exploiting a customized training strategy based on domain-specific knowledge. The experimental results demonstrate that our method outperforms state-of-the-art solutions in prediction accuracy, in particular in cases of complex wall layouts or curved wall footprints.</p>
+  <p id="Filoscia:2020-abstract" class="collapse">Abstract We propose a method for the automatic segmentation of 3D objects into parts which can be individually 3D printed and then reassembled by preserving the visual quality of the final object. Our technique focuses on minimizing the surface affected by supports, decomposing the object into multiple parts whose printing orientation is automatically chosen. The segmentation reduces the visual impact on the fabricated model producing non-planar cuts that adapt to the object shape. This is performed by solving an optimization problem that balances the effects of supports and cuts, while trying to place both in occluded regions of the object surface. To assess the practical impact of the solution, we show a number of segmented, 3D printed and reassembled objects.</p>
   -->
 
 </div></li>
@@ -450,42 +456,81 @@
   <!---->
 
 </div></li>
-<li><span id="Filoscia:2020"><span style="font-variant: small-caps">Filoscia, I., Alderighi, T., Giorgi, D., Malomo, L., Callieri, M., and Cignoni, P.</span> 2020. Optimizing Object Decomposition to Reduce Visual Artifacts in 3D Printing. <i>Computer Graphics Forum</i> <i>39</i>, 2, 423–434.</span>
+<li><span id="10.1007/978-3-030-58598-3_26"><span style="font-variant: small-caps">Pintore, G., Agus, M., and Gobbetti, E.</span> 2020. AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 degree Image Beyond the Manhattan World Assumption. <i>Computer Vision – ECCV 2020</i>, Springer International Publishing, 432–448.</span>
 
-<div id="Filoscia:2020-materials">
+<div id="10.1007/978-3-030-58598-3_26-materials">
   <ul class="nav nav-pills">
     <!--
-      <li><a data-toggle="collapse" href="#Filoscia:2020-abstract">Abstract</a></li>
+      <li><a data-toggle="collapse" href="#10.1007/978-3-030-58598-3_26-abstract">Abstract</a></li>
     -->
 
-    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Filoscia:2020-bibtex')">BibTeX</a></li>
-    <div id="Filoscia:2020-bibtex" style="display:none;">
-    <pre class="collapse">@article{Filoscia:2020,
-  author = {Filoscia, I. and Alderighi, T. and Giorgi, D. and Malomo, L. and Callieri, M. and Cignoni, P.},
-  title = {Optimizing Object Decomposition to Reduce Visual Artifacts in 3D Printing},
-  journal = {Computer Graphics Forum},
-  volume = {39},
-  number = {2},
-  pages = {423-434},
-  doi = {https://doi.org/10.1111/cgf.13941},
-  url = {https://openportal.isti.cnr.it/doc?id=people______::9d51621aaa57ea79baa0ac0466002bf0},
-  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13941},
-  year = {2020}
+    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('10.1007/978-3-030-58598-3_26-bibtex')">BibTeX</a></li>
+    <div id="10.1007/978-3-030-58598-3_26-bibtex" style="display:none;">
+    <pre class="collapse">@inproceedings{10.1007/978-3-030-58598-3_26,
+  author = {Pintore, Giovanni and Agus, Marco and Gobbetti, Enrico},
+  editor = {Vedaldi, Andrea and Bischof, Horst and Brox, Thomas and Frahm, Jan-Michael},
+  title = {AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 degree Image Beyond the Manhattan World Assumption},
+  booktitle = {Computer Vision -- ECCV 2020},
+  year = {2020},
+  publisher = {Springer International Publishing},
+  doi = {10.1007/978-3-030-58598-3_26},
+  url = {https://dspace.crs4.it/jspui/handle/1138/14},
+  address = {Cham},
+  pages = {432--448},
+  isbn = {978-3-030-58598-3}
 }
 </pre>
     </div>-->
 
     
     
-      <li>DOI: <a href="http://dx.doi.org/https://doi.org/10.1111/cgf.13941">https://doi.org/10.1111/cgf.13941</a></li>
+      <li>DOI: <a href="http://dx.doi.org/10.1007/978-3-030-58598-3_26">10.1007/978-3-030-58598-3_26</a></li>
     
     
-      <li><a href="https://openportal.isti.cnr.it/doc?id=people______::9d51621aaa57ea79baa0ac0466002bf0">URL</a></li>
+      <li><a href="https://dspace.crs4.it/jspui/handle/1138/14">URL</a></li>
     
   </ul>
 
   <!--
-  <p id="Filoscia:2020-abstract" class="collapse">Abstract We propose a method for the automatic segmentation of 3D objects into parts which can be individually 3D printed and then reassembled by preserving the visual quality of the final object. Our technique focuses on minimizing the surface affected by supports, decomposing the object into multiple parts whose printing orientation is automatically chosen. The segmentation reduces the visual impact on the fabricated model producing non-planar cuts that adapt to the object shape. This is performed by solving an optimization problem that balances the effects of supports and cuts, while trying to place both in occluded regions of the object surface. To assess the practical impact of the solution, we show a number of segmented, 3D printed and reassembled objects.</p>
+  <p id="10.1007/978-3-030-58598-3_26-abstract" class="collapse">We introduce a novel end-to-end approach to predict a 3D room layout from a single panoramic image. Compared to recent state-of-the-art works, our method is not limited to Manhattan World environments, and can reconstruct rooms bounded by vertical walls that do not form right angles or are curved – i.e., Atlanta World models. In our approach, we project the original gravity-aligned panoramic image on two horizontal planes, one above and one below the camera. This representation encodes all the information needed to recover the Atlanta World 3D bounding surfaces of the room in the form of a 2D room footprint on the floor plan and a room height. To predict the 3D layout, we propose an encoder-decoder neural network architecture, leveraging Recurrent Neural Networks (RNNs) to capture long-range geometric patterns, and exploiting a customized training strategy based on domain-specific knowledge. The experimental results demonstrate that our method outperforms state-of-the-art solutions in prediction accuracy, in particular in cases of complex wall layouts or curved wall footprints.</p>
+  -->
+
+</div></li>
+<li><span id="Pintore:2020:SI3"><span style="font-variant: small-caps">Pintore, G., Mura, C., Ganovelli, F., Fuentes-Perez, L., Pajarola, R., and Gobbetti, E.</span> 2020. State-of-the-art in Automatic 3D Reconstruction of Structured Indoor Environments. <i>Computer Graphics Forum</i> <i>39</i>, 2.</span>
+
+<div id="Pintore:2020:SI3-materials">
+  <ul class="nav nav-pills">
+    <!--
+      <li><a data-toggle="collapse" href="#Pintore:2020:SI3-abstract">Abstract</a></li>
+    -->
+
+    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Pintore:2020:SI3-bibtex')">BibTeX</a></li>
+    <div id="Pintore:2020:SI3-bibtex" style="display:none;">
+    <pre class="collapse">@article{Pintore:2020:SI3,
+  author = {Pintore, Giovanni and Mura, Claudio and Ganovelli, Fabio and Fuentes-Perez, Lizeth and Pajarola, Renato and Gobbetti, Enrico},
+  title = {State-of-the-art in Automatic 3D Reconstruction of Structured Indoor Environments},
+  journal = {Computer Graphics Forum},
+  volume = {39},
+  number = {2},
+  year = {2020},
+  note = {To appear},
+  doi = {https://doi.org/10.1111/cgf.14021},
+  url = {https://dspace.crs4.it/jspui/handle/1138/12}
+}
+</pre>
+    </div>-->
+
+    
+    
+      <li>DOI: <a href="http://dx.doi.org/https://doi.org/10.1111/cgf.14021">https://doi.org/10.1111/cgf.14021</a></li>
+    
+    
+      <li><a href="https://dspace.crs4.it/jspui/handle/1138/12">URL</a></li>
+    
+  </ul>
+
+  <!--
+  <p id="Pintore:2020:SI3-abstract" class="collapse"> Creating high-level structured 3D models of real-world indoor scenes from captured data is a fundamental task which has important applications in many fields. Given the complexity and variability of interior environments and the need to cope with noisy and partial captured data, many open research problems remain, despite the substantial progress made in the past decade. In this survey, we provide an up-to-date integrative view of the field, bridging complementary views coming from computer graphics and computer vision. After providing a characterization of input sources, we define the structure of output models and the priors exploited to bridge the gap between imperfect sources and desired output. We then identify and discuss the main components of a structured reconstruction pipeline, and review how they are combined in scalable solutions working at the building level. We finally point out relevant research issues and analyze research trends. </p>
   -->
 
 </div></li>
