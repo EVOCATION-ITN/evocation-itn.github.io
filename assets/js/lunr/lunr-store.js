@@ -46,4 +46,10 @@ var store = [{
         "tags": [],
         "url": "/news/2021-05-03-EVOCATION-participation-Eurographics_2021/",
         "teaser": null
+      },{
+        "title": "EVOCATION participant's (from CRS4, Italy) presentation at the EUROVIS 2021",
+        "excerpt":"Members of EVOCATION team will present their scientific work at EUROVIS 2021, Europe’s largest visualization conference. Title of the publication: A novel approach for exploring annotated data with interactive lenses. Details on authors and presentation: Moonisa Ahsan, together with Fabio Bettio, Fabio Marton and Enrico Gobbetti, researchers in the Visual...","categories": [],
+        "tags": [],
+        "url": "/news/2021-06-16-EVOCATION-participation-EUROVIS-2021/",
+        "teaser": null
       },]
