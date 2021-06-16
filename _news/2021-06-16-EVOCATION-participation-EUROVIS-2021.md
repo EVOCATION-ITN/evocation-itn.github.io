@@ -9,13 +9,13 @@ Title of the publication: A novel approach for exploring annotated data with int
 
 Details on authors and presentation:
 
-Moonisa Ahsan co-author together with Fabio Bettio, Fabio Marton and Enrico Gobbetti, researchers in the Visual and Data-Intensive Computing sector from CRS4 (Italy) will present this talk on June 17, 2021.
+Moonisa Ahsan, together with Fabio Bettio, Fabio Marton and Enrico Gobbetti, researchers in the Visual and Data-Intensive Computing sector from CRS4 (Italy), will present this talk on June 17, 2021.
 
-This research introduces a new approach to assist users in exploring 2D representations via an interactive lens. The approach proved to be particularly effective in the field of cultural heritage. The work will also appear in the Computer Graphics Forum magazine.
+This research introduces a new approach to assist users in exploring 2D representations via an interactive lens. The approach proved to be particularly effective in the field of cultural heritage. The work will also appear in the Computer Graphics Forum.
 
 You can watch this talk on Thursday, 17 June, 2021 in Full Papers 10: Charts, Design and Interaction Section from 11:50-12:15pm.
 
-This work has received funded from European Union's H2020 Program.
+This work has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813170.
 
 
 
