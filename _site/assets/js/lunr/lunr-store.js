@@ -52,4 +52,10 @@ var store = [{
         "tags": [],
         "url": "/news/2021-06-16-EVOCATION-participation-EUROVIS-2021/",
         "teaser": null
+      },{
+        "title": "EVOCATION participant's (from Holografika, Hungary) presentation at the SPIE Digital Optical Technologies technical conference, 21-25 June, 2021",
+        "excerpt":"Members of EVOCATION team will present their scientific work at SPIE Digital Optical Technologies technical conference, 21-25 June, 2021. Presentations will be available on demand at the event’s website. The presentations are related to the following publications: Recommendations on the viewing distance of light field displays Authors: Peter A. Kara,...","categories": [],
+        "tags": [],
+        "url": "/news/2021-06-21-EVOCATION-participation-SPIE_Digital_Optical_Technologies_technical_conference-2021/",
+        "teaser": null
       },]
