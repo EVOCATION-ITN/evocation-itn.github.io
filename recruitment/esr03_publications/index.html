@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.23.0 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
   Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -79,22 +79,9 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
 
 
     <!-- start custom head snippets -->
@@ -113,7 +100,6 @@
 
   <body class="layout--single wide">
     <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
@@ -174,7 +160,7 @@
 <div id="main" role="main">
   
 
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="ESR 03 :: List of Publications">
     
     
@@ -183,17 +169,48 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">ESR 03 :: List of Publications
-</h1>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://evocation.eu/recruitment/esr03_publications/" class="u-url" itemprop="url">ESR 03 :: List of Publications
+</a>
+          </h1>
           
 
 
         </header>
       
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content e-content" itemprop="text">
         
-        <ol class="bibliography"></ol>
+        <ol class="bibliography"><li><span id="Pintore:2021_CVPR"><span style="font-variant: small-caps">Pintore, G., Agus, M., Almansa, E., Schneider, J., and Gobbetti, E.</span> 2021. SliceNet: Deep Dense Depth Estimation From a Single Indoor Panorama Using a Slice-Based Representation. <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 11536–11545.</span>
+
+<div id="Pintore:2021_CVPR-materials">
+  <ul class="nav nav-pills">
+    <!---->
+
+    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Pintore:2021_CVPR-bibtex')">BibTeX</a></li>
+    <div id="Pintore:2021_CVPR-bibtex" style="display:none;">
+    <pre class="collapse">@inproceedings{Pintore:2021_CVPR,
+  author = {Pintore, Giovanni and Agus, Marco and Almansa, Eva and Schneider, Jens and Gobbetti, Enrico},
+  title = {SliceNet: Deep Dense Depth Estimation From a Single Indoor Panorama Using a Slice-Based Representation},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = jun,
+  year = {2021},
+  pages = {11536-11545},
+  url = {https://dspace.crs4.it/jspui/handle/1138/32}
+}
+</pre>
+    </div>-->
+
+    
+    
+    
+      <li><a href="https://dspace.crs4.it/jspui/handle/1138/32">URL</a></li>
+    
+  </ul>
+
+  <!---->
+
+</div></li></ol>
 
         
       </section>
@@ -204,7 +221,6 @@
 
 
         
-
 
       </footer>
 
@@ -219,7 +235,6 @@
   
   
 </div>
-
     </div>
 
     

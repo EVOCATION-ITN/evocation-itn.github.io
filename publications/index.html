@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.23.0 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
   Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -79,22 +79,9 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
 
 
     <!-- start custom head snippets -->
@@ -113,7 +100,6 @@
 
   <body class="layout--single wide">
     <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
@@ -174,7 +160,7 @@
 <div id="main" role="main">
   
 
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Publications">
     
     
@@ -183,76 +169,42 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Publications
-</h1>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://evocation.eu/publications/" class="u-url" itemprop="url">Publications
+</a>
+          </h1>
           
 
 
         </header>
       
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content e-content" itemprop="text">
         
-        <ol class="bibliography"><li><span id="Bettio:2021_6"><span style="font-variant: small-caps">Bettio, F., Ahsan, M., Marton, F., and Gobbetti, E.</span> 2021. A Novel Approach for Exploring Annotated Data With Interactive Lenses. <i>Computer Graphics Forum</i>.</span>
+        <ol class="bibliography"><li><span id="Pintore:2021_CVPR"><span style="font-variant: small-caps">Pintore, G., Agus, M., Almansa, E., Schneider, J., and Gobbetti, E.</span> 2021. SliceNet: Deep Dense Depth Estimation From a Single Indoor Panorama Using a Slice-Based Representation. <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 11536–11545.</span>
 
-<div id="Bettio:2021_6-materials">
+<div id="Pintore:2021_CVPR-materials">
   <ul class="nav nav-pills">
     <!---->
 
-    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Bettio:2021_6-bibtex')">BibTeX</a></li>
-    <div id="Bettio:2021_6-bibtex" style="display:none;">
-    <pre class="collapse">@article{Bettio:2021_6,
-  journal = {Computer Graphics Forum},
-  title = {{A Novel Approach for Exploring Annotated Data With Interactive Lenses}},
-  author = {Bettio, Fabio and Ahsan, Moonisa and Marton, Fabio and Gobbetti, Enrico},
+    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Pintore:2021_CVPR-bibtex')">BibTeX</a></li>
+    <div id="Pintore:2021_CVPR-bibtex" style="display:none;">
+    <pre class="collapse">@inproceedings{Pintore:2021_CVPR,
+  author = {Pintore, Giovanni and Agus, Marco and Almansa, Eva and Schneider, Jens and Gobbetti, Enrico},
+  title = {SliceNet: Deep Dense Depth Estimation From a Single Indoor Panorama Using a Slice-Based Representation},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = jun,
   year = {2021},
-  publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
-  issn = {1467-8659},
-  url = { https://dspace.crs4.it/jspui/handle/1138/31},
-  doi = {10.1111/cgf.14315}
+  pages = {11536-11545},
+  url = {https://dspace.crs4.it/jspui/handle/1138/32}
 }
 </pre>
     </div>-->
 
     
     
-      <li>DOI: <a href="http://dx.doi.org/10.1111/cgf.14315">10.1111/cgf.14315</a></li>
     
-    
-      <li><a href=" https://dspace.crs4.it/jspui/handle/1138/31">URL</a></li>
-    
-  </ul>
-
-  <!---->
-
-</div></li>
-<li><span id="Cardoso:2021_4"><span style="font-variant: small-caps">Cardoso, J.A., Goncalves, N., and Wimmer, M.</span> 2021. Cost Volume Refinement for Depth Prediction. <i>2020 25th International Conference on Pattern Recognition (ICPR)</i>, 354–361.</span>
-
-<div id="Cardoso:2021_4-materials">
-  <ul class="nav nav-pills">
-    <!---->
-
-    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Cardoso:2021_4-bibtex')">BibTeX</a></li>
-    <div id="Cardoso:2021_4-bibtex" style="display:none;">
-    <pre class="collapse">@inproceedings{Cardoso:2021_4,
-  author = {Cardoso, Joao Afonso and Goncalves, Nuno and Wimmer, Michael},
-  booktitle = {2020 25th International Conference on Pattern Recognition (ICPR)},
-  title = {Cost Volume Refinement for Depth Prediction},
-  year = {2021},
-  month = jan,
-  pages = {354 -- 361},
-  doi = {10.1109/ICPR48806.2021.9412730},
-  url = {https://doi.org/10.1109/ICPR48806.2021.9412730}
-}
-</pre>
-    </div>-->
-
-    
-    
-      <li>DOI: <a href="http://dx.doi.org/10.1109/ICPR48806.2021.9412730">10.1109/ICPR48806.2021.9412730</a></li>
-    
-    
-      <li><a href="https://doi.org/10.1109/ICPR48806.2021.9412730">URL</a></li>
+      <li><a href="https://dspace.crs4.it/jspui/handle/1138/32">URL</a></li>
     
   </ul>
 
@@ -442,6 +394,146 @@
     
     
       <li><a href="https://doi.org/10.1117/12.2589129">URL</a></li>
+    
+  </ul>
+
+  <!---->
+
+</div></li>
+<li><span id="Cardoso:2021_4"><span style="font-variant: small-caps">Cardoso, J.A., Goncalves, N., and Wimmer, M.</span> 2021. Cost Volume Refinement for Depth Prediction. <i>2020 25th International Conference on Pattern Recognition (ICPR)</i>, 354–361.</span>
+
+<div id="Cardoso:2021_4-materials">
+  <ul class="nav nav-pills">
+    <!---->
+
+    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Cardoso:2021_4-bibtex')">BibTeX</a></li>
+    <div id="Cardoso:2021_4-bibtex" style="display:none;">
+    <pre class="collapse">@inproceedings{Cardoso:2021_4,
+  author = {Cardoso, Joao Afonso and Goncalves, Nuno and Wimmer, Michael},
+  booktitle = {2020 25th International Conference on Pattern Recognition (ICPR)},
+  title = {Cost Volume Refinement for Depth Prediction},
+  year = {2021},
+  month = jan,
+  pages = {354 -- 361},
+  doi = {10.1109/ICPR48806.2021.9412730},
+  url = {https://doi.org/10.1109/ICPR48806.2021.9412730}
+}
+</pre>
+    </div>-->
+
+    
+    
+      <li>DOI: <a href="http://dx.doi.org/10.1109/ICPR48806.2021.9412730">10.1109/ICPR48806.2021.9412730</a></li>
+    
+    
+      <li><a href="https://doi.org/10.1109/ICPR48806.2021.9412730">URL</a></li>
+    
+  </ul>
+
+  <!---->
+
+</div></li>
+<li><span id="Bettio:2021_6"><span style="font-variant: small-caps">Bettio, F., Ahsan, M., Marton, F., and Gobbetti, E.</span> 2021. A Novel Approach for Exploring Annotated Data With Interactive Lenses. <i>Computer Graphics Forum</i>.</span>
+
+<div id="Bettio:2021_6-materials">
+  <ul class="nav nav-pills">
+    <!---->
+
+    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Bettio:2021_6-bibtex')">BibTeX</a></li>
+    <div id="Bettio:2021_6-bibtex" style="display:none;">
+    <pre class="collapse">@article{Bettio:2021_6,
+  journal = {Computer Graphics Forum},
+  title = {{A Novel Approach for Exploring Annotated Data With Interactive Lenses}},
+  author = {Bettio, Fabio and Ahsan, Moonisa and Marton, Fabio and Gobbetti, Enrico},
+  year = {2021},
+  publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+  issn = {1467-8659},
+  url = { https://dspace.crs4.it/jspui/handle/1138/31},
+  doi = {10.1111/cgf.14315}
+}
+</pre>
+    </div>-->
+
+    
+    
+      <li>DOI: <a href="http://dx.doi.org/10.1111/cgf.14315">10.1111/cgf.14315</a></li>
+    
+    
+      <li><a href=" https://dspace.crs4.it/jspui/handle/1138/31">URL</a></li>
+    
+  </ul>
+
+  <!---->
+
+</div></li>
+<li><span id="Balogh:2021_7"><span style="font-variant: small-caps">Balogh, T., Barsi, A., Kara, P.A., Guindy, M., Simon, A., and Nagy, Z.</span> 2021. 3D light field LED wall. <i>Digital Optical Technologies 2021</i>, SPIE, 180–190.</span>
+
+<div id="Balogh:2021_7-materials">
+  <ul class="nav nav-pills">
+    <!---->
+
+    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Balogh:2021_7-bibtex')">BibTeX</a></li>
+    <div id="Balogh:2021_7-bibtex" style="display:none;">
+    <pre class="collapse">@inproceedings{Balogh:2021_7,
+  author = {Balogh, Tibor and Barsi, Attila and Kara, Peter A. and Guindy, Mary and Simon, Aniko and Nagy, Zsolt},
+  title = {{3D light field LED wall}},
+  volume = {11788},
+  booktitle = {Digital Optical Technologies 2021},
+  editor = {Kress, Bernard C. and Peroz, Christophe},
+  organization = {International Society for Optics and Photonics},
+  publisher = {SPIE},
+  pages = {180 -- 190},
+  keywords = {3D light field, novel system design, LED, lens array, modular display},
+  year = {2021},
+  doi = {https://doi.org/10.1117/12.2594276},
+  url = {https://doi.org/10.1117/12.2594276}
+}
+</pre>
+    </div>-->
+
+    
+    
+      <li>DOI: <a href="http://dx.doi.org/https://doi.org/10.1117/12.2594276">https://doi.org/10.1117/12.2594276</a></li>
+    
+    
+      <li><a href="https://doi.org/10.1117/12.2594276">URL</a></li>
+    
+  </ul>
+
+  <!---->
+
+</div></li>
+<li><span id="Peter:2021_8"><span style="font-variant: small-caps">Kara, P.A., Barsi, A., Tamboli, R.R., et al.</span> 2021. Recommendations on the viewing distance of light field displays. <i>Digital Optical Technologies 2021</i>, SPIE, 166–179.</span>
+
+<div id="Peter:2021_8-materials">
+  <ul class="nav nav-pills">
+    <!---->
+
+    <!--<li><a data-toggle="collapse" href="javascript:toggleDiv('Peter:2021_8-bibtex')">BibTeX</a></li>
+    <div id="Peter:2021_8-bibtex" style="display:none;">
+    <pre class="collapse">@inproceedings{Peter:2021_8,
+  author = {Kara, Peter A. and Barsi, Attila and Tamboli, Roopak R. and Guindy, Mary and Martini, Maria G. and Balogh, Tibor and Simon, Aniko},
+  title = {{Recommendations on the viewing distance of light field displays}},
+  volume = {11788},
+  booktitle = {Digital Optical Technologies 2021},
+  editor = {Kress, Bernard C. and Peroz, Christophe},
+  organization = {International Society for Optics and Photonics},
+  publisher = {SPIE},
+  pages = {166 -- 179},
+  keywords = {light field, 3D perception, viewing conditions, key performance indicators, user-centric design},
+  year = {2021},
+  doi = {https://doi.org/10.1117/12.2594266},
+  url = {https://doi.org/10.1117/12.2594266}
+}
+</pre>
+    </div>-->
+
+    
+    
+      <li>DOI: <a href="http://dx.doi.org/https://doi.org/10.1117/12.2594266">https://doi.org/10.1117/12.2594266</a></li>
+    
+    
+      <li><a href="https://doi.org/10.1117/12.2594266">URL</a></li>
     
   </ul>
 
@@ -798,7 +890,6 @@
 
         
 
-
       </footer>
 
       
@@ -812,7 +903,6 @@
   
   
 </div>
-
     </div>
 
     
