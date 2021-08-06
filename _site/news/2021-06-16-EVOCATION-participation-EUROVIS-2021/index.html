@@ -1,6 +1,6 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.23.0 by Michael Rose
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
   Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
@@ -83,22 +83,9 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
 
 
     <!-- start custom head snippets -->
@@ -117,7 +104,6 @@
 
   <body class="layout--single">
     <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
@@ -178,7 +164,7 @@
 <div id="main" role="main">
   
 
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="EVOCATION participant’s (from CRS4, Italy) presentation at the EUROVIS 2021">
     <meta itemprop="description" content="Members of EVOCATION team will present their scientific work at EUROVIS 2021, Europe’s largest visualization conference.">
     <meta itemprop="datePublished" content="2021-06-16T00:00:00+02:00">
@@ -187,15 +173,17 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">EVOCATION participant’s (from CRS4, Italy) presentation at the EUROVIS 2021
-</h1>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://evocation.eu/news/2021-06-16-EVOCATION-participation-EUROVIS-2021/" class="u-url" itemprop="url">EVOCATION participant’s (from CRS4, Italy) presentation at the EUROVIS 2021
+</a>
+          </h1>
           
 
 
         </header>
       
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content e-content" itemprop="text">
         
         <p>Members of EVOCATION team will present their scientific work at EUROVIS 2021, Europe’s largest visualization conference.</p>
 
@@ -227,8 +215,7 @@ EuroVis21 Program:<a href="https://www.eurovis.org/index.php/for-attendees/progr
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-06-16T00:00:00+02:00">June 16, 2021</time></p>
-
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2021-06-16T00:00:00+02:00">June 16, 2021</time></p>
 
       </footer>
 
@@ -254,7 +241,6 @@ EuroVis21 Program:<a href="https://www.eurovis.org/index.php/for-attendees/progr
   
   
 </div>
-
     </div>
 
     
