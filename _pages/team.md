@@ -27,8 +27,6 @@ permalink: /team/
           <br>
           Phone: +49 381 4987480
           <br>
-          Fax: +49 381 4987482
-          <br>
 				  Email: <a href="mailto:oliver.staadt@uni-rostock.de">oliver.staadt@uni-rostock.de</a>	
           <br>
           Webpage: <a href="https://vcg.informatik.uni-rostock.de">https://vcg.informatik.uni-rostock.de</a>	
@@ -49,7 +47,7 @@ permalink: /team/
 	   <th> <img src="/assets/images/gobbetti.jpg" alt="Enrico Gobbetti">
 		</th>
 		<th style="text-align: left"> <font size="4"> Enrico Gobbetti </font><br>									
-          <font size="2">Project leader / Co-PI</font>
+          <font size="2">Project leader / Co-Coordinator</font>
           <h6>														
           Affiliation: Center for Advanced Studies, Research and Development in Sardinia (CRS4)
           <br>
