@@ -7,6 +7,17 @@ permalink: /events/
 ## Upcoming Events 
 <!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
 
+### 3rd Summer school. September 23 to October 20, 2021 (held online due to COVID-19)
+
+The third summer school of the EVOCATION project is a network-wide-event in which leading experts in scientific and technological fields give lectures on a variety of topics. 
+
+The program is organized around two tracks. In the early track, the ESRs presnt their current status of research and results and on the later track, lectures are provided which are focused on technical/scientific topics offering a wide coverage of the visual computing field. 
+
+The summer school, originally planned to be hosted at Fraunhofer IGD (Darmstadt, Germany) premises, is held online due to COVID-19 regulations. 
+
+## Past Events 
+<!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
+
 ### 2nd Workshop. March 18-19, 2021 (will be held online due to COVID-19)
 The second workshop of the EVOCATION project is a network-wide-event in which the ESRs will present their updates which would include their current work updates, results from current research and their corresponding plans for the rest of the project timeline. Each talk will be followed by questions and feedbacks from the participants.
 
@@ -136,9 +147,6 @@ The second workshop of the EVOCATION project is a network-wide-event in which th
 </tbody>
 </table>
 
-
-## Past Events 
-<!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
 
 ### 2nd Summer school. October 1-2, 2020 (held online due to COVID-19)
 
