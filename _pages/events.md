@@ -13,7 +13,9 @@ The third summer school of the EVOCATION project is a network-wide-event in whic
 
 The program is organized around two tracks. In the early track, the ESRs presnt their current status of research and results and on the later track, lectures are provided which are focused on technical/scientific topics offering a wide coverage of the visual computing field. 
 
-The summer school, originally planned to be hosted at Fraunhofer IGD (Darmstadt, Germany) premises, is held online due to COVID-19 regulations. 
+The summer school, originally planned to be hosted at Fraunhofer IGD (Darmstadt, Germany) premises, is held online due to COVID-19 regulations. The detailed schedule of the summer school is presented in the following table.
+
+<embed src="/assets/documents/Schedule_3rdSummerSchool_Ver3.pdf" width="100%" height="100%" frameBorder="0" scrolling="auto" />
 
 ## Past Events 
 <!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
