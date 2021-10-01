@@ -15,7 +15,7 @@ The program is organized around two tracks. In the early track, the ESRs presnt 
 
 The summer school, originally planned to be hosted at Fraunhofer IGD (Darmstadt, Germany) premises, is held online due to COVID-19 regulations. The detailed schedule of the summer school is presented in the following table.
 
-<embed src="/assets/documents/Schedule_3rdSummerSchool_Ver3.pdf" width="100%" height="100%" frameBorder="0" scrolling="auto" />
+<embed src="/assets/documents/Schedule_EVOCATION_Virtual3rdSummerSchool_Ver3.pdf" width="100%" height="100%" frameBorder="0" scrolling="auto" />
 
 ## Past Events 
 <!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
