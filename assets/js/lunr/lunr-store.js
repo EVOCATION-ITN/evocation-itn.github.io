@@ -62,6 +62,6 @@ var store = [{
         "title": null,
         "excerpt":"The short paper “Guiding Lens-based Exploration using Annotation Graphs” was appreciated as “Honorable Mentions” in the Best Paper Awards category at Smart Tools and Applications in Graphics (STAG) Conference, 2021. The paper was authored by Moonisa Ahsan(ESR04), Fabio Marton, Ruggero Pintus and Enrico Gobbetti from CRS4(Center for Advanced Studies, Research...","categories": [],
         "tags": null,
-        "url": "/news/2021-10-29-Honorable%20Mentions_in_the_Best_Paper_Awards_category_%20at_Smart_Tools_and_%20Applications_in_Graphics_STAG_Conference_%202021/",
+        "url": "/news/2021-10-29-Honorable%20Mentions_in_the_Best_Paper_Awards_category_at_Smart_Tools_and_Applications_in_Graphics_STAG_Conference_%202021/",
         "teaser": null
       },]
