@@ -1,5 +1,5 @@
 ---
-title: "Honorable Mentions" in the Best Paper Awards category at Smart Tools and Applications in Graphics (STAG) Conference, 2021
+title: Honorable Mentions in the Best Paper Awards category at Smart Tools and Applications in Graphics (STAG) Conference, 2021
 ---
 
 The short paper "Guiding Lens-based Exploration using Annotation Graphs" was appreciated as "Honorable Mentions" in the Best Paper Awards category at Smart Tools and Applications in Graphics (STAG) Conference, 2021.
