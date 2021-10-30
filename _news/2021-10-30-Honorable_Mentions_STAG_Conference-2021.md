@@ -6,4 +6,6 @@ The short paper "Guiding Lens-based Exploration using Annotation Graphs" was app
 
 The paper was authored by Moonisa Ahsan(ESR04), Fabio Marton, Ruggero Pintus and Enrico Gobbetti from CRS4(Center for Advanced Studies, Research and Development in Sardinia, Italy).
 
+Please follow this <a href=" https://diglib.eg.org/handle/10.2312/stag20211477">link</a> to read the paper.
+
 We congratulate the authors and wish them good luck for their future scientific works.
