@@ -64,4 +64,10 @@ var store = [{
         "tags": [],
         "url": "/news/2021-10-30-Honorable_Mentions_STAG_Conference-2021/",
         "teaser": null
+      },{
+        "title": "Best Paper Award at GCH2021",
+        "excerpt":"Research paper titled as “Exploiting Neighboring Pixels Similarity for Effective SV-BRDF Reconstruction from Sparse MLICs” won the “Best Paper Award” in the 19th Eurographics Workshop on Graphics and Cultural Heritage, November 2021. The paper was authored by Ruggero Pintus, Moonisa Ahsan(ESR04), Fabio Marton, and Enrico Gobbetti from CRS4(Center for Advanced...","categories": [],
+        "tags": [],
+        "url": "/news/2021-11-11-Best_Paper_Award_GCH2021/",
+        "teaser": null
       },]
