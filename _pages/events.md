@@ -14,7 +14,7 @@ The third workshop of the EVOCATION project is a network-wide-event, hosted by U
 The 'Entrepreneurship training and coaching', organized by UZH, will be co-organized with the third workshop.
 
 <!--<embed src="/assets/documents/EVOCATION_3rd_Workshop.pdf" width="100%" height="100%" frameBorder="0" scrolling="auto"> </embed>-->
-<iframe src="/assets/documents/EVOCATION_3rd_Workshop.pdf" frameBorder="0" height="585px" width="100%" scrolling="auto"></iframe>
+<iframe src="/assets/documents/EVOCATION_3rd_Workshop.pdf" frameBorder="0" height="199px" width="100%" scrolling="auto"></iframe>
 
 ## Past Events 
 <!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
