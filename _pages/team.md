@@ -592,7 +592,7 @@ permalink: /team/
           <h6>														
           Affiliation: Consiglio Nazionale delle Ricerche (CNR)
           <br>
-          Phone: +306943860133
+          Phone:
           <br>
           Fax: 
           <br>
