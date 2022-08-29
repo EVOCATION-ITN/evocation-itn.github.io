@@ -178,3 +178,49 @@ sidebar:
 
 </tbody>		
 </table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:835px">
+	<tbody>	
+  <col width="390">
+  <col width="433">
+	<tr>
+	   <th> 
+            <iframe width="360" height="240"
+              src="https://www.youtube.com/embed/Jk2eAhFSyr0">
+            </iframe>
+		</th>
+		<th style="text-align: left"><font size="4">Scalable exploration of complex objects and environments beyond plain visual and replication.</font><br>			<font size="2" color="#686666">Pilot: Acquisition, reconstruction, and exploration of paintings from retable of San Bernardino.</font><br>			
+      <p> </p>
+        <p style="font-size:70%; text-align:justify;">This work demonstrates the acquisition, reconstruction, and scalable exploration of paintings from retable of San Bernardino.</p>	
+	
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:835px">
+	<tbody>	
+  <col width="390">
+  <col width="433">
+	<tr>
+	   <th> 
+            <iframe width="360" height="240"
+              src="https://www.youtube.com/embed/nIWfwwJaL3c">
+            </iframe>
+		</th>
+		<th style="text-align: left"><font size="4">Scalable exploration of complex objects and environments beyond plain visual and replication.</font><br>			<font size="2" color="#686666">Pilot: Acquisition, reconstruction, and exploration of Stele Di Nora.</font><br>			
+      <p> </p>
+        <p style="font-size:70%; text-align:justify;">This work demonstrates the acquisition, reconstruction, and scalable exploration of Stele Di Nora.</p>	
+	
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
