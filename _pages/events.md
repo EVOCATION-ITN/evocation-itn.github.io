@@ -7,17 +7,24 @@ permalink: /events/
 ## Upcoming Events 
 <!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
 
+### 4th Summer school. October 06 to October 14, 2022 (held online due to COVID-19)
+
+The fourth summer school of the EVOCATION project is a network-wide-event in which leading experts in scientific and technological fields give lectures on a variety of topics including visual computing, geometry processing, fabrication and so on. 
+
+The summer school, originally planned to be hosted at CNR (Pisa, Italy) premises, is held online due to COVID-19 regulations. The detailed schedule of the summer school is presented in the following table.
+
+<!--<embed src="/assets/documents/Schedule_EVOCATION_Virtual3rdSummerSchool_Ver3.pdf" width="100%" height="100%" frameBorder="0" scrolling="auto"> </embed>-->
+<iframe src="/assets/documents/Schedule_EVOCATION_Virtual4thSummerSchool.pdf" frameBorder="0" height="585px" width="100%" scrolling="auto"></iframe>
+
+## Past Events 
+<!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
+
 ### 3rd Workshop and 'Entrepreneurship training and coaching' course. March 21-24, 2022 (will be held online due to COVID-19)
 
 The third workshop of the EVOCATION project is a network-wide-event, hosted by UZH, in which the ESRs will present their updates which would include their current work updates, results from current research and their PhD progress. Each talk will be followed by questions and feedbacks from the participants. 
 
 The 'Entrepreneurship training and coaching', organized by UZH, will be co-organized with the third workshop.
 
-<!--<embed src="/assets/documents/EVOCATION_3rd_Workshop.pdf" width="100%" height="100%" frameBorder="0" scrolling="auto"> </embed>-->
-<iframe src="/assets/documents/EVOCATION_3rd_Workshop.pdf" frameBorder="0" height="199px" width="100%" scrolling="auto"></iframe>
-
-## Past Events 
-<!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
 
 ### 3rd Summer school. September 23 to October 20, 2021 (held online due to COVID-19)
 
