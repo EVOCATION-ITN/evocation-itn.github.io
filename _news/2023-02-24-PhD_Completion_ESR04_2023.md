@@ -2,20 +2,20 @@
 title: Successful completion of PhD by our ESR Moonisa Ahsan
 ---
 
-Recently, , on 24. February 2023, our ESR Moonisa Ahsan (hosted at CRS4) successfully completed her PhD. 
+Recently, on 24th February 2023, our ESR Moonisa Ahsan (hosted at CRS4) successfully completed her PhD. 
 
-Warmest congratulations to her for her success and we wish her all the best for her future endeavours! 
+Warmest congratulations to her, and we wish her all the best for her future endeavours! 
 
 Details of her PhD topic and defense event are as below:
 
-<b>Title:</b> Scalable Exploration of Complex Objects and Environments beyond Plain Visual Replication
-<b>Author:</b> Moonisa Ahasan (EVOCATION ESR04, hosted at CRS4)
-<b>Supervisor:</b> Enrico Gobbetti (CRS4)
-<b>Academic Supervisor:</b> Riccardo Scateni (University of Cagliari)
-<b>Title awarded:</b> PhD Degree in Mathematics and Computer Science
-<b>Degree-awarding institution:</b> University of Cagliari
-<b>Defense date:</b> 2023-02-24
+<b>Title:</b> Scalable Exploration of Complex Objects and Environments beyond Plain Visual Replication <br>
+<b>Author:</b> Moonisa Ahasan (EVOCATION ESR04, hosted at CRS4) <br>
+<b>Supervisor:</b> Enrico Gobbetti (CRS4) <br>
+<b>Academic Supervisor:</b> Riccardo Scateni (University of Cagliari) <br>
+<b>Title awarded:</b> PhD Degree in Mathematics and Computer Science <br>
+<b>Degree-awarding institution:</b> University of Cagliari <br>
+<b>Defense date:</b> 2023-02-24 <br>
 
 
-<img src="/assets/images/Moonisa_phd-01.jpg" alt="Moonisa PhD event 2023: Thesis title">
+<img src="/assets/images/Moonisa_phd-01.jpg" alt="Moonisa PhD event 2023: Thesis title"> <br>
 <img src="/assets/images/Moonisa_phd-02.jpg" alt="Moonisa PhD event 2023: EVOCATION_Partners">
