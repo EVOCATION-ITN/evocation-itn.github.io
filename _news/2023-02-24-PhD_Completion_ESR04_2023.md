@@ -9,7 +9,7 @@ Warmest congratulations to her, and we wish her all the best for her future ende
 Details of her PhD topic and defense event are as below:
 
 <b>Title:</b> Scalable Exploration of Complex Objects and Environments beyond Plain Visual Replication <br>
-<b>Author:</b> Moonisa Ahasan (EVOCATION ESR04, hosted at CRS4) <br>
+<b>Author:</b> Moonisa Ahsan (EVOCATION ESR04, hosted at CRS4) <br>
 <b>Supervisor:</b> Enrico Gobbetti (CRS4) <br>
 <b>Academic Supervisor:</b> Riccardo Scateni (University of Cagliari) <br>
 <b>Title awarded:</b> PhD Degree in Mathematics and Computer Science <br>
