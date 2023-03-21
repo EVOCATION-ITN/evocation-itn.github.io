@@ -10,109 +10,109 @@ permalink: /events/
 ### 4th Workshop and Management meeting. March 2, 2023 (will be held online by CRS4)
 The fourth workshop of the EVOCATION project is a network-wide-event in which the ESRs will present their updates which would include their current work updates, results from current research and their corresponding plans for the rest of the project timeline. Each talk will be followed by questions and feedbacks from the participants. The workshop also includes a Management meeting where the PIs and the ESR representative discussed the present status (regarding deliverables, workplan, milestones, etc.) of the project.
 
-### Thursday, 02 March, 2023
+<b>Thursday, 02 March, 2023</b>
 
 <table style="width: 100%;" border="2">
 <tbody>
 <tr style="background-color: #eeeeee;">
 <td style="width: 20%;"><strong>Time</strong></td>
-<td style="width: 80%;"><strong>Program</strong></td>
+<td style="width: 100%;"><strong>Program</strong></td>
 </tr>
 
 <tr>
 <td style="width: 20%;">09:00 - 10:00</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>Management meeting</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">10:00 - 10:15</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>Opening / Oliver Staadt, UROS (Germany)</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">10:15 - 10:45</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>CRS4 status (ESR03, ESR04)</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">10:45 - 11:15</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>UROS status (ESR01, ESR02)</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">11:15 - 11:30</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>Virtual Coffee Break</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">11:30 - 12:00</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>UZH status (ESR05, ESR06)</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">12:00 - 12:30</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>CNR status (ESR07, ESR08)</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">12:30 - 14:00</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>Virtual Lunch Break</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">14:30 - 14:30</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>TUW status (ESR09, ESR10)</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">14:30 - 15:00</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>FHG-IGD status (ESR11, ESR12)</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">15:00 - 15:15</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>HOLO status (ESR13)</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">15:15 - 15:30</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>GEXCEL status (ESR14)</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">15:30 - 15:45</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>Wrap-up and closing (Oliver Staadt and Enrico Gobbetti)</p>
 </td>
 </tr>
 
 <tr>
 <td style="width: 20%;">15:45 - 16:45</td>
-<td style="width: 80%;">
+<td style="width: 100%;">
 <p>Management meeting (if still open questions)</p>
 </td>
 </tr>
