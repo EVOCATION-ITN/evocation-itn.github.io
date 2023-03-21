@@ -15,13 +15,13 @@ The fourth workshop of the EVOCATION project is a network-wide-event in which th
 <table style="width: 100%;" border="2">
 <tbody>
 <tr style="background-color: #eeeeee;">
-<td style="width: 10%;"><strong>Time</strong></td>
-<td style="width: 100%;"><strong>Program</strong></td>
+<td style="width: 30%;"><strong>Time</strong></td>
+<td style="width: 70%;"><strong>Program</strong></td>
 </tr>
 
 <tr>
-<td style="width: 10%;">09:00 - 10:00</td>
-<td style="width: 100%;">
+<td style="width: 30%;">09:00 - 10:00</td>
+<td style="width: 70%;">
 <p>Management meeting</p>
 </td>
 </tr>
@@ -118,9 +118,6 @@ The fourth workshop of the EVOCATION project is a network-wide-event in which th
 </tr>
 </tbody>
 </table>
-
-<!--<embed src="/assets/documents/Schedule_EVOCATION_Virtual3rdSummerSchool_Ver3.pdf" width="100%" height="100%" frameBorder="0" scrolling="auto"> </embed>-->
-<iframe src="/assets/documents/Schedule_EVOCATION_Virtual4thSummerSchool.pdf" frameBorder="0" height="465px" width="100%" scrolling="auto"></iframe>
 
 ## Past Events 
 <!-- &nbsp; &nbsp; &nbsp; ESRs &nbsp; &nbsp; &nbsp; Management and Administrative -->
