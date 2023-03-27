@@ -2,7 +2,7 @@
 title: Successful completion of PhD by our ESR Moonisa Ahsan
 ---
 
-Recently, on 24th February 2023, our ESR Moonisa Ahsan (hosted at CRS4) successfully completed her PhD. 
+Recently, on 24th February 2023, our ESR Moonisa Ahsan (hosted at CRS4, Italy) successfully completed her PhD. 
 
 Warmest congratulations to her, and we wish her all the best for her future endeavours! 
 
