@@ -72,7 +72,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Successful completion of PhD by our ESR Moonisa Ahsan",
-        "excerpt":"Recently, on 24th February 2023, our ESR Moonisa Ahsan (hosted at CRS4) successfully completed her PhD. Warmest congratulations to her, and we wish her all the best for her future endeavours! Details of her PhD topic and defense event are as below: Title: Scalable Exploration of Complex Objects and Environments...","categories": [],
+        "excerpt":"Recently, on 24th February 2023, our ESR Moonisa Ahsan (hosted at CRS4, Italy) successfully completed her PhD. Warmest congratulations to her, and we wish her all the best for her future endeavours! Details of her PhD topic and defense event are as below: Title: Scalable Exploration of Complex Objects and...","categories": [],
         "tags": [],
         "url": "/news/2023-02-24-PhD_Completion_ESR04_2023/",
         "teaser": null
