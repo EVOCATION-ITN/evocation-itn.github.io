@@ -18,10 +18,10 @@ Details of her PhD topic and defense event are as below:
 <b>Link to the thesis:</b> <a href=" https://hdl.handle.net/11584/355681">https://hdl.handle.net/11584/355681</a> <br>
 
 
-<img src="/assets/images/Moonisa_phd-01.jpg" alt="Moonisa PhD event 2023"> <br>
-<img src="/assets/images/Moonisa_phd-02.jpg" alt="Moonisa PhD event 2023"><br>
-<img src="/assets/images/Moonisa_phd-03.jpg" alt="Moonisa PhD event 2023"> <br>
-<img src="/assets/images/Moonisa_phd-04.jpg" alt="Moonisa PhD event 2023"> <br>
-<img src="/assets/images/Moonisa_phd-05.jpg" alt="Moonisa PhD event 2023"> <br>
-<img src="/assets/images/Moonisa_phd-06.jpg" alt="Moonisa PhD event 2023"> <br>
-<img src="/assets/images/Moonisa_phd-07.jpg" alt="Moonisa PhD event 2023">
+<img src="/assets/images/Moonisa_phd-01.jpg" alt="Moonisa PhD event 2023-1"> <br>
+<img src="/assets/images/Moonisa_phd-02.jpg" alt="Moonisa PhD event 2023-2"><br>
+<img src="/assets/images/Moonisa_phd-03.jpg" alt="Moonisa PhD event 2023-3"> <br>
+<img src="/assets/images/Moonisa_phd-04.jpg" alt="Moonisa PhD event 2023-4"> <br>
+<img src="/assets/images/Moonisa_phd-05.jpg" alt="Moonisa PhD event 2023-5"> <br>
+<img src="/assets/images/Moonisa_phd-06.jpg" alt="Moonisa PhD event 2023-6"> <br>
+<img src="/assets/images/Moonisa_phd-07.jpg" alt="Moonisa PhD event 2023-7">
