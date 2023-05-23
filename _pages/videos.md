@@ -235,9 +235,9 @@ sidebar:
               src="https://www.youtube.com/embed/fpZAmcLInNo">
             </iframe>
 		</th>
-		<th style="text-align: left"><font size="4">3D Light Field Telepresence</font><br>			<font size="2" color="#686666">Pilot: Demonstration of a real-time light-field 3d telepresence system. The system is comprised of the capture and display subsystem with a general purpose network in between them.</font><br>			
+		<th style="text-align: left"><font size="4">3D Light Field Telepresence</font><br>			<font size="2" color="#686666">Pilot: Demonstration of a real-time light-field 3d telepresence system.</font><br>			
       <p> </p>
-        <p style="font-size:70%; text-align:justify;">This work demonstrates the acquisition, reconstruction, and scalable exploration of Stele Di Nora.</p>	
+        <p style="font-size:70%; text-align:justify;">This work demonstrates a real-time light-field 3d telepresence system. The system is comprised of the capture and display subsystem with a general purpose network in between them.</p>	
 	
         </th>
         <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
