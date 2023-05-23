@@ -224,3 +224,26 @@ sidebar:
 
 </tbody>		
 </table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:835px">
+	<tbody>	
+  <col width="390">
+  <col width="433">
+	<tr>
+	   <th> 
+            <iframe width="360" height="240"
+              src="https://www.youtube.com/embed/fpZAmcLInNo">
+            </iframe>
+		</th>
+		<th style="text-align: left"><font size="4">3D Light Field Telepresence</font><br>			<font size="2" color="#686666">Pilot: Demonstration of a real-time light-field 3d telepresence system. The system is comprised of the capture and display subsystem with a general purpose network in between them.</font><br>			
+      <p> </p>
+        <p style="font-size:70%; text-align:justify;">This work demonstrates the acquisition, reconstruction, and scalable exploration of Stele Di Nora.</p>	
+	
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
+
+</tbody>		
+</table>
