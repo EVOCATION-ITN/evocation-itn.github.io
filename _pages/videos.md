@@ -247,3 +247,23 @@ sidebar:
 
 </tbody>		
 </table>
+
+<table style="background-color: #F1F1F1; filter: alpha(opacity=40); opacity: 0.95;border-bottom: 2px solid #AEAEAE; border-right: 2px solid #AEAEAE;width:835px">
+	<tbody>	
+  <col width="390">
+  <col width="433">
+	<tr>
+	   <th> 
+            <iframe width="360" height="240"
+              src="https://www.youtube.com/embed/DRwN8tv8uy8">
+            </iframe>
+		</th>
+		<th style="text-align: left"><font size="4">Immersive Tele-Colloboration</font><br>			<font size="2" color="#686666">Pilot3: Immersive Tele-Collaboration.</font><br>			
+      <p> </p>
+        <p style="font-size:70%; text-align:justify;">This video show the tele-collaboration techniques and methods that were developed in EVOCATION. It includes a volumetric capture system, a real-time light-field 3d telepresence system, and a system for scalable foveated rendering. </p>	
+	
+        </th>
+        <!--<th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+        <th> &nbsp;&nbsp; &nbsp;</th><th> <p style="margin-left: 5.0em;padding: 0.5em 0em 0em 0;"> </p> </th>
+        -->
+    </tr>
