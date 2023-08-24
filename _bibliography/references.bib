@@ -1,732 +1,737 @@
-@article{Alderighi:2019,
-author = {Alderighi, Thomas and Malomo, Luigi and Giorgi, Daniela and Bickel, Bernd and Cignoni, Paolo and Pietroni, Nico},
-title = {Volume-Aware Design of Composite Molds},
-year = {2019},
-issue_date = {July 2019},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-volume = {38},
-number = {4},
-issn = {0730-0301},
-url = {https://openportal.isti.cnr.it/doc?id=people______::036b4ebf5bb0d906222ec4024e0535c3},
-doi = {10.1145/3306346.3322981},
-abstract = {We propose a novel technique for the automatic design of molds to cast highly complex shapes. The technique generates composite, two-piece molds. Each mold piece is made up of a hard plastic shell and a flexible silicone part. Thanks to the thin, soft, and smartly shaped silicone part, which is kept in place by a hard plastic shell, we can cast objects of unprecedented complexity. An innovative algorithm based on a volumetric analysis defines the layout of the internal cuts in the silicone mold part. Our approach can robustly handle thin protruding features and intertwined topologies that have caused previous methods to fail. We compare our results with state of the art techniques, and we demonstrate the casting of shapes with extremely complex geometry.},
-journal = {ACM Trans. Graph.},
-month = jul,
-articleno = {110},
-numpages = {12},
-keywords = {mold design, casting, fabrication}
+@inproceedings{10.1007/978-3-030-58598-3_26,
+  title = {{{AtlantaNet}}: Inferring the {{3D}} Indoor Layout from a Single 360 Degree Image beyond the Manhattan World Assumption},
+  booktitle = {Computer Vision – {{ECCV}} 2020},
+  author = {Pintore, Giovanni and Agus, Marco and Gobbetti, Enrico},
+  editor = {Vedaldi, Andrea and Bischof, Horst and Brox, Thomas and Frahm, Jan-Michael},
+  date = {2020},
+  pages = {432--448},
+  publisher = {{Springer International Publishing}},
+  location = {{Cham}},
+  doi = {10.1007/978-3-030-58598-3_26},
+  url = {https://dspace.crs4.it/jspui/handle/1138/14},
+  abstract = {We introduce a novel end-to-end approach to predict a 3D room layout from a single panoramic image. Compared to recent state-of-the-art works, our method is not limited to Manhattan World environments, and can reconstruct rooms bounded by vertical walls that do not form right angles or are curved – i.e., Atlanta World models. In our approach, we project the original gravity-aligned panoramic image on two horizontal planes, one above and one below the camera. This representation encodes all the information needed to recover the Atlanta World 3D bounding surfaces of the room in the form of a 2D room footprint on the floor plan and a room height. To predict the 3D layout, we propose an encoder-decoder neural network architecture, leveraging Recurrent Neural Networks (RNNs) to capture long-range geometric patterns, and exploiting a customized training strategy based on domain-specific knowledge. The experimental results demonstrate that our method outperforms state-of-the-art solutions in prediction accuracy, in particular in cases of complex wall layouts or curved wall footprints.},
+  isbn = {978-3-030-58598-3}
 }
 
-@article{Celarek:2019,
-author = {Celarek, A. and Jakob, W. and Wimmer, M. and Lehtinen, J.},
-title = {Quantifying the Error of Light Transport Algorithms},
-journal = {Computer Graphics Forum},
-year = {2019},
-volume = {38},
-number = {4},
-pages = {111-121},
-doi = {10.1111/cgf.13775},
-url = {https://repositum.tuwien.at/handle/20.500.12708/15941}
-}
-
-@article{Pintore:2020:SI3,
-    author = {Giovanni Pintore and Claudio Mura and Fabio Ganovelli and Lizeth Fuentes-Perez and Renato Pajarola and Enrico Gobbetti},
-    title = {State-of-the-art in Automatic 3D Reconstruction of Structured Indoor Environments},
-    journal = {Computer Graphics Forum},
-    volume = {39},
-    number = {2},
-    year = {2020},
-    abstract = { Creating high-level structured 3D models of real-world indoor scenes from captured data is a fundamental task which has important applications in many fields. Given the complexity and variability of interior environments and the need to cope with noisy and partial captured data, many open research problems remain, despite the substantial progress made in the past decade. In this survey, we provide an up-to-date integrative view of the field, bridging complementary views coming from computer graphics and computer vision. After providing a characterization of input sources, we define the structure of output models and the priors exploited to bridge the gap between imperfect sources and desired output. We then identify and discuss the main components of a structured reconstruction pipeline, and review how they are combined in scalable solutions working at the building level. We finally point out relevant research issues and analyze research trends. },
-    note = {To appear},
-    doi = {https://doi.org/10.1111/cgf.14021},
-    url = {https://dspace.crs4.it/jspui/handle/1138/12},
-}
-@inproceedings{PMGFPG:20b,
-	Author = {Pintore, Giovanni and Mura, Claudio and Ganovelli, Fabio and Fuentes-Perez, Lizeth and Pajarola, Renato and Gobbetti, Enrico},
-	Booktitle = {ACM SIGGRAPH Tutorials},
-	Keywords = {graphics, architecture, 3D reconstruction, point cloud, scanning, indoor scene reconstruction, segmentation, floor plans},
-	Title = {Automatic {3D} Reconstruction of Structured Indoor Environments},
-  Url = {https://dspace.crs4.it/jspui/handle/1138/13},
-  Doi = {https://doi.org/10.1145/3388769.3407469},
-	Year = {2020}}
-
-@article{Tausch:2020,
-            Author = {Tausch, Reimar and Domajnko, Matevz and Ritz, Martin and Knuth, Martin and Santos, Pedro and Fellner, Dieter W.},
-            Url = {http://publica.fraunhofer.de/documents/N-578457.html},
-            Journal = {IPSI Transactions on Internet Research},
-            Keywords = {{3D} data acquisition, {3D} scanning, path planning, next-best view planning, automation},
-            Month = {January},
-            Number = {1},
-            Pages = {45--53},
-            Title = {Towards 3D Digitization in the GLAM (Galleries, Libraries, Archives, and Museums) Sector: Lessons Learned and Future Outlook},
-            Volume = {16},
-            Year = {2020}}
-
-@InProceedings{10.1007/978-3-030-58598-3_26,
-author="Pintore, Giovanni
-and Agus, Marco
-and Gobbetti, Enrico",
-editor="Vedaldi, Andrea
-and Bischof, Horst
-and Brox, Thomas
-and Frahm, Jan-Michael",
-title="AtlantaNet: Inferring the 3D Indoor Layout from a Single 360 degree Image Beyond the Manhattan World Assumption",
-booktitle="Computer Vision -- ECCV 2020",
-year="2020",
-publisher="Springer International Publishing",
-doi = "10.1007/978-3-030-58598-3_26",
-url = "https://dspace.crs4.it/jspui/handle/1138/14",
-address="Cham",
-pages="432--448",
-abstract="We introduce a novel end-to-end approach to predict a 3D room layout from a single panoramic image. Compared to recent state-of-the-art works, our method is not limited to Manhattan World environments, and can reconstruct rooms bounded by vertical walls that do not form right angles or are curved -- i.e., Atlanta World models. In our approach, we project the original gravity-aligned panoramic image on two horizontal planes, one above and one below the camera. This representation encodes all the information needed to recover the Atlanta World 3D bounding surfaces of the room in the form of a 2D room footprint on the floor plan and a room height. To predict the 3D layout, we propose an encoder-decoder neural network architecture, leveraging Recurrent Neural Networks (RNNs) to capture long-range geometric patterns, and exploiting a customized training strategy based on domain-specific knowledge. The experimental results demonstrate that our method outperforms state-of-the-art solutions in prediction accuracy, in particular in cases of complex wall layouts or curved wall footprints.",
-isbn="978-3-030-58598-3"
-}
-
-@article{Filoscia:2020,
-author = {Filoscia, I. and Alderighi, T. and Giorgi, D. and Malomo, L. and Callieri, M. and Cignoni, P.},
-title = {Optimizing Object Decomposition to Reduce Visual Artifacts in 3D Printing},
-journal = {Computer Graphics Forum},
-volume = {39},
-number = {2},
-pages = {423-434},
-doi = {https://doi.org/10.1111/cgf.13941},
-url = {https://openportal.isti.cnr.it/doc?id=people______::9d51621aaa57ea79baa0ac0466002bf0},
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13941},
-abstract = {Abstract We propose a method for the automatic segmentation of 3D objects into parts which can be individually 3D printed and then reassembled by preserving the visual quality of the final object. Our technique focuses on minimizing the surface affected by supports, decomposing the object into multiple parts whose printing orientation is automatically chosen. The segmentation reduces the visual impact on the fabricated model producing non-planar cuts that adapt to the object shape. This is performed by solving an optimization problem that balances the effects of supports and cuts, while trying to place both in occluded regions of the object surface. To assess the practical impact of the solution, we show a number of segmented, 3D printed and reassembled objects.},
-year = {2020}
-}
-
-@article{Laccone:2020,
-	Abstract = {Bending-active structures are able to efficiently produce complex curved shapes from flat panels. The desired deformation of the panels derives from the proper selection of their elastic properties. Optimized panels, called FlexMaps, are designed such that, once they are bent and assembled, the resulting static equilibrium configuration matches a desired input 3D shape. The FlexMaps elastic properties are controlled by locally varying spiraling geometric mesostructures, which are optimized in size and shape to match specific bending requests, namely the global curvature of the target shape. The design pipeline starts from a quad mesh representing the input 3D shape, which defines the edge size and the total amount of spirals: every quad will embed one spiral. Then, an optimization algorithm tunes the geometry of the spirals by using a simplified pre-computed rod model. This rod model is derived from a non-linear regression algorithm which approximates the non-linear behavior of solid FEM spiral models subject to hundreds of load combinations. This innovative pipeline has been applied to the project of a lightweight plywood pavilion named FlexMaps Pavilion, which is a single-layer piecewise twisted arch that fits a bounding box of 3.90x3.96x3.25 meters. This case study serves to test the applicability of this methodology at the architectural scale. The structure is validated via FE analyses and the fabrication of the full scale prototype.},
-	Author = {Laccone, Francesco and Malomo, Luigi and P{\'e}rez, Jes{\'u}s and Pietroni, Nico and Ponchio, Federico and Bickel, Bernd and Cignoni, Paolo},
-	Da = {2020/08/12},
-	Date-Added = {2020-11-11 9:21:41 PM +0100},
-	Date-Modified = {2020-11-11 9:21:41 PM +0100},
-	Doi = {10.1007/s42452-020-03305-w},
-	Id = {Laccone2020},
-	Isbn = {2523-3971},
-	Journal = {SN Applied Sciences},
-	Number = {9},
-	Pages = {1505},
-	Title = {A bending-active twisted-arch plywood structure: computational design and fabrication of the FlexMaps Pavilion},
-	Ty = {JOUR},
-	Url = {https://openportal.isti.cnr.it/doc?id=people______::67e43779f306d8fc3f362f80a56265a1},
-	Volume = {2},
-	Year = {2020},
-	Bdsk-Url-1 = {https://doi.org/10.1007/s42452-020-03305-w}}
-
-@inproceedings{FRMMP:20,
-	author = {Fuentes Perez, Lizeth J. and Romero Calla, Luciano A. and Montenegro, Anselmo A. and Mura, Claudio and Pajarola, Renato},
-	booktitle = {Proceedings of Pacific Graphics Short Papers},
-	doi = {https://doi.org/10.2312/pg.20201226},
-  url = {https://www.zora.uzh.ch/id/eprint/193666/},
-	keywords = {graphics, geometry processing},
-	pages = {25--30},
-	title = {A Robust Feature-aware Sparse Mesh Representation},
-	year = {2020}}  
-
-@article{chen29deep,
-  title={Deep learning models for optically characterizing 3D printers},
-  author={Chen, Danwu and Urban, Philipp},
-  journal={Optics Express},
-  volume={29},
-  month = {jan},
-  number={2},
-  pages={615--631},
-  url = {http://publica.fraunhofer.de/documents/N-621396.html},
-  doi = {10.1364/OE.410796},
-  publisher={Optical Society of America},
-  year = {2021}
-}
-
-@article{Ahsan:2021,
-author = {Jaspe-Villanueva, Alberto and Ahsan, Moonisa and Pintus, Ruggero and Giachetti, Andrea and Marton, Fabio and Gobbetti, Enrico},
-title = {Web-Based Exploration of Annotated Multi-Layered Relightable Image Models},
-month = {may},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-volume = {14},
-number = {2},
-issn = {1556-4673},
-url = {https://doi.org/10.1145/3430846},
-doi = {10.1145/3430846},
-journal = {Journal on Computing and Cultural Heritage},
-articleno = {24},
-numpages = {29},
-year = {2021}
-}
-
-@inproceedings{Mary:2021_1,
-author = {Mary Guindy and Attila Barsi and Peter A. Kara and Tibor Balogh and Aniko Simon},
-title = {{Interaction methods for light field displays by means of a theater model environment}},
-volume = {11774},
-booktitle = {Holography: Advances and Modern Trends VII},
-editor = {Antonio Fimia and Miroslav Hrabovský and John T. Sheridan},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {109 -- 118},
-keywords = {Light field, User interface, 3D rendering, Light field visualization},
-year = {2021},
-month = {apr},
-doi = {10.1117/12.2589126},
-URL = {https://doi.org/10.1117/12.2589126}
-}
-
-@inproceedings{Mary:2021_2,
-author = {Mary Guindy and Attila Barsi and Peter A. Kara and Tibor Balogh and Aniko Simon},
-title = {{Realistic physical camera motion for light field visualization}},
-volume = {11774},
-booktitle = {Holography: Advances and Modern Trends VII},
-editor = {Antonio Fimia and Miroslav Hrabovský and John T. Sheridan},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {70 -- 77},
-keywords = {Light field, Virtual cameras,  Physical camera simulation, Camera motion, Cinematography},
-year = {2021},
-month = {apr},
-doi = {10.1117/12.2589128},
-URL = {https://doi.org/10.1117/12.2589128}
-}
-
-@inproceedings{Mary:2021_3,
-author = {Mary Guindy and Attila Barsi and Peter A. Kara and Tibor Balogh and Aniko Simon},
-title = {{On the simulation of hand-held cameras in light-field rendering}},
-volume = {11774},
-booktitle = {Holography: Advances and Modern Trends VII},
-editor = {Antonio Fimia and Miroslav Hrabovský and John T. Sheridan},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {119 -- 124},
-keywords = {Light field, Hand-held cameras, Camera motion, Camera motion path, 3D rendering},
-year = {2021},
-month = {apr},
-doi = {10.1117/12.2589129},
-URL = {https://doi.org/10.1117/12.2589129}
-}
-
-@inproceedings{Cardoso:2021_4,
-  author={Joao Afonso Cardoso and Nuno Goncalves and Michael Wimmer},
-  booktitle={2020 25th International Conference on Pattern Recognition (ICPR)}, 
-  title={Cost Volume Refinement for Depth Prediction}, 
-  year={2021},
-  month={jan},
-  pages={354 -- 361},
-  doi={10.1109/ICPR48806.2021.9412730},
-  URL={https://doi.org/10.1109/ICPR48806.2021.9412730}}
-
-@article {Bettio:2021_6,
-journal = {Computer Graphics Forum},
-title = {{A Novel Approach for Exploring Annotated Data With Interactive Lenses}},
-author = {Bettio, Fabio and Ahsan, Moonisa and Marton, Fabio and Gobbetti, Enrico},
-year = {2021},
-publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
-ISSN = {1467-8659},
-url = { https://dspace.crs4.it/jspui/handle/1138/31},
-DOI = {10.1111/cgf.14315}
-}
-
-@inproceedings{Balogh:2021_7,
-author = {Tibor Balogh and Attila Barsi and Peter A. Kara and Mary Guindy and Aniko Simon and Zsolt Nagy},
-title = {{3D light field LED wall}},
-volume = {11788},
-booktitle = {Digital Optical Technologies 2021},
-editor = {Bernard C. Kress and Christophe Peroz},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {180 -- 190},
-keywords = {3D light field, novel system design, LED, lens array, modular display},
-year = {2021},
-doi = {https://doi.org/10.1117/12.2594276},
-URL = {https://doi.org/10.1117/12.2594276}
-}
-@inproceedings{Peter:2021_8,
-author = {Peter  A. Kara and Attila Barsi and Roopak R. Tamboli and Mary Guindy and Maria G. Martini and Tibor Balogh and Aniko Simon},
-title = {{Recommendations on the viewing distance of light field displays}},
-volume = {11788},
-booktitle = {Digital Optical Technologies 2021},
-editor = {Bernard C. Kress and Christophe Peroz},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {166 -- 179},
-keywords = {light field, 3D perception, viewing conditions, key performance indicators, user-centric design},
-year = {2021},
-doi = {https://doi.org/10.1117/12.2594266},
-URL = {https://doi.org/10.1117/12.2594266}
-}
-
-@InProceedings{Pintore:2021_CVPR,
-    author    = {Pintore, Giovanni and Agus, Marco and Almansa, Eva and Schneider, Jens and Gobbetti, Enrico},
-    title     = {SliceNet: Deep Dense Depth Estimation From a Single Indoor Panorama Using a Slice-Based Representation},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2021},
-    pages     = {11536-11545},
-    URL = {https://dspace.crs4.it/jspui/handle/1138/32}
-}
-@Article{Pintore:2021:GAR, 
-    author = {Giovanni Pintore and Eva Almansa and Marco Agus and Enrico Gobbetti},
-    title = {{Deep3DLayout}: {3D} Reconstruction of an Indoor Layout from a Spherical Panoramic Image},
-    journal = {ACM Transactions on Graphics},
-    volume = {40},
-    number = {6},
-    pages = {250:1--250:12},
-    month = {December},
-    year = {2021},
-    doi = {10.1145/3478513.3480480},
-    note = {Proc. SIGGRAPH Asia 2021. To appear},
-    url = {http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id='Pintore:2021:GAR'},
-}
-
-@inproceedings {10.2312:stag.20211477,
-booktitle = {Smart Tools and Apps for Graphics - Eurographics Italian Chapter Conference},
-editor = {Frosini, Patrizio and Giorgi, Daniela and Melzi, Simone and Rodola, Emanuele},
-title = {{Guiding Lens-based Exploration using Annotation Graphs}},
-author = {Ahsan, Moonisa and Marton, Fabio and Pintus, Ruggero and Gobbetti, Enrico},
-year = {2021},
-publisher = {The Eurographics Association},
-ISSN = {2617-4855},
-ISBN = {978-3-03868-165-6},
-DOI = {10.2312/stag.20211477},
-url = {https://dspace.crs4.it/jspui/handle/1138/35 },
-}
-
-@article{MOHANTO2021,
-title = {An integrative view of foveated rendering},
-journal = {Computers & Graphics},
-year = {2021},
-issn = {0097-8493},
-doi = {https://doi.org/10.1016/j.cag.2021.10.010},
-url = {https://www.sciencedirect.com/science/article/pii/S0097849321002211},
-author = {Bipul Mohanto and ABM Tariqul Islam and Enrico Gobbetti and Oliver Staadt},
-keywords = {Foveated rendering, Gaze-contingent rendering, Adaptive resolution, Geometric simplification, Shading simplification, Chromatic degradation, Spatio-temporal deterioration},
-abstract = {Foveated rendering adapts the image synthesis process to the user’s gaze. By exploiting the human visual system’s limitations, in particular in terms of reduced acuity in peripheral vision, it strives to deliver high-quality visual experiences at very reduced computational, storage, and transmission costs. Despite the very substantial progress made in the past decades, the solution landscape is still fragmented, and several research problems remain open. In this work, we present an up-to-date integrative view of the domain from the point of view of the rendering methods employed, discussing general characteristics, commonalities, differences, advantages, and limitations. We cover, in particular, techniques based on adaptive resolution, geometric simplification, shading simplification, chromatic degradation, as well spatio-temporal deterioration. Next, we review the main areas where foveated rendering is already in use today. We finally point out relevant research issues and analyze research trends.}
-}
-
-@inproceedings {10.2312:gch.20211412,
-booktitle = {Eurographics Workshop on Graphics and Cultural Heritage},
-editor = {Hulusic, Vedad and Chalmers, Alan},
-title = {{Exploiting Neighboring Pixels Similarity for Effective SV-BRDF Reconstruction from Sparse MLICs}},
-author = {Pintus, Ruggero and Ahsan, Moonisa and Marton, Fabio and Gobbetti, Enrico},
-year = {2021},
-publisher = {The Eurographics Association},
-ISSN = {2312-6124},
-ISBN = {978-3-03868-141-0},
-DOI = {10.2312/gch.20211412},
-url = {https://dspace.crs4.it/jspui/handle/1138/36 },
-}
-@INPROCEEDINGS{Guindy:2021_7,
-  author={Kara, Peter A. and Guindy, Mary and Balogh, Tibor and Simon, Aniko},
-  booktitle={2021 International Conference on 3D Immersion (IC3D)}, 
-  title={The Perceptually-Supported and the Subjectively-Preferred Viewing Distance of Projection-Based Light Field Displays}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-8},
-  doi={10.1109/IC3D53758.2021.9687222},
-  url = {https://eprints.kingston.ac.uk/id/eprint/50847/},
-  }
-  @INPROCEEDINGS{9687182,
-  author={Guindy, Mary and Kiran, Adhikarla V. and Kara, Peter A. and Balogh, Tibor and Simon, Aniko},
-  booktitle={2021 International Conference on 3D Immersion (IC3D)}, 
-  title={Performance Evaluation of HDR Image Reconstruction Techniques on Light Field Images}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-7},
-  doi={10.1109/IC3D53758.2021.9687182},
-  url = {https://eprints.kingston.ac.uk/id/eprint/50849/},
-  }
-@INPROCEEDINGS{9687271,
-  author={Appina, Balasubramanyam and Sharma, Mansi and Kumar, Santosh and Kara, Peter A. and Simon, Aniko and Guindy, Mary},
-  booktitle={2021 International Conference on 3D Immersion (IC3D)}, 
-  title={Latent Factor Modeling of Perceived Quality for Stereoscopic 3D Video Recommendation}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-8},
-  doi={10.1109/IC3D53758.2021.9687271},
-url = {https://eprints.kingston.ac.uk/id/eprint/50848/},
-  }
-@inproceedings {Siddique:stag.20211489,
-booktitle = {Smart Tools and Apps for Graphics - Eurographics Italian Chapter Conference},
-editor = {Frosini, Patrizio and Giorgi, Daniela and Melzi, Simone and Rodola, Emanuele},
-title = {{Evaluating Deep Learning Methods for Low Resolution Point Cloud Registration in Outdoor Scenarios}},
-author = {Siddique, Arslan and Corsini, Massimiliano and Ganovelli, Fabio and Cignoni, Paolo},
-year = {2021},
-publisher = {The Eurographics Association},
-ISSN = {2617-4855},
-ISBN = {978-3-03868-165-6},
-DOI = {10.2312/stag.20211489},
-url = {https://openportal.isti.cnr.it/doc?id=people______::ef8db891a81ad9a13f030f3e4dc2e14c},
-}
-@dataset{armando_arturo_sanchez_alcazar_2022_6367381,
-  author       = {Armando Arturo Sanchez Alcazar and
-                  Giovanni Pintore and
-                  Matteo Sgrenzaroli},
-  title        = {Indoor3Dmapping dataset},
-  month        = mar,
-  year         = 2022,
-  publisher    = {Zenodo},
-  version      = {0.1.0},
-  doi          = {10.5281/zenodo.6367381},
-  url          = {https://doi.org/10.5281/zenodo.6367381}
-}
-@inproceedings{celarek-2022-gmcn,
-  title =      "Gaussian Mixture Convolution Networks",
-  author =     "Adam Celarek and Pedro Hermosilla and Bernhard Kerbl and
-               Timo Ropinski and Michael Wimmer",
-  year =       "2022",
-  month =      apr,
-  booktitle =  "The Tenth International Conference on Learning
-               Representations (ICLR 2022)",
-  event =      "ICLR | 2022",
-  publisher =  "OpenReview.org",
-  pages =      "1--23",
-  DOI = {https://doi.org/10.48550/arXiv.2202.09153},
-  URL =        "https://www.cg.tuwien.ac.at/research/publications/2022/celarek-2022-gmcn/",
-}
-@article{Chen:22,
-author = {Danwu Chen and Philipp Urban},
-journal = {Opt. Express},
-keywords = {Image metrics; Neural networks; Optical properties; Radiative transfer; Stochastic processes; Transparency},
-number = {11},
-pages = {18119--18133},
-publisher = {OSA},
-title = {Inducing robustness and plausibility in deep learning optical 3D printer models},
-volume = {30},
-month = {May},
-year = {2022},
-url = {http://opg.optica.org/oe/abstract.cfm?URI=oe-30-11-18119},
-doi = {10.1364/OE.455115},
-}
-@article{Moonisa:2022,
-title = {Audio-visual annotation graphs for guiding lens-based scene exploration},
-journal = {Computers & Graphics},
-year = {2022},
-issn = {0097-8493},
-doi = {https://doi.org/10.1016/j.cag.2022.05.003},
-url = { https://dspace.crs4.it/jspui/handle/1138/38},
-author = {Moonisa Ahsan and Fabio Marton and Ruggero Pintus and Enrico Gobbetti},
-keywords = {Interactive visualization lenses, Annotations, User interfaces, Interactive exploration, Guidance, Guided tour},
-}
-@inproceedings{10.1117/12.2618993,
-author = {Mary Guindy and Adhikarla V. Kiran and Peter A. Kara and Tibor Balogh and Aniko Simon},
-title = {{Towards reconstructing HDR light fields by combining 2D and 3D CNN architectures}},
-volume = {12097},
-booktitle = {Big Data IV: Learning, Analytics, and Applications},
-editor = {Fauzia Ahmad and Panos P. Markopoulos and Bing Ouyang},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {192 -- 197},
-keywords = {CNN architecture, light field imaging, light field reconstruction, HDR},
-year = {2022},
-doi = {10.1117/12.2618993},
-URL = {https://doi.org/10.1117/12.2618993}
-}
-
-@inproceedings{10.1117/12.2624591,
-author = {Mary Guindy and Peter A. Kara and Tibor Balogh and Aniko Simon},
-title = {{Perceptual preference for 3D interactions and realistic physical camera motions on light field displays}},
-volume = {12125},
-booktitle = {Virtual, Augmented, and Mixed Reality (XR) Technology for Multi-Domain Operations III},
-editor = {Mark S. Dennison Jr. and David M. Krum and John (Jack) N. Sanders-Reed and Jarvis (Trey) J. Arthur III},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {154 -- 162},
-keywords = {light field visualization, realistic camera simulation, physical simulation, 3D interaction, perceptual preference, cinematography},
-year = {2022},
-doi = {10.1117/12.2624591},
-URL = {https://doi.org/10.1117/12.2624591}
-}
-@inproceedings{10.1117/12.2618979,
-author = {Peter A. Kara and Tibor Balogh and Mary Guindy and Aniko Simon},
-title = {{3D battlespace visualization and defense applications on commercial and use-case-dedicated light field displays}},
-volume = {12097},
-booktitle = {Big Data IV: Learning, Analytics, and Applications},
-editor = {Fauzia Ahmad and Panos P. Markopoulos and Bing Ouyang},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {183 -- 191},
-keywords = {light field visualization, 3D battlespace, field of view, angular resolution, user interaction, use-case-centric design},
-year = {2022},
-doi = {10.1117/12.2618979},
-URL = {https://doi.org/10.1117/12.2618979}
-}
 @inproceedings{10.1117/12.2618638,
-author = {Aniko Simon and Mary Guindy and Peter A. Kara and Tibor Balogh and Laszlo Szy},
-title = {{Through a different lens: the perceived quality of light field visualization assessed by test participants with imperfect visual acuity and color blindness}},
-volume = {12097},
-booktitle = {Big Data IV: Learning, Analytics, and Applications},
-editor = {Fauzia Ahmad and Panos P. Markopoulos and Bing Ouyang},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {212 -- 221},
-keywords = {light field visualization, visual acuity, color vision, spatial resolution, angular resolution, viewing conditions},
-year = {2022},
-doi = {10.1117/12.2618638},
-URL = {https://doi.org/10.1117/12.2618638}
-}
-@article{MANOLAS2022141,
-title = {Automated generation of flat tileable patterns and 3D reduced model simulation},
-journal = {Computers & Graphics},
-volume = {106},
-pages = {141-151},
-year = {2022},
-issn = {0097-8493},
-doi = {https://doi.org/10.1016/j.cag.2022.05.020},
-url = {https://www.sciencedirect.com/science/article/pii/S0097849322000929},
-author = {Iason Manolas and Francesco Laccone and Gianmarco Cherchi and Luigi Malomo and Paolo Cignoni},
-keywords = {Computational design, Digital fabrication, Simulation},
-abstract = {The computational fabrication community is developing an increasing interest in the use of patterned surfaces, which can be designed to show ornamental and unconventional aesthetics or to perform as a proper structural material with a wide range of features. Geometrically designing and controlling the deformation capabilities of these patterns in response to external stimuli is a complex task due to the large number of variables involved. This paper introduces a method for generating sets of tileable and exchangeable flat patterns as well as a model-reduction strategy that enables their mechanical simulation at interactive rates. This method is included in a design pipeline that aims to turn any general flat surface into a pattern tessellation, which is able to deform under a given loading scenario. To validate our approach, we apply it to different contexts, including real-scale 3D printed specimens, for which we compare our results with the ones provided by a ground-truth solver.}
+  title = {Through a Different Lens: The Perceived Quality of Light Field Visualization Assessed by Test Participants with Imperfect Visual Acuity and Color Blindness},
+  booktitle = {Big Data {{IV}}: {{Learning}}, Analytics, and Applications},
+  author = {Simon, Aniko and Guindy, Mary and Kara, Peter A. and Balogh, Tibor and Szy, Laszlo},
+  editor = {Ahmad, Fauzia and Markopoulos, Panos P. and Ouyang, Bing},
+  date = {2022},
+  volume = {12097},
+  pages = {212--221},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2618638},
+  url = {https://doi.org/10.1117/12.2618638},
+  keywords = {angular resolution,color vision,light field visualization,spatial resolution,viewing conditions,visual acuity}
 }
 
-@article{10.1145/3522625,
-author = {Cardoso, Joao Liborio and Kerbl, Bernhard and Yang, Lei and Uralsky, Yury and Wimmer, Michael},
-title = {Training and Predicting Visual Error for Real-Time Applications},
-year = {2022},
-issue_date = {May 2022},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-volume = {5},
-number = {1},
-url = {https://zenodo.org/record/7107697#.Yy2Vjy8RpB1},
-doi = {10.1145/3522625},
-journal = {Proc. ACM Comput. Graph. Interact. Tech.},
-month = {may},
-articleno = {11},
-numpages = {17},
-keywords = {deep learning, perceptual error, variable rate shading, real-time}
+@inproceedings{10.1117/12.2618979,
+  title = {{{3D}} Battlespace Visualization and Defense Applications on Commercial and Use-Case-Dedicated Light Field Displays},
+  booktitle = {Big Data {{IV}}: {{Learning}}, Analytics, and Applications},
+  author = {Kara, Peter A. and Balogh, Tibor and Guindy, Mary and Simon, Aniko},
+  editor = {Ahmad, Fauzia and Markopoulos, Panos P. and Ouyang, Bing},
+  date = {2022},
+  volume = {12097},
+  pages = {183--191},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2618979},
+  url = {https://doi.org/10.1117/12.2618979},
+  keywords = {3D battlespace,angular resolution,field of view,light field visualization,use-case-centric design,user interaction}
+}
+
+@inproceedings{10.1117/12.2618993,
+  title = {Towards Reconstructing {{HDR}} Light Fields by Combining {{2D}} and {{3D CNN}} Architectures},
+  booktitle = {Big Data {{IV}}: {{Learning}}, Analytics, and Applications},
+  author = {Guindy, Mary and Kiran, Adhikarla V. and Kara, Peter A. and Balogh, Tibor and Simon, Aniko},
+  editor = {Ahmad, Fauzia and Markopoulos, Panos P. and Ouyang, Bing},
+  date = {2022},
+  volume = {12097},
+  pages = {192--197},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2618993},
+  url = {https://doi.org/10.1117/12.2618993},
+  keywords = {CNN architecture,HDR,light field imaging,light field reconstruction}
 }
 
 @inproceedings{10.1117/12.2619012,
-author = {Aniko Simon and Laszlo Szy and Peter A. Kara and Mary Guindy},
-title = {{Who watches the watches: on the delivery of the specifications of smart wearable devices and recommendations on the related best practices}},
-volume = {12123},
-booktitle = {Smart Biomedical and Physiological Sensor Technology XIX},
-editor = {Brian M. Cullum and Douglas Kiehl and Eric S. McLamore},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {1212303},
-keywords = {smart wearables, wearable devices, wearable sensor technologies, assistive wearable technologies, device specification},
-year = {2022},
-doi = {10.1117/12.2619012},
-URL = {https://doi.org/10.1117/12.2619012}
+  title = {Who Watches the Watches: On the Delivery of the Specifications of Smart Wearable Devices and Recommendations on the Related Best Practices},
+  booktitle = {Smart Biomedical and Physiological Sensor Technology {{XIX}}},
+  author = {Simon, Aniko and Szy, Laszlo and Kara, Peter A. and Guindy, Mary},
+  editor = {Cullum, Brian M. and Kiehl, Douglas and McLamore, Eric S.},
+  date = {2022},
+  volume = {12123},
+  pages = {1212303},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2619012},
+  url = {https://doi.org/10.1117/12.2619012},
+  keywords = {assistive wearable technologies,device specification,smart wearables,wearable devices,wearable sensor technologies}
+}
+
+@inproceedings{10.1117/12.2624591,
+  title = {Perceptual Preference for {{3D}} Interactions and Realistic Physical Camera Motions on Light Field Displays},
+  booktitle = {Virtual, Augmented, and Mixed Reality ({{XR}}) Technology for Multi-Domain Operations {{III}}},
+  author = {Guindy, Mary and Kara, Peter A. and Balogh, Tibor and Simon, Aniko},
+  editor = {Jr., Mark S. Dennison and Krum, David M. and Sanders-Reed, John (Jack) N. and III, Jarvis (Trey) J. Arthur},
+  date = {2022},
+  volume = {12125},
+  pages = {154--162},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2624591},
+  url = {https://doi.org/10.1117/12.2624591},
+  keywords = {3D interaction,cinematography,light field visualization,perceptual preference,physical simulation,realistic camera simulation}
 }
 
 @inproceedings{10.1117/12.2625118,
-author = {Fanni A. Geyer and Vince A. Szakal and Peter A. Kara and Aniko Simon and Mary Guindy},
-title = {{Thresholds of perceptual fatigue based on 3D object motion vectors and relative object size in virtual reality}},
-volume = {12125},
-booktitle = {Virtual, Augmented, and Mixed Reality (XR) Technology for Multi-Domain Operations III},
-editor = {Mark S. Dennison Jr. and David M. Krum and John (Jack) N. Sanders-Reed and Jarvis (Trey) J. Arthur III},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {121250I},
-keywords = {virtual reality, perceptual fatigue, human factors, operation time, 3D object motion vector, relative object size},
-year = {2022},
-doi = {10.1117/12.2625118},
-URL = {https://doi.org/10.1117/12.2625118}
-}
-
-
-@Article{electronics11172689,
-AUTHOR = {Guindy, Mary and Barsi, Attila and Kara, Peter A. and Adhikarla, Vamsi K. and Balogh, Tibor and Simon, Aniko},
-TITLE = {Camera Animation for Immersive Light Field Imaging},
-JOURNAL = {Electronics},
-VOLUME = {11},
-YEAR = {2022},
-NUMBER = {17},
-ARTICLE-NUMBER = {2689},
-URL = {https://www.mdpi.com/2079-9292/11/17/2689},
-ISSN = {2079-9292},
-DOI = {10.3390/electronics11172689}
-}
-
-@inproceedings {Tarek:2023,
-booktitle = {Color and Imaging Conference},
-title = {Effect of Polarization on RGB Imaging and Color Accuracy/Fidelity},
-author = {Tarek Abu Haila and Reimar Tausch and Martin Ritz and Pedro Santos and Dieter Fellner},
-year = {2022},
-publisher = {Society for Imaging Science and Technology},
-DOI = {https://doi.org/10.2352/CIC.2022.30.1.30},
-url = {https://doi.org/10.2352/CIC.2022.30.1.30},
-}
-
-@Article {Tarek:2023_2,
-author = {Tarek Abu Haila and Reimar Tausch and Martin Ritz and Pedro Santos and Dieter Fellner},
-title = {A cross-polarization as a possible cause for color shift in illumination},
-journal = {Electronic Imaging},
-VOLUME = {35},
-year = {2023},
-publisher = {Society for Imaging Science and Technology},
-DOI = {https://doi.org/10.2352/EI.2023.35.15.COLOR-192},
-url = {https://doi.org/10.2352/EI.2023.35.15.COLOR-192},
-}
-
-@inproceedings{RMPS:23,
-booktitle = {Eurographics 2023 - Posters},
-editor = {Singh, Gurprit and Chu, Mengyu (Rachel)},
-title = {{Multi-Display Ray Tracing Framework}},
-author = {Romero Calla, Luciano Arnaldo and Mohanto, Bipul and Pajarola, Renato and Staadt, Oliver},
-year = {2023},
-publisher = {The Eurographics Association},
-ISSN = {1017-4656},
-ISBN = {978-3-03868-211-0},
-DOI = {10.2312/egp.20231025}
-}
-
-@article{Chen:23,
-author = {Danwu Chen and Philipp Urban},
-journal = {Opt. Express},
-keywords = {Color difference; Neural networks; Optical properties; Radiative transfer; Refractive index; Transparency},
-number = {8},
-pages = {13486--13502},
-publisher = {Optica Publishing Group},
-title = {Multi-printer learning framework for efficient optical printer characterization},
-volume = {31},
-month = {Apr},
-year = {2023},
-url = {https://opg.optica.org/oe/abstract.cfm?URI=oe-31-8-13486},
-doi = {10.1364/OE.487526},
-abstract = {A high prediction accuracy of optical printer models is a prerequisite for accurately reproducing visual attributes (color, gloss, translucency) in multimaterial 3D printing. Recently, deep-learning-based models have been proposed, requiring only a moderate number of printed and measured training samples to reach a very high prediction accuracy. In this paper, we present a multi-printer deep learning (MPDL) framework that further improves data efficiency utilizing supporting data from other printers. Experiments on eight multi-material 3D printers demonstrate that the proposed framework can significantly reduce the number of training samples thus the overall printing and measurement efforts. This makes it economically feasible to frequently characterize 3D printers to achieve a high optical reproduction accuracy consistent across different printers and over time, which is crucial for color- and translucency-critical applications.},
-} 
-
-@Article{isprs-archives-XLIII-B1-2022-121-2022,
-AUTHOR = {Sgrenzaroli, M. and Ortiz Barrientos, J. and Vassena, G. and Sanchez, A. and Ciribini, A. and Mastrolembo Ventura, S. and Comai, S.},
-TITLE = {INDOOR MOBILE MAPPING SYSTEMS AND (BIM) DIGITAL MODELS FOR CONSTRUCTION PROGRESS MONITORING},
-JOURNAL = {The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-VOLUME = {XLIII-B1-2022},
-YEAR = {2022},
-PAGES = {121--127},
-URL = {https://isprs-archives.copernicus.org/articles/XLIII-B1-2022/121/2022/},
-DOI = {10.5194/isprs-archives-XLIII-B1-2022-121-2022}
-}
-
-@InProceedings{LMMC22,
-  author       = "Laccone, Francesco and Manolas, Iason and Malomo, Luigi and Cignoni, Paolo",
-  title        = "Exploratory study on a segmented shell made of recycled-HDPE plastic",
-  booktitle    = "Inspiring the Next Generation, p.3590; International Conference on Spatial Structures 2020/21, 7",
-  year         = "2022",
-  editor       = "SEYED ALIREZA BEHNEJAD, GAR Parke, OMIDALI SAMAVATI",
-  publisher    = "Spatial Structures Research Centre of the University of Surrey",
-  keywords     = "conceptual design, construction systems, segmented shell, recycled polyethylene, structural design, dry-assembly, bending, non-funicular",
-  url          = "http://vcg.isti.cnr.it/Publications/2022/LMMC22"
-}
-
-@Inproceedings{oai:it.cnr:prodotti:473398,
-	title = {A computational tool for the analysis of 3D bending-active structures based on the dynamic relaxation method},
-	author = {Manolas I. and Laccone F. and Cherchi G. and Malomo L. and Cignoni P.},
-	publisher = {Eurographics Association, Eindhoven, NLD},
-	doi = {10.2312/stag.20221250},
-	booktitle = {Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference, Cagliari, Italy, 17-18/11/2022},
-	year = {2022},
-	url = "https://openportal.isti.cnr.it/doc?id=people______::1c90814c2536f51ed873823f98d6778d"
-}
-
-@article{Mary:2022, 
-title={Beyond Perceptual Thresholds and Personal Preference: Towards Novel Research Questions and Methodologies of Quality of Experience Studies on Light Field Visualization}, volume={11}, ISSN={2079-9292}, url={http://dx.doi.org/10.3390/electronics11060953}, DOI={10.3390/electronics11060953}, number={6}, journal={Electronics}, publisher={MDPI AG}, author={Kara, Peter A. and Tamboli, Roopak R. and Shafiee, Edris and Martini, Maria G. and Simon, Aniko and Guindy, Mary}, year={2022}, month={Mar}, pages={953} }
-
-@inproceedings{10.1117/12.2633912,
-author = {Mary Guindy and Peter  A. Kara and Tibor Balogh and Aniko Simon},
-title = {{Analysis of high dynamic range light field images in practical utilization contexts}},
-volume = {12216},
-booktitle = {Novel Optical Systems, Methods, and Applications XXV},
-editor = {Cornelius F. Hahlweg and Joseph R. Mulley},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {122160P},
-keywords = {light field, high dynamic range, mage reconstruction, usage-specific requirements},
-year = {2022},
-doi = {10.1117/12.2633912},
-URL = {https://doi.org/10.1117/12.2633912}
+  title = {Thresholds of Perceptual Fatigue Based on {{3D}} Object Motion Vectors and Relative Object Size in Virtual Reality},
+  booktitle = {Virtual, Augmented, and Mixed Reality ({{XR}}) Technology for Multi-Domain Operations {{III}}},
+  author = {Geyer, Fanni A. and Szakal, Vince A. and Kara, Peter A. and Simon, Aniko and Guindy, Mary},
+  editor = {Jr., Mark S. Dennison and Krum, David M. and Sanders-Reed, John (Jack) N. and III, Jarvis (Trey) J. Arthur},
+  date = {2022},
+  volume = {12125},
+  pages = {121250I},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2625118},
+  url = {https://doi.org/10.1117/12.2625118},
+  keywords = {3D object motion vector,human factors,operation time,perceptual fatigue,relative object size,virtual reality}
 }
 
 @inproceedings{10.1117/12.2633613,
-author = {Aniko Simon and Peter A. Kara and Mary Guindy and Xinyu Qiu and Laszlo Szy and Tibor Balogh},
-title = {{One step closer to a better experience: analysis of the suitable viewing distance ranges of light field visualization usage contexts for observers with reduced visual capabilities}},
-volume = {12216},
-booktitle = {Novel Optical Systems, Methods, and Applications XXV},
-editor = {Cornelius F. Hahlweg and Joseph R. Mulley},
-organization = {International Society for Optics and Photonics},
-publisher = {SPIE},
-pages = {122160O},
-keywords = {light field visualization, viewing distance, human visual system, use-case-specific preference},
-year = {2022},
-doi = {10.1117/12.2633613},
-URL = {https://doi.org/10.1117/12.2633613}
-}
-@inproceedings{Mary/12.2633613,
-author = {Mary Guindy and Vamsi K. Adhikarla and Peter Andras Kara and Tibor Balogh and Aniko Simon},
-title = {{CLASSROOM : synthetic high dynamic range light field dataset}},
-booktitle = {Applications of Digital Image Processing XLV},
-publisher = {SPIE},
-pages = {22--24},
-year = {2022},
-URL = {https://eprints.kingston.ac.uk/id/eprint/52218}
+  title = {One Step Closer to a Better Experience: Analysis of the Suitable Viewing Distance Ranges of Light Field Visualization Usage Contexts for Observers with Reduced Visual Capabilities},
+  booktitle = {Novel Optical Systems, Methods, and Applications {{XXV}}},
+  author = {Simon, Aniko and Kara, Peter A. and Guindy, Mary and Qiu, Xinyu and Szy, Laszlo and Balogh, Tibor},
+  editor = {Hahlweg, Cornelius F. and Mulley, Joseph R.},
+  date = {2022},
+  volume = {12216},
+  pages = {122160O},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2633613},
+  url = {https://doi.org/10.1117/12.2633613},
+  keywords = {human visual system,light field visualization,use-case-specific preference,viewing distance}
 }
 
-@article{https://doi.org/10.1111/cgf.142640,
-author = {Mura, Claudio and Pajarola, Renato and Schindler, Konrad and Mitra, Niloy},
-title = {Walk2Map: Extracting Floor Plans from Indoor Walk Trajectories},
-journal = {Computer Graphics Forum},
-volume = {40},
-number = {2},
-pages = {375-388},
-keywords = {CCS Concepts, • Computing methodologies → Reconstruction; Object detection; Scene understanding; Machine learning},
-doi = {https://doi.org/10.1111/cgf.142640},
-url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.142640},
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.142640},
-abstract = {Abstract Recent years have seen a proliferation of new digital products for the efficient management of indoor spaces, with important applications like emergency management, virtual property showcasing and interior design. While highly innovative and effective, these products rely on accurate 3D models of the environments considered, including information on both architectural and non-permanent elements. These models must be created from measured data such as RGB-D images or 3D point clouds, whose capture and consolidation involves lengthy data workflows. This strongly limits the rate at which 3D models can be produced, preventing the adoption of many digital services for indoor space management. We provide a radical alternative to such data-intensive procedures by presenting Walk2Map, a data-driven approach to generate floor plans only from trajectories of a person walking inside the rooms. Thanks to recent advances in data-driven inertial odometry, such minimalistic input data can be acquired from the IMU readings of consumer-level smartphones, which allows for an effortless and scalable mapping of real-world indoor spaces. Our work is based on learning the latent relation between an indoor walk trajectory and the information represented in a floor plan: interior space footprint, portals, and furniture. We distinguish between recovering area-related (interior footprint, furniture) and wall-related (doors) information and use two different neural architectures for the two tasks: an image-based Encoder-Decoder and a Graph Convolutional Network, respectively. We train our networks using scanned 3D indoor models and apply them in a cascaded fashion on an indoor walk trajectory at inference time. We perform a qualitative and quantitative evaluation using both trajectories simulated from scanned models of interiors and measured, real-world trajectories, and compare against a baseline method for image-to-image translation. The experiments confirm that our technique is viable and allows recovering reliable floor plans from minimal walk trajectory data.},
-year = {2021}
+@inproceedings{10.1117/12.2633912,
+  title = {Analysis of High Dynamic Range Light Field Images in Practical Utilization Contexts},
+  booktitle = {Novel Optical Systems, Methods, and Applications {{XXV}}},
+  author = {Guindy, Mary and Kara, Peter A. and Balogh, Tibor and Simon, Aniko},
+  editor = {Hahlweg, Cornelius F. and Mulley, Joseph R.},
+  date = {2022},
+  volume = {12216},
+  pages = {122160P},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2633912},
+  url = {https://doi.org/10.1117/12.2633912},
+  keywords = {high dynamic range,light field,mage reconstruction,usage-specific requirements}
 }
 
-@INPROCEEDINGS{9191202,
-  author={Banterle, Francesco and Artusi, Alessandro and Moreo, Alejandro and Carrara, Fabio},
-  booktitle={2020 IEEE International Conference on Image Processing (ICIP)}, 
-  title={Nor-Vdpnet: A No-Reference High Dynamic Range Quality Metric Trained On Hdr-Vdp 2}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={126-130},
-  doi={10.1109/ICIP40778.2020.9191202}}
-
-@Article{Pintore:2023:DPD,
-    author = {Giovanni Pintore and Eva Almansa and Armando Sanchez and Giorgio Vassena and Enrico Gobbetti},
-    title = {Deep Panoramic Depth Prediction and Completion for Indoor Scenes},
-    journal = {Computational Visual Media},
-    year = {2023},
-    abstract = { We introduce a novel end-to-end deep learning solution for rapidly estimating a dense spherical depth map of an indoor environment. Our input is a single equirectangular image registered with a sparse depth map, as provided by a variety of common capture setups. Depth is inferred by an efficient and lightweight single-branch network, which employs a dynamic gating system to process together dense visual data and sparse geometric data. We exploit the characteristics of typical man-made environments to efficiently compress multi-resolution features and find short- and long-range relations among scene parts. Furthermore, we introduce a new augmentation strategy to make the model robust to different types of sparsity, including those generated by various structured light sensors and LiDAR setups. The experimental results demonstrate that our method provides interactive performance and outperforms state-of-the-art solutions in computational efficiency, adaptivity to variable depth sparsity patterns, and prediction accuracy for challenging indoor data, even when trained solely on synthetic data without any fine tuning. },
-    note = {To appear},
-    url = {http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id='Pintore:2023:DPD'},
+@article{10.1145/3522625,
+  title = {Training and Predicting Visual Error for Real-Time Applications},
+  author = {Cardoso, Joao Liborio and Kerbl, Bernhard and Yang, Lei and Uralsky, Yury and Wimmer, Michael},
+  date = {2022-05},
+  journaltitle = {Proc. ACM Comput. Graph. Interact. Tech.},
+  volume = {5},
+  number = {1},
+  publisher = {{Association for Computing Machinery}},
+  location = {{New York, NY, USA}},
+  doi = {10.1145/3522625},
+  url = {https://zenodo.org/record/7107697#.Yy2Vjy8RpB1},
+  articleno = {11},
+  issue_date = {May 2022},
+  pagetotal = {17},
+  keywords = {deep learning,perceptual error,real-time,variable rate shading}
 }
 
 @article{10.1145/3593428,
-author = {Pintus, Ruggero and Ahsan, Moonisa and Zorcolo, Antonio and Bettio, Fabio and Marton, Fabio and Gobbetti, Enrico},
-title = {Exploiting Local Shape and Material Similarity for Effective SV-BRDF Reconstruction from Sparse Multi-Light Image Collections},
-year = {2023},
-issue_date = {June 2023},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-volume = {16},
-number = {2},
-issn = {1556-4673},
-url = {https://doi.org/10.1145/3593428},
-doi = {10.1145/3593428},
-abstract = {We present a practical solution to create a relightable model from small Multi-light Image Collections (MLICs) acquired using standard acquisition pipelines. The approach targets the difficult but very common situation in which the optical behavior of a flat, but visually and geometrically rich object, such as a painting or a bas relief, is measured using a fixed camera taking a limited number of images with a different local illumination. By exploiting information from neighboring pixels through a carefully-crafted weighting and regularization scheme, we are able to efficiently infer subtle and visually pleasing per-pixel analytical Bidirectional Reflectance Distribution Functions (BRDFs) representations from few per-pixel samples. The method has a low memory footprint and is easily parallelizable. We qualitatively and quantitatively evaluated it on both synthetic and real data in the scope of image-based relighting applications.},
-journal = {J. Comput. Cult. Herit.},
-month = {jun},
-articleno = {39},
-numpages = {31},
-keywords = {bas-reliefs, BRDF fitting, MLIC, virtual relighting, reflectance computation, paintings}
+  title = {Exploiting Local Shape and Material Similarity for Effective {{SV-BRDF}} Reconstruction from Sparse Multi-Light Image Collections},
+  author = {Pintus, Ruggero and Ahsan, Moonisa and Zorcolo, Antonio and Bettio, Fabio and Marton, Fabio and Gobbetti, Enrico},
+  date = {2023-06},
+  journaltitle = {J. Comput. Cult. Herit.},
+  volume = {16},
+  number = {2},
+  publisher = {{Association for Computing Machinery}},
+  location = {{New York, NY, USA}},
+  issn = {1556-4673},
+  doi = {10.1145/3593428},
+  url = {https://doi.org/10.1145/3593428},
+  abstract = {We present a practical solution to create a relightable model from small Multi-light Image Collections (MLICs) acquired using standard acquisition pipelines. The approach targets the difficult but very common situation in which the optical behavior of a flat, but visually and geometrically rich object, such as a painting or a bas relief, is measured using a fixed camera taking a limited number of images with a different local illumination. By exploiting information from neighboring pixels through a carefully-crafted weighting and regularization scheme, we are able to efficiently infer subtle and visually pleasing per-pixel analytical Bidirectional Reflectance Distribution Functions (BRDFs) representations from few per-pixel samples. The method has a low memory footprint and is easily parallelizable. We qualitatively and quantitatively evaluated it on both synthetic and real data in the scope of image-based relighting applications.},
+  articleno = {39},
+  issue_date = {June 2023},
+  pagetotal = {31},
+  keywords = {bas-reliefs,BRDF fitting,MLIC,paintings,reflectance computation,virtual relighting}
 }
 
-@ARTICLE{9878246,
-  author={Pintore, Giovanni and Agus, Marco and Almansa, Eva and Gobbetti, Enrico},
-  journal={IEEE Transactions on Visualization and Computer Graphics}, 
-  title={Instant Automatic Emptying of Panoramic Indoor Scenes}, 
-  year={2022},
-  volume={28},
-  number={11},
-  pages={3629-3639},
-  doi={10.1109/TVCG.2022.3202999}}
+@inproceedings{10.2312:gch.20211412,
+  title = {Exploiting Neighboring Pixels Similarity for Effective {{SV-BRDF}} Reconstruction from Sparse {{MLICs}}},
+  booktitle = {Eurographics Workshop on Graphics and Cultural Heritage},
+  author = {Pintus, Ruggero and Ahsan, Moonisa and Marton, Fabio and Gobbetti, Enrico},
+  editor = {Hulusic, Vedad and Chalmers, Alan},
+  date = {2021},
+  publisher = {{The Eurographics Association}},
+  issn = {2312-6124},
+  doi = {10.2312/gch.20211412},
+  url = {https://dspace.crs4.it/jspui/handle/1138/36},
+  isbn = {978-3-03868-141-0}
+}
+
+@inproceedings{10.2312:gch.20221230,
+  title = {Ebb \& Flow: {{Uncovering Costantino Nivola}}'s {{Olivetti}} Sandcast through {{3D}} Fabrication and Virtual Exploration},
+  booktitle = {Eurographics Workshop on Graphics and Cultural Heritage},
+  author = {Ahsan, Moonisa and Altea, Giuliana and Bettio, Fabio and Callieri, Marco and Camarda, Antonella and Cignoni, Paolo and Gobbetti, Enrico and Ledda, Paolo and Lutzu, Alessandro and Marton, Fabio and Mignemi, Giuseppe and Ponchio, Federico},
+  editor = {Ponchio, Federico and Pintus, Ruggero},
+  date = {2022},
+  publisher = {{The Eurographics Association}},
+  issn = {2312-6124},
+  doi = {10.2312/gch.20221230},
+  isbn = {978-3-03868-178-6}
+}
+
+@inproceedings{10.2312:stag.20211477,
+  title = {Guiding Lens-Based Exploration Using Annotation Graphs},
+  booktitle = {Smart Tools and Apps for Graphics - Eurographics Italian Chapter Conference},
+  author = {Ahsan, Moonisa and Marton, Fabio and Pintus, Ruggero and Gobbetti, Enrico},
+  editor = {Frosini, Patrizio and Giorgi, Daniela and Melzi, Simone and Rodola, Emanuele},
+  date = {2021},
+  publisher = {{The Eurographics Association}},
+  issn = {2617-4855},
+  doi = {10.2312/stag.20211477},
+  url = {https://dspace.crs4.it/jspui/handle/1138/35},
+  isbn = {978-3-03868-165-6}
+}
+
+@inproceedings{9191202,
+  title = {Nor-Vdpnet: A No-Reference High Dynamic Range Quality Metric Trained on Hdr-Vdp 2},
+  booktitle = {2020 {{IEEE}} International Conference on Image Processing ({{ICIP}})},
+  author = {Banterle, Francesco and Artusi, Alessandro and Moreo, Alejandro and Carrara, Fabio},
+  date = {2020},
+  pages = {126--130},
+  doi = {10.1109/ICIP40778.2020.9191202}
+}
+
+@inproceedings{9687182,
+  title = {Performance Evaluation of {{HDR}} Image Reconstruction Techniques on Light Field Images},
+  booktitle = {2021 International Conference on {{3D}} Immersion ({{IC3D}})},
+  author = {Guindy, Mary and Kiran, Adhikarla V. and Kara, Peter A. and Balogh, Tibor and Simon, Aniko},
+  date = {2021},
+  pages = {1--7},
+  doi = {10.1109/IC3D53758.2021.9687182},
+  url = {https://eprints.kingston.ac.uk/id/eprint/50849/}
+}
+
+@inproceedings{9687271,
+  title = {Latent Factor Modeling of Perceived Quality for Stereoscopic {{3D}} Video Recommendation},
+  booktitle = {2021 International Conference on {{3D}} Immersion ({{IC3D}})},
+  author = {Appina, Balasubramanyam and Sharma, Mansi and Kumar, Santosh and Kara, Peter A. and Simon, Aniko and Guindy, Mary},
+  date = {2021},
+  pages = {1--8},
+  doi = {10.1109/IC3D53758.2021.9687271},
+  url = {https://eprints.kingston.ac.uk/id/eprint/50848/}
+}
+
+@article{9878246,
+  title = {Instant Automatic Emptying of Panoramic Indoor Scenes},
+  author = {Pintore, Giovanni and Agus, Marco and Almansa, Eva and Gobbetti, Enrico},
+  date = {2022},
+  journaltitle = {IEEE Transactions on Visualization and Computer Graphics},
+  volume = {28},
+  number = {11},
+  pages = {3629--3639},
+  doi = {10.1109/TVCG.2022.3202999}
+}
+
+@article{Ahsan:2021,
+  title = {Web-Based Exploration of Annotated Multi-Layered Relightable Image Models},
+  author = {Jaspe-Villanueva, Alberto and Ahsan, Moonisa and Pintus, Ruggero and Giachetti, Andrea and Marton, Fabio and Gobbetti, Enrico},
+  date = {2021-05},
+  journaltitle = {Journal on Computing and Cultural Heritage},
+  volume = {14},
+  number = {2},
+  publisher = {{Association for Computing Machinery}},
+  location = {{New York, NY, USA}},
+  issn = {1556-4673},
+  doi = {10.1145/3430846},
+  url = {https://doi.org/10.1145/3430846},
+  articleno = {24},
+  pagetotal = {29}
+}
+
+@thesis{ahsanScalableExplorationComplex2023,
+  title = {Scalable {{Exploration}} of {{Complex Objects}} and {{Environments}} beyond {{Plain Visual Replication}}},
+  author = {Ahsan, Moonisa},
+  date = {2023},
+  institution = {{University of Cagliari}}
+}
+
+@article{Alderighi:2019,
+  title = {Volume-Aware Design of Composite Molds},
+  author = {Alderighi, Thomas and Malomo, Luigi and Giorgi, Daniela and Bickel, Bernd and Cignoni, Paolo and Pietroni, Nico},
+  date = {2019-07},
+  journaltitle = {ACM Trans. Graph.},
+  volume = {38},
+  number = {4},
+  publisher = {{Association for Computing Machinery}},
+  location = {{New York, NY, USA}},
+  issn = {0730-0301},
+  doi = {10.1145/3306346.3322981},
+  url = {https://openportal.isti.cnr.it/doc?id=people______::036b4ebf5bb0d906222ec4024e0535c3},
+  abstract = {We propose a novel technique for the automatic design of molds to cast highly complex shapes. The technique generates composite, two-piece molds. Each mold piece is made up of a hard plastic shell and a flexible silicone part. Thanks to the thin, soft, and smartly shaped silicone part, which is kept in place by a hard plastic shell, we can cast objects of unprecedented complexity. An innovative algorithm based on a volumetric analysis defines the layout of the internal cuts in the silicone mold part. Our approach can robustly handle thin protruding features and intertwined topologies that have caused previous methods to fail. We compare our results with state of the art techniques, and we demonstrate the casting of shapes with extremely complex geometry.},
+  articleno = {110},
+  issue_date = {July 2019},
+  pagetotal = {12},
+  keywords = {casting,fabrication,mold design}
+}
+
+@dataset{armando_arturo_sanchez_alcazar_2022_6367381,
+  title = {{{Indoor3Dmapping}} Dataset},
+  author = {Alcazar, Armando Arturo Sanchez and Pintore, Giovanni and Sgrenzaroli, Matteo},
+  date = {2022-03},
+  publisher = {{Zenodo}},
+  doi = {10.5281/zenodo.6367381},
+  url = {https://doi.org/10.5281/zenodo.6367381},
+  version = {0.1.0}
+}
+
+@inproceedings{Balogh:2021_7,
+  title = {{{3D}} Light Field {{LED}} Wall},
+  booktitle = {Digital Optical Technologies 2021},
+  author = {Balogh, Tibor and Barsi, Attila and Kara, Peter A. and Guindy, Mary and Simon, Aniko and Nagy, Zsolt},
+  editor = {Kress, Bernard C. and Peroz, Christophe},
+  date = {2021},
+  volume = {11788},
+  pages = {180--190},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2594276},
+  url = {https://doi.org/10.1117/12.2594276},
+  keywords = {3D light field,LED,lens array,modular display,novel system design}
+}
+
+@article{Bettio:2021_6,
+  title = {A Novel Approach for Exploring Annotated Data with Interactive Lenses},
+  author = {Bettio, Fabio and Ahsan, Moonisa and Marton, Fabio and Gobbetti, Enrico},
+  date = {2021},
+  journaltitle = {Computer Graphics Forum},
+  publisher = {{The Eurographics Association and John Wiley \& Sons Ltd.}},
+  issn = {1467-8659},
+  doi = {10.1111/cgf.14315},
+  url = {https://dspace.crs4.it/jspui/handle/1138/31}
+}
+
+@inproceedings{Cardoso:2021_4,
+  title = {Cost Volume Refinement for Depth Prediction},
+  booktitle = {2020 25th International Conference on Pattern Recognition ({{ICPR}})},
+  author = {Cardoso, Joao Afonso and Goncalves, Nuno and Wimmer, Michael},
+  date = {2021-01},
+  pages = {354--361},
+  doi = {10.1109/ICPR48806.2021.9412730},
+  url = {https://doi.org/10.1109/ICPR48806.2021.9412730}
+}
+
+@inproceedings{celarek-2022-gmcn,
+  title = {Gaussian Mixture Convolution Networks},
+  booktitle = {The Tenth International Conference on Learning Representations ({{ICLR}} 2022)},
+  author = {Celarek, Adam and Hermosilla, Pedro and Kerbl, Bernhard and Ropinski, Timo and Wimmer, Michael},
+  date = {2022-04},
+  pages = {1--23},
+  publisher = {{OpenReview.org}},
+  doi = {10.48550/arXiv.2202.09153},
+  url = {https://www.cg.tuwien.ac.at/research/publications/2022/celarek-2022-gmcn/},
+  event = {ICLR | 2022}
+}
+
+@article{Celarek:2019,
+  title = {Quantifying the Error of Light Transport Algorithms},
+  author = {Celarek, A. and Jakob, W. and Wimmer, M. and Lehtinen, J.},
+  date = {2019},
+  journaltitle = {Computer Graphics Forum},
+  volume = {38},
+  number = {4},
+  pages = {111--121},
+  doi = {10.1111/cgf.13775},
+  url = {https://repositum.tuwien.at/handle/20.500.12708/15941}
+}
+
+@article{Chen:22,
+  title = {Inducing Robustness and Plausibility in Deep Learning Optical {{3D}} Printer Models},
+  author = {Chen, Danwu and Urban, Philipp},
+  date = {2022-05},
+  journaltitle = {Optics Express},
+  shortjournal = {Opt. Express},
+  volume = {30},
+  number = {11},
+  pages = {18119--18133},
+  publisher = {{OSA}},
+  doi = {10.1364/OE.455115},
+  url = {http://opg.optica.org/oe/abstract.cfm?URI=oe-30-11-18119},
+  keywords = {Image metrics,Neural networks,Optical properties,Radiative transfer,Stochastic processes,Transparency}
+}
+
+@article{Chen:23,
+  title = {Multi-Printer Learning Framework for Efficient Optical Printer Characterization},
+  author = {Chen, Danwu and Urban, Philipp},
+  date = {2023-04},
+  journaltitle = {Optics Express},
+  shortjournal = {Opt. Express},
+  volume = {31},
+  number = {8},
+  pages = {13486--13502},
+  publisher = {{Optica Publishing Group}},
+  doi = {10.1364/OE.487526},
+  url = {https://opg.optica.org/oe/abstract.cfm?URI=oe-31-8-13486},
+  abstract = {A high prediction accuracy of optical printer models is a prerequisite for accurately reproducing visual attributes (color, gloss, translucency) in multimaterial 3D printing. Recently, deep-learning-based models have been proposed, requiring only a moderate number of printed and measured training samples to reach a very high prediction accuracy. In this paper, we present a multi-printer deep learning (MPDL) framework that further improves data efficiency utilizing supporting data from other printers. Experiments on eight multi-material 3D printers demonstrate that the proposed framework can significantly reduce the number of training samples thus the overall printing and measurement efforts. This makes it economically feasible to frequently characterize 3D printers to achieve a high optical reproduction accuracy consistent across different printers and over time, which is crucial for color- and translucency-critical applications.},
+  keywords = {Color difference,Neural networks,Optical properties,Radiative transfer,Refractive index,Transparency}
+}
+
+@article{chen29deep,
+  title = {Deep Learning Models for Optically Characterizing {{3D}} Printers},
+  author = {Chen, Danwu and Urban, Philipp},
+  date = {2021-01},
+  journaltitle = {Optics Express},
+  volume = {29},
+  number = {2},
+  pages = {615--631},
+  publisher = {{Optical Society of America}},
+  doi = {10.1364/OE.410796},
+  url = {http://publica.fraunhofer.de/documents/N-621396.html}
+}
+
+@article{electronics11172689,
+  title = {Camera Animation for Immersive Light Field Imaging},
+  author = {Guindy, Mary and Barsi, Attila and Kara, Peter A. and Adhikarla, Vamsi K. and Balogh, Tibor and Simon, Aniko},
+  date = {2022},
+  journaltitle = {Electronicsweek},
+  shortjournal = {Electronics},
+  volume = {11},
+  number = {2689},
+  issn = {2079-9292},
+  doi = {10.3390/electronics11172689},
+  url = {https://www.mdpi.com/2079-9292/11/17/2689},
+  issue = {17}
+}
+
+@article{Filoscia:2020,
+  title = {Optimizing Object Decomposition to Reduce Visual Artifacts in {{3D}} Printing},
+  author = {Filoscia, I. and Alderighi, T. and Giorgi, D. and Malomo, L. and Callieri, M. and Cignoni, P.},
+  date = {2020},
+  journaltitle = {Computer Graphics Forum},
+  volume = {39},
+  number = {2},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13941},
+  pages = {423--434},
+  doi = {10.1111/cgf.13941},
+  url = {https://openportal.isti.cnr.it/doc?id=people______::9d51621aaa57ea79baa0ac0466002bf0},
+  abstract = {Abstract We propose a method for the automatic segmentation of 3D objects into parts which can be individually 3D printed and then reassembled by preserving the visual quality of the final object. Our technique focuses on minimizing the surface affected by supports, decomposing the object into multiple parts whose printing orientation is automatically chosen. The segmentation reduces the visual impact on the fabricated model producing non-planar cuts that adapt to the object shape. This is performed by solving an optimization problem that balances the effects of supports and cuts, while trying to place both in occluded regions of the object surface. To assess the practical impact of the solution, we show a number of segmented, 3D printed and reassembled objects.}
+}
+
+@inproceedings{FRMMP:20,
+  title = {A Robust Feature-Aware Sparse Mesh Representation},
+  booktitle = {Proceedings of Pacific Graphics Short Papers},
+  author = {Fuentes Perez, Lizeth J. and Romero Calla, Luciano A. and Montenegro, Anselmo A. and Mura, Claudio and Pajarola, Renato},
+  date = {2020},
+  pages = {25--30},
+  doi = {10.2312/pg.20201226},
+  url = {https://www.zora.uzh.ch/id/eprint/193666/},
+  keywords = {geometry processing,graphics}
+}
+
+@inproceedings{Guindy:2021_7,
+  title = {The Perceptually-Supported and the Subjectively-Preferred Viewing Distance of Projection-Based Light Field Displays},
+  booktitle = {2021 International Conference on {{3D}} Immersion ({{IC3D}})},
+  author = {Kara, Peter A. and Guindy, Mary and Balogh, Tibor and Simon, Aniko},
+  date = {2021},
+  pages = {1--8},
+  doi = {10.1109/IC3D53758.2021.9687222},
+  url = {https://eprints.kingston.ac.uk/id/eprint/50847/}
+}
+
+@article{https://doi.org/10.1111/cgf.142640,
+  title = {{{Walk2Map}}: Extracting Floor Plans from Indoor Walk Trajectories},
+  author = {Mura, Claudio and Pajarola, Renato and Schindler, Konrad and Mitra, Niloy},
+  date = {2021},
+  journaltitle = {Computer Graphics Forum},
+  volume = {40},
+  number = {2},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.142640},
+  pages = {375--388},
+  doi = {10.1111/cgf.142640},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.142640},
+  abstract = {Abstract Recent years have seen a proliferation of new digital products for the efficient management of indoor spaces, with important applications like emergency management, virtual property showcasing and interior design. While highly innovative and effective, these products rely on accurate 3D models of the environments considered, including information on both architectural and non-permanent elements. These models must be created from measured data such as RGB-D images or 3D point clouds, whose capture and consolidation involves lengthy data workflows. This strongly limits the rate at which 3D models can be produced, preventing the adoption of many digital services for indoor space management. We provide a radical alternative to such data-intensive procedures by presenting Walk2Map, a data-driven approach to generate floor plans only from trajectories of a person walking inside the rooms. Thanks to recent advances in data-driven inertial odometry, such minimalistic input data can be acquired from the IMU readings of consumer-level smartphones, which allows for an effortless and scalable mapping of real-world indoor spaces. Our work is based on learning the latent relation between an indoor walk trajectory and the information represented in a floor plan: interior space footprint, portals, and furniture. We distinguish between recovering area-related (interior footprint, furniture) and wall-related (doors) information and use two different neural architectures for the two tasks: an image-based Encoder-Decoder and a Graph Convolutional Network, respectively. We train our networks using scanned 3D indoor models and apply them in a cascaded fashion on an indoor walk trajectory at inference time. We perform a qualitative and quantitative evaluation using both trajectories simulated from scanned models of interiors and measured, real-world trajectories, and compare against a baseline method for image-to-image translation. The experiments confirm that our technique is viable and allows recovering reliable floor plans from minimal walk trajectory data.},
+  keywords = {• Computing methodologies → Reconstruction,CCS Concepts,Machine learning,Object detection,Scene understanding}
+}
+
+@article{isprs-archives-XLIII-B1-2022-121-2022,
+  title = {Indoor Mobile Mapping Systems and (Bim) Digital Models for Construction Progress Monitoring},
+  author = {Sgrenzaroli, M. and Ortiz Barrientos, J. and Vassena, G. and Sanchez, A. and Ciribini, A. and Mastrolembo Ventura, S. and Comai, S.},
+  date = {2022},
+  journaltitle = {The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume = {XLIII-B1-2022},
+  pages = {121--127},
+  doi = {10.5194/isprs-archives-XLIII-B1-2022-121-2022},
+  url = {https://isprs-archives.copernicus.org/articles/XLIII-B1-2022/121/2022/}
+}
+
+@article{Laccone:2020,
+  title = {A Bending-Active Twisted-Arch Plywood Structure: Computational Design and Fabrication of the {{FlexMaps}} Pavilion},
+  author = {Laccone, Francesco and Malomo, Luigi and Pérez, Jesús and Pietroni, Nico and Ponchio, Federico and Bickel, Bernd and Cignoni, Paolo},
+  date = {2020},
+  journaltitle = {SN Applied Sciences},
+  volume = {2},
+  number = {9},
+  pages = {1505},
+  doi = {10.1007/s42452-020-03305-w},
+  url = {https://doi.org/10.1007/s42452-020-03305-w},
+  abstract = {Bending-active structures are able to efficiently produce complex curved shapes from flat panels. The desired deformation of the panels derives from the proper selection of their elastic properties. Optimized panels, called FlexMaps, are designed such that, once they are bent and assembled, the resulting static equilibrium configuration matches a desired input 3D shape. The FlexMaps elastic properties are controlled by locally varying spiraling geometric mesostructures, which are optimized in size and shape to match specific bending requests, namely the global curvature of the target shape. The design pipeline starts from a quad mesh representing the input 3D shape, which defines the edge size and the total amount of spirals: every quad will embed one spiral. Then, an optimization algorithm tunes the geometry of the spirals by using a simplified pre-computed rod model. This rod model is derived from a non-linear regression algorithm which approximates the non-linear behavior of solid FEM spiral models subject to hundreds of load combinations. This innovative pipeline has been applied to the project of a lightweight plywood pavilion named FlexMaps Pavilion, which is a single-layer piecewise twisted arch that fits a bounding box of 3.90x3.96x3.25 meters. This case study serves to test the applicability of this methodology at the architectural scale. The structure is validated via FE analyses and the fabrication of the full scale prototype.},
+  da = {2020/08/12},
+  date-added = {2020-11-11 9:21:41 PM +0100},
+  date-modified = {2020-11-11 9:21:41 PM +0100},
+  isbn = {2523-3971},
+  ty = {JOUR}
+}
+
+@inproceedings{LMMC22,
+  title = {Exploratory Study on a Segmented Shell Made of Recycled-{{HDPE}} Plastic},
+  booktitle = {Inspiring the next Generation, p.3590; International Conference on Spatial Structures 2020/21, 7},
+  author = {Laccone, Francesco and Manolas, Iason and Malomo, Luigi and Cignoni, Paolo},
+  editor = {SEYED ALIREZA BEHNEJAD, GAR Parke, OMIDALI SAMAVATI},
+  date = {2022},
+  publisher = {{Spatial Structures Research Centre of the University of Surrey}},
+  url = {http://vcg.isti.cnr.it/Publications/2022/LMMC22},
+  keywords = {bending,conceptual design,construction systems,dry-assembly,non-funicular,recycled polyethylene,segmented shell,structural design}
+}
+
+@article{MANOLAS2022141,
+  title = {Automated Generation of Flat Tileable Patterns and {{3D}} Reduced Model Simulation},
+  author = {Manolas, Iason and Laccone, Francesco and Cherchi, Gianmarco and Malomo, Luigi and Cignoni, Paolo},
+  date = {2022},
+  journaltitle = {Computers \& Graphics},
+  volume = {106},
+  pages = {141--151},
+  issn = {0097-8493},
+  doi = {10.1016/j.cag.2022.05.020},
+  url = {https://www.sciencedirect.com/science/article/pii/S0097849322000929},
+  abstract = {The computational fabrication community is developing an increasing interest in the use of patterned surfaces, which can be designed to show ornamental and unconventional aesthetics or to perform as a proper structural material with a wide range of features. Geometrically designing and controlling the deformation capabilities of these patterns in response to external stimuli is a complex task due to the large number of variables involved. This paper introduces a method for generating sets of tileable and exchangeable flat patterns as well as a model-reduction strategy that enables their mechanical simulation at interactive rates. This method is included in a design pipeline that aims to turn any general flat surface into a pattern tessellation, which is able to deform under a given loading scenario. To validate our approach, we apply it to different contexts, including real-scale 3D printed specimens, for which we compare our results with the ones provided by a ground-truth solver.},
+  keywords = {Computational design,Digital fabrication,Simulation}
+}
+
+@inproceedings{Mary:2021_1,
+  title = {Interaction Methods for Light Field Displays by Means of a Theater Model Environment},
+  booktitle = {Holography: {{Advances}} and Modern Trends {{VII}}},
+  author = {Guindy, Mary and Barsi, Attila and Kara, Peter A. and Balogh, Tibor and Simon, Aniko},
+  editor = {Fimia, Antonio and Hrabovský, Miroslav and Sheridan, John T.},
+  date = {2021-04},
+  volume = {11774},
+  pages = {109--118},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2589126},
+  url = {https://doi.org/10.1117/12.2589126},
+  keywords = {3D rendering,Light field,Light field visualization,User interface}
+}
+
+@inproceedings{Mary:2021_2,
+  title = {Realistic Physical Camera Motion for Light Field Visualization},
+  booktitle = {Holography: {{Advances}} and Modern Trends {{VII}}},
+  author = {Guindy, Mary and Barsi, Attila and Kara, Peter A. and Balogh, Tibor and Simon, Aniko},
+  editor = {Fimia, Antonio and Hrabovský, Miroslav and Sheridan, John T.},
+  date = {2021-04},
+  volume = {11774},
+  pages = {70--77},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2589128},
+  url = {https://doi.org/10.1117/12.2589128},
+  keywords = {Camera motion,Cinematography,Light field,Physical camera simulation,Virtual cameras}
+}
+
+@inproceedings{Mary:2021_3,
+  title = {On the Simulation of Hand-Held Cameras in Light-Field Rendering},
+  booktitle = {Holography: {{Advances}} and Modern Trends {{VII}}},
+  author = {Guindy, Mary and Barsi, Attila and Kara, Peter A. and Balogh, Tibor and Simon, Aniko},
+  editor = {Fimia, Antonio and Hrabovský, Miroslav and Sheridan, John T.},
+  date = {2021-04},
+  volume = {11774},
+  pages = {119--124},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2589129},
+  url = {https://doi.org/10.1117/12.2589129},
+  keywords = {3D rendering,Camera motion,Camera motion path,Hand-held cameras,Light field}
+}
+
+@article{Mary:2022,
+  title = {Beyond Perceptual Thresholds and Personal Preference: Towards Novel Research Questions and Methodologies of Quality of Experience Studies on Light Field Visualization},
+  author = {Kara, Peter A. and Tamboli, Roopak R. and Shafiee, Edris and Martini, Maria G. and Simon, Aniko and Guindy, Mary},
+  date = {2022-03},
+  journaltitle = {Electronicsweek},
+  shortjournal = {Electronics},
+  volume = {11},
+  number = {6},
+  pages = {953},
+  publisher = {{MDPI AG}},
+  issn = {2079-9292},
+  doi = {10.3390/electronics11060953},
+  url = {http://dx.doi.org/10.3390/electronics11060953}
+}
+
+@inproceedings{Mary/12.2633613,
+  title = {Classroom: Synthetic High Dynamic Range Light Field Dataset},
+  booktitle = {Applications of Digital Image Processing {{XLV}}},
+  author = {Guindy, Mary and Adhikarla, Vamsi K. and Kara, Peter Andras and Balogh, Tibor and Simon, Aniko},
+  date = {2022},
+  pages = {22--24},
+  publisher = {{SPIE}},
+  url = {https://eprints.kingston.ac.uk/id/eprint/52218}
+}
+
+@article{MOHANTO2021,
+  title = {An Integrative View of Foveated Rendering},
+  author = {Mohanto, Bipul and Islam, ABM Tariqul and Gobbetti, Enrico and Staadt, Oliver},
+  date = {2021},
+  journaltitle = {Computers \& Graphics},
+  issn = {0097-8493},
+  doi = {10.1016/j.cag.2021.10.010},
+  url = {https://www.sciencedirect.com/science/article/pii/S0097849321002211},
+  abstract = {Foveated rendering adapts the image synthesis process to the user’s gaze. By exploiting the human visual system’s limitations, in particular in terms of reduced acuity in peripheral vision, it strives to deliver high-quality visual experiences at very reduced computational, storage, and transmission costs. Despite the very substantial progress made in the past decades, the solution landscape is still fragmented, and several research problems remain open. In this work, we present an up-to-date integrative view of the domain from the point of view of the rendering methods employed, discussing general characteristics, commonalities, differences, advantages, and limitations. We cover, in particular, techniques based on adaptive resolution, geometric simplification, shading simplification, chromatic degradation, as well spatio-temporal deterioration. Next, we review the main areas where foveated rendering is already in use today. We finally point out relevant research issues and analyze research trends.},
+  keywords = {Adaptive resolution,Chromatic degradation,Foveated rendering,Gaze-contingent rendering,Geometric simplification,Shading simplification,Spatio-temporal deterioration}
+}
+
+@article{Moonisa:2022,
+  title = {Audio-Visual Annotation Graphs for Guiding Lens-Based Scene Exploration},
+  author = {Ahsan, Moonisa and Marton, Fabio and Pintus, Ruggero and Gobbetti, Enrico},
+  date = {2022},
+  journaltitle = {Computers \& Graphics},
+  issn = {0097-8493},
+  doi = {10.1016/j.cag.2022.05.003},
+  url = {https://dspace.crs4.it/jspui/handle/1138/38},
+  keywords = {Annotations,Guidance,Guided tour,Interactive exploration,Interactive visualization lenses,User interfaces}
+}
+
+@inproceedings{oai:it.cnr:prodotti:473398,
+  title = {A Computational Tool for the Analysis of {{3D}} Bending-Active Structures Based on the Dynamic Relaxation Method},
+  booktitle = {Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference, Cagliari, Italy, 17-18/11/2022},
+  author = {Manolas, Iason and Laccone, Francesco and Cherchi, Gianmarco and Malomo, Luigi and Cignoni, Paolo},
+  date = {2022},
+  publisher = {{Eurographics Association, Eindhoven, NLD}},
+  doi = {10.2312/stag.20221250},
+  url = {https://openportal.isti.cnr.it/doc?id=people______::1c90814c2536f51ed873823f98d6778d}
+}
+
+@inproceedings{Peter:2021_8,
+  title = {Recommendations on the Viewing Distance of Light Field Displays},
+  booktitle = {Digital Optical Technologies 2021},
+  author = {Kara, Peter A. and Barsi, Attila and Tamboli, Roopak R. and Guindy, Mary and Martini, Maria G. and Balogh, Tibor and Simon, Aniko},
+  editor = {Kress, Bernard C. and Peroz, Christophe},
+  date = {2021},
+  volume = {11788},
+  pages = {166--179},
+  publisher = {{SPIE / International Society for Optics and Photonics}},
+  doi = {10.1117/12.2594266},
+  url = {https://doi.org/10.1117/12.2594266},
+  keywords = {3D perception,key performance indicators,light field,user-centric design,viewing conditions}
+}
+
+@article{Pintore:2020:SI3,
+  title = {State-of-the-Art in Automatic {{3D}} Reconstruction of Structured Indoor Environments},
+  author = {Pintore, Giovanni and Mura, Claudio and Ganovelli, Fabio and Fuentes-Perez, Lizeth and Pajarola, Renato and Gobbetti, Enrico},
+  date = {2020},
+  journaltitle = {Computer Graphics Forum},
+  volume = {39},
+  number = {2},
+  doi = {10.1111/cgf.14021},
+  url = {https://dspace.crs4.it/jspui/handle/1138/12},
+  abstract = {Creating high-level structured 3D models of real-world indoor scenes from captured data is a fundamental task which has important applications in many fields. Given the complexity and variability of interior environments and the need to cope with noisy and partial captured data, many open research problems remain, despite the substantial progress made in the past decade. In this survey, we provide an up-to-date integrative view of the field, bridging complementary views coming from computer graphics and computer vision. After providing a characterization of input sources, we define the structure of output models and the priors exploited to bridge the gap between imperfect sources and desired output. We then identify and discuss the main components of a structured reconstruction pipeline, and review how they are combined in scalable solutions working at the building level. We finally point out relevant research issues and analyze research trends.}
+}
+
+@inproceedings{Pintore:2021_CVPR,
+  title = {{{SliceNet}}: Deep Dense Depth Estimation from a Single Indoor Panorama Using a Slice-Based Representation},
+  booktitle = {Proceedings of the {{IEEE}}/{{CVF}} Conference on Computer Vision and Pattern Recognition ({{CVPR}})},
+  author = {Pintore, Giovanni and Agus, Marco and Almansa, Eva and Schneider, Jens and Gobbetti, Enrico},
+  date = {2021-06},
+  pages = {11536--11545},
+  url = {https://dspace.crs4.it/jspui/handle/1138/32}
+}
+
+@article{Pintore:2021:GAR,
+  title = {{{Deep3DLayout}}: {{3D}} Reconstruction of an Indoor Layout from a Spherical Panoramic Image},
+  author = {Pintore, Giovanni and Almansa, Eva and Agus, Marco and Gobbetti, Enrico},
+  date = {2021-12},
+  journaltitle = {ACM Transactions on Graphics},
+  volume = {40},
+  number = {6},
+  pages = {250:1--250:12},
+  doi = {10.1145/3478513.3480480},
+  url = {http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id='Pintore:2021:GAR'}
+}
+
+@article{Pintore:2023:DPD,
+  title = {Deep Panoramic Depth Prediction and Completion for Indoor Scenes},
+  author = {Pintore, Giovanni and Almansa, Eva and Sanchez, Armando and Vassena, Giorgio and Gobbetti, Enrico},
+  date = {2023},
+  journaltitle = {Computational Visual Media},
+  url = {http://vic.crs4.it/vic/cgi-bin/bib-page.cgi?id='Pintore:2023:DPD'},
+  abstract = {We introduce a novel end-to-end deep learning solution for rapidly estimating a dense spherical depth map of an indoor environment. Our input is a single equirectangular image registered with a sparse depth map, as provided by a variety of common capture setups. Depth is inferred by an efficient and lightweight single-branch network, which employs a dynamic gating system to process together dense visual data and sparse geometric data. We exploit the characteristics of typical man-made environments to efficiently compress multi-resolution features and find short- and long-range relations among scene parts. Furthermore, we introduce a new augmentation strategy to make the model robust to different types of sparsity, including those generated by various structured light sensors and LiDAR setups. The experimental results demonstrate that our method provides interactive performance and outperforms state-of-the-art solutions in computational efficiency, adaptivity to variable depth sparsity patterns, and prediction accuracy for challenging indoor data, even when trained solely on synthetic data without any fine tuning.}
+}
+
+@inproceedings{PMGFPG:20b,
+  title = {Automatic {{3D}} Reconstruction of Structured Indoor Environments},
+  booktitle = {{{ACM SIGGRAPH Tutorials}}},
+  author = {Pintore, Giovanni and Mura, Claudio and Ganovelli, Fabio and Fuentes-Perez, Lizeth and Pajarola, Renato and Gobbetti, Enrico},
+  date = {2020},
+  doi = {10.1145/3388769.3407469},
+  url = {https://dspace.crs4.it/jspui/handle/1138/13},
+  keywords = {3D reconstruction,architecture,floor plans,graphics,indoor scene reconstruction,point cloud,scanning,segmentation}
+}
+
+@inproceedings{RMPS:23,
+  title = {Multi-Display Ray Tracing Framework},
+  booktitle = {Eurographics 2023 - Posters},
+  author = {Romero Calla, Luciano Arnaldo and Mohanto, Bipul and Pajarola, Renato and Staadt, Oliver},
+  editor = {Singh, Gurprit and Chu, Mengyu (Rachel)},
+  date = {2023},
+  publisher = {{The Eurographics Association}},
+  issn = {1017-4656},
+  doi = {10.2312/egp.20231025},
+  isbn = {978-3-03868-211-0}
+}
+
+@inproceedings{Siddique:stag.20211489,
+  title = {Evaluating Deep Learning Methods for Low Resolution Point Cloud Registration in Outdoor Scenarios},
+  booktitle = {Smart Tools and Apps for Graphics - Eurographics Italian Chapter Conference},
+  author = {Siddique, Arslan and Corsini, Massimiliano and Ganovelli, Fabio and Cignoni, Paolo},
+  editor = {Frosini, Patrizio and Giorgi, Daniela and Melzi, Simone and Rodola, Emanuele},
+  date = {2021},
+  publisher = {{The Eurographics Association}},
+  issn = {2617-4855},
+  doi = {10.2312/stag.20211489},
+  url = {https://openportal.isti.cnr.it/doc?id=people______::ef8db891a81ad9a13f030f3e4dc2e14c},
+  isbn = {978-3-03868-165-6}
+}
+
+@inproceedings{Tarek:2023,
+  title = {Effect of Polarization on {{RGB}} Imaging and Color Accuracy/Fidelity},
+  booktitle = {Color and Imaging Conference},
+  author = {Haila, Tarek Abu and Tausch, Reimar and Ritz, Martin and Santos, Pedro and Fellner, Dieter},
+  date = {2022},
+  publisher = {{Society for Imaging Science and Technology}},
+  doi = {10.2352/CIC.2022.30.1.30},
+  url = {https://doi.org/10.2352/CIC.2022.30.1.30}
+}
+
+@article{Tarek:2023_2,
+  title = {A Cross-Polarization as a Possible Cause for Color Shift in Illumination},
+  author = {Haila, Tarek Abu and Tausch, Reimar and Ritz, Martin and Santos, Pedro and Fellner, Dieter},
+  date = {2023},
+  journaltitle = {Electronic Imaging},
+  volume = {35},
+  publisher = {{Society for Imaging Science and Technology}},
+  doi = {10.2352/EI.2023.35.15.COLOR-192},
+  url = {https://doi.org/10.2352/EI.2023.35.15.COLOR-192}
+}
+
+@article{Tausch:2020,
+  title = {Towards {{3D}} Digitization in the {{GLAM}} (Galleries, Libraries, Archives, and Museums) Sector: Lessons Learned and Future Outlook},
+  author = {Tausch, Reimar and Domajnko, Matevz and Ritz, Martin and Knuth, Martin and Santos, Pedro and Fellner, Dieter W.},
+  date = {2020-01},
+  journaltitle = {IPSI Transactions on Internet Research},
+  volume = {16},
+  number = {1},
+  pages = {45--53},
+  url = {http://publica.fraunhofer.de/documents/N-578457.html},
+  keywords = {3D data acquisition,3D scanning,automation,next-best view planning,path planning}
+}
